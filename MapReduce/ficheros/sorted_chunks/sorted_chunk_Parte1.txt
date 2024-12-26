@@ -1,0 +1,8506 @@
+<,[1, 1, 1, 1]>
+<A,[5, 3, 9, 6, 6, 19, 9, 5, 5, 5]>
+<ACCIDENT,[1]>
+<ACTUAL,[1]>
+<ADVERTISEMENTS,[1]>
+<AGREE,[2]>
+<AGREEMENT,[1]>
+<AIR,[1]>
+<AMY,[1, 1, 1]>
+<AND,[2, 1, 1, 1, 1, 1]>
+<ANNIVERSARY,[1]>
+<ANY,[3]>
+<ANYTHING,[1]>
+<APOLLYON,[1]>
+<AS,[1]>
+<ASCII,[2]>
+<AUNT,[1]>
+<About,[1, 1, 1]>
+<Abroad,[1]>
+<Accept,[2]>
+<Ach,[1]>
+<Additional,[1]>
+<Adelon,[2]>
+<Adieu,[1]>
+<Afghan,[1]>
+<After,[1, 1, 1, 2, 1, 1, 3, 3]>
+<Again,[2]>
+<Ah,[3, 4, 1, 1]>
+<Aid,[1]>
+<Ain,[1]>
+<Alas,[1]>
+<Alcibiades,[1]>
+<All,[3, 1, 3, 1, 3, 1, 7, 2, 1]>
+<Allow,[1]>
+<Allyluyer,[1]>
+<Almost,[1]>
+<Alone,[1]>
+<Along,[1]>
+<Alpine,[1]>
+<Also,[1, 2, 1]>
+<Although,[1, 1]>
+<Am,[2, 1]>
+<Ambitious,[1]>
+<Amen,[1]>
+<America,[1, 3]>
+<American,[2, 1, 1]>
+<Americans,[1]>
+<Amy,[19, 19, 11, 65, 23, 25, 14, 26, 56, 12]>
+<An,[1, 1, 1, 1]>
+<And,[8, 13, 9, 18, 14, 14, 13, 13, 11, 10]>
+<Angelo,[1]>
+<Anni,[1]>
+<Annie,[1, 15, 1]>
+<Another,[1, 1]>
+<Antonio,[2]>
+<Anxious,[1]>
+<Any,[1, 1, 1]>
+<Anything,[1]>
+<Apollyon,[1]>
+<April,[1, 1]>
+<Arabian,[1]>
+<Archive,[13]>
+<Are,[1, 2, 2, 1, 1, 1, 1]>
+<Aren,[1, 1, 1, 1]>
+<Aristotle,[1]>
+<Artful,[1]>
+<As,[1, 4, 5, 2, 10, 5, 2, 7, 4, 5]>
+<Ashamed,[1]>
+<Ask,[1]>
+<At,[1, 2, 1, 5, 1, 2, 5, 4]>
+<Atlanta,[1]>
+<August,[1]>
+<Augustus,[1]>
+<Aunt,[4, 11, 3, 2, 3, 3, 7, 26, 1]>
+<Author,[1]>
+<Authors,[2]>
+<Avenger,[1]>
+<Away,[1, 1]>
+<Aye,[5]>
+<B,[1, 1]>
+<BE,[1]>
+<BEAUTIFUL,[1]>
+<BEFORE,[1]>
+<BEING,[1]>
+<BEREAVEMENT,[1]>
+<BETH,[1, 1, 1, 1]>
+<BLUGGAGE,[1]>
+<BOUNCER,[1]>
+<BREACH,[2]>
+<BURDENS,[1]>
+<BUT,[1]>
+<Babel,[1]>
+<Baby,[1]>
+<Back,[1]>
+<Bacon,[1]>
+<Bad,[1, 1]>
+<Bangs,[1, 1, 5]>
+<Barker,[1]>
+<Barnville,[1]>
+<Be,[1, 1, 1, 3, 1]>
+<Beautiful,[2]>
+<Because,[2, 1, 2, 1]>
+<Bee,[2]>
+<Before,[1, 2, 1, 1, 2, 1]>
+<Begging,[1]>
+<Begin,[1]>
+<Behold,[1]>
+<Being,[1]>
+<Believe,[1]>
+<Believing,[1]>
+<Belle,[16, 1]>
+<Belsham,[4]>
+<Bent,[1]>
+<Besides,[1]>
+<Bess,[1]>
+<Beth,[7, 26, 4, 46, 8, 32, 23, 45, 53, 18]>
+<Beths,[1]>
+<Bethy,[1, 1, 1]>
+<Better,[1, 1]>
+<Betty,[1]>
+<Bhaer,[42, 12]>
+<Bhaers,[2]>
+<Birds,[2]>
+<Blanc,[1]>
+<Blank,[1]>
+<Bless,[1, 1, 1, 2, 3, 4]>
+<Blimber,[1]>
+<Bliss,[1]>
+<Blue,[1]>
+<Boaz,[1]>
+<Bon,[1]>
+<Bosun,[1]>
+<Boswell,[1]>
+<Both,[2]>
+<Boys,[1, 1, 1]>
+<Breakfast,[1]>
+<Bremer,[1]>
+<Bring,[2, 1, 1]>
+<British,[2]>
+<Brooke,[2, 1, 7, 26, 11, 4, 24]>
+<Brookes,[1, 1]>
+<Brown,[1, 2, 1]>
+<Bryant,[2]>
+<Buffaloes,[1]>
+<Bull,[1]>
+<Burney,[1]>
+<Busy,[2]>
+<But,[13, 11, 8, 10, 11, 11, 5, 6, 9, 8]>
+<Buy,[1]>
+<Buzz,[1]>
+<By,[2, 4, 2, 3, 1]>
+<C,[2, 3, 3]>
+<CAMP,[1]>
+<CASTLES,[1]>
+<CHAPTER,[3, 2, 1, 3, 2, 2, 2, 3, 3, 3]>
+<COLONEL,[1]>
+<CONFIDENTIAL,[1]>
+<CONSEQUENTIAL,[1]>
+<CONTRACT,[1]>
+<CORNER,[1]>
+<CURTIS,[1]>
+<Cabbages,[1]>
+<Call,[1, 1]>
+<Camp,[1]>
+<Can,[1, 4, 1, 1, 1, 3, 5]>
+<Canada,[1]>
+<Caroline,[1]>
+<Carved,[1]>
+<Castles,[2]>
+<Catch,[3]>
+<Catherine,[1]>
+<Catholic,[1]>
+<Celestial,[2]>
+<Certainly,[2]>
+<Chair,[1]>
+<Change,[1, 1]>
+<Chere,[1]>
+<Cherie,[1]>
+<Chick,[1]>
+<Chief,[1]>
+<Child,[1]>
+<Children,[1]>
+<Chiny,[1]>
+<Chloe,[1]>
+<Christ,[1]>
+<Christian,[1, 1]>
+<Christmas,[2, 1, 8]>
+<Christopher,[1]>
+<Cinderella,[1]>
+<City,[1, 2]>
+<Clara,[4]>
+<Club,[1, 1]>
+<Co,[1]>
+<Cockle,[1]>
+<Coffee,[1]>
+<Colonel,[1]>
+<Columbus,[1]>
+<Columella,[1]>
+<Come,[3, 3, 2, 2, 5, 1, 4]>
+<Commander,[2]>
+<Commissary,[1]>
+<Compliance,[1]>
+<Constantine,[1]>
+<Contact,[1]>
+<Contentment,[1]>
+<Contrary,[1]>
+<Contributions,[1]>
+<Copyright,[1]>
+<Could,[1, 1]>
+<Couldn,[1, 1]>
+<Count,[5, 1]>
+<Courage,[1]>
+<Cowley,[1]>
+<Creating,[1]>
+<Croaker,[1]>
+<Crocker,[6]>
+<Cuddle,[1]>
+<Curiosity,[1]>
+<Curly,[1]>
+<Curtis,[2]>
+<Cutlasses,[1]>
+<Cutter,[3]>
+<Cyclops,[1]>
+<D,[1]>
+<DAISY,[1]>
+<DAMAGE,[1]>
+<DAMAGES,[2]>
+<DARK,[1]>
+<DAYS,[1]>
+<DEMI,[1]>
+<DIRECT,[1]>
+<DISCLAIMER,[1]>
+<DISTRIBUTE,[1]>
+<DISTRIBUTOR,[1]>
+<DONATIONS,[1]>
+<DUSTPAN,[1]>
+<Daisey,[1]>
+<Daisy,[9, 3, 4]>
+<Dame,[1]>
+<Dance,[1]>
+<Dancing,[1]>
+<David,[1]>
+<Davis,[1, 15]>
+<Day,[1]>
+<De,[1]>
+<Dear,[1, 1, 1, 2, 1, 2, 2, 4]>
+<Dearest,[1]>
+<Death,[1]>
+<December,[1]>
+<Deeds,[1]>
+<Defect,[1]>
+<Defects,[1]>
+<Delectable,[1]>
+<Demi,[23, 2]>
+<Desert,[1]>
+<Despite,[1]>
+<Devereux,[2]>
+<Diamond,[1]>
+<Diaries,[1]>
+<Dickens,[1]>
+<Dicks,[1]>
+<Did,[1, 4, 1, 2, 3, 2]>
+<Didn,[1, 1, 1, 3, 3]>
+<Die,[1]>
+<Dim,[2]>
+<Disgusted,[1]>
+<Divine,[2]>
+<Do,[3, 2, 4, 5, 1, 1, 4, 1, 4, 5]>
+<Doctor,[1, 1]>
+<Dod,[1]>
+<Dodgers,[1]>
+<Dodo,[4]>
+<Does,[2]>
+<Doesn,[1]>
+<Doing,[1]>
+<Doll,[1]>
+<Domino,[1]>
+<Don,[3, 12, 2, 6, 8, 5, 8, 10, 3, 12]>
+<Donations,[2]>
+<Dora,[2]>
+<Dorcas,[1]>
+<Dovecote,[1]>
+<Down,[1, 1, 1, 1, 1]>
+<Dr,[1, 1, 5]>
+<Dranpa,[2]>
+<Dreams,[1]>
+<During,[1, 3, 1, 1]>
+<E,[22]>
+<EBOOK,[1]>
+<ED,[1]>
+<EIGHT,[1]>
+<EIGHTEEN,[1]>
+<EIN,[1]>
+<ELEVEN,[1]>
+<END,[1]>
+<EVEN,[1]>
+<EXCEPT,[1]>
+<EXPERIMENTS,[1]>
+<EXPRESS,[1]>
+<Each,[1, 1, 1]>
+<Eagle,[1]>
+<Eagles,[1]>
+<Earl,[1]>
+<Earth,[1]>
+<Edgeworth,[1]>
+<Egypt,[1]>
+<Elizabeth,[1]>
+<Ellen,[1, 3]>
+<Email,[1]>
+<Emil,[1, 1]>
+<Endeavor,[1]>
+<English,[1, 4, 2]>
+<Englishwoman,[1]>
+<Essays,[1]>
+<Estelle,[2]>
+<Esther,[12]>
+<Evelina,[1]>
+<Even,[1, 1, 1]>
+<Evening,[1]>
+<Ever,[1]>
+<Every,[3, 1, 2, 1]>
+<Everybody,[4, 2, 1]>
+<Everyone,[2, 1, 2, 2, 1, 2]>
+<Everything,[1, 1, 1, 2, 1, 1]>
+<Exactly,[1]>
+<Excellently,[1]>
+<Except,[2]>
+<Excuse,[1, 1]>
+<F,[11]>
+<FAIR,[1]>
+<FAITHFUL,[1]>
+<FIFTEEN,[1]>
+<FINDS,[1]>
+<FITNESS,[1]>
+<FIVE,[1, 1]>
+<FOR,[3, 1]>
+<FORTY,[3, 1]>
+<FOUNDATION,[1]>
+<FOUR,[1, 1]>
+<FOURTEEN,[1]>
+<FROM,[1]>
+<FULL,[2]>
+<Faded,[1]>
+<Fans,[1]>
+<Father,[4, 2, 3, 2, 5, 1, 1, 18, 7, 9]>
+<Fatherland,[1]>
+<Fearing,[1]>
+<Feeling,[2, 2, 1]>
+<Ferdinand,[2]>
+<Fessor,[1]>
+<Fiddlesticks,[1]>
+<Fighting,[1]>
+<Finding,[1, 1]>
+<Finish,[1, 1]>
+<Fire,[1]>
+<Fisher,[2]>
+<Five,[1]>
+<Flora,[1]>
+<Florence,[1]>
+<Fly,[1]>
+<For,[6, 5, 5, 5, 1, 3, 6, 3]>
+<Forever,[1]>
+<Forgive,[1, 1, 1]>
+<Fortunately,[1]>
+<Foundation,[24]>
+<Four,[6]>
+<France,[1]>
+<Frank,[2, 9]>
+<Franz,[1, 1]>
+<Fred,[8, 13]>
+<French,[2, 3, 2, 2, 1]>
+<Frenchwoman,[2]>
+<Friday,[2]>
+<Friedrich,[1, 3]>
+<Friend,[1, 1, 1]>
+<Fritz,[1, 7]>
+<From,[1, 1, 1, 1]>
+<Full,[1]>
+<Fulness,[1]>
+<Fun,[1]>
+<Funny,[1]>
+<GARRET,[1]>
+<GIVE,[1]>
+<GOES,[1]>
+<GREEK,[1]>
+<GUTENBERG,[3]>
+<Gamp,[1]>
+<Gardening,[1]>
+<Gardiner,[3, 2]>
+<Gardiners,[1]>
+<Gate,[1]>
+<Gay,[1]>
+<General,[3, 1]>
+<Genius,[1]>
+<Gentlemen,[1]>
+<George,[1, 1]>
+<German,[1, 2, 1, 1, 3, 1]>
+<Germanic,[1]>
+<Germans,[1]>
+<Germany,[2, 1]>
+<Get,[1, 1, 2, 1]>
+<Getting,[1]>
+<Gifts,[1]>
+<Girls,[1, 3, 1, 1]>
+<Give,[2]>
+<Glad,[1]>
+<Gladly,[1]>
+<Go,[1, 1, 1, 2, 4, 3, 1, 2]>
+<God,[1, 4, 1, 2, 3, 7, 3]>
+<Going,[1, 1, 2]>
+<Gold,[1]>
+<Goldenrod,[1]>
+<Gondola,[1]>
+<Good,[1, 1, 4, 5, 2, 2, 4, 2]>
+<Goodbye,[1, 1, 1]>
+<Gott,[1, 2]>
+<Grace,[1, 3, 7]>
+<Grandfather,[1, 1, 2, 1, 1]>
+<Grandma,[1, 3]>
+<Grandpa,[3, 1, 1, 2, 1]>
+<Grasshoppers,[1]>
+<Great,[1]>
+<Greatheart,[1]>
+<Grecian,[1]>
+<Greek,[1, 1]>
+<Guard,[1]>
+<Gustave,[1]>
+<Gutenberg,[82]>
+<HALE,[1]>
+<HARVEST,[1]>
+<HAVE,[1]>
+<HER,[1]>
+<HINTS,[1]>
+<HISTORY,[1]>
+<HUMILIATION,[1]>
+<Ha,[2, 3]>
+<Hadn,[1]>
+<Haf,[1]>
+<Half,[1, 1, 1, 1]>
+<Hall,[1, 1]>
+<Hamburg,[1]>
+<Hamlet,[2]>
+<Hand,[1]>
+<Handsome,[1]>
+<Hang,[1, 1]>
+<Hanged,[1]>
+<Hannah,[3, 11, 5, 2, 8, 1, 26, 26, 5]>
+<Happy,[1]>
+<Hark,[1]>
+<Harrys,[1]>
+<Hart,[1]>
+<Has,[1, 1, 1]>
+<Hattie,[1]>
+<Have,[1, 4, 1, 2, 1, 1, 1]>
+<Having,[1, 1, 2, 1, 1]>
+<He,[14, 9, 2, 15, 9, 7, 16, 10, 9, 23]>
+<Head,[2]>
+<Health,[1]>
+<Hear,[2]>
+<Hearing,[2]>
+<Heart,[1, 1, 1]>
+<Heavenly,[1]>
+<Heidelberg,[1]>
+<Heinrich,[1]>
+<Hem,[1, 1, 1]>
+<Her,[4, 4, 4, 4, 5, 1, 1, 1, 3]>
+<Here,[1, 3, 1, 5, 2, 6, 3, 1, 1, 8]>
+<Hey,[3]>
+<Highness,[1]>
+<Him,[2, 2]>
+<Hints,[1]>
+<His,[2, 2, 1, 1, 1, 1]>
+<Histories,[1]>
+<Hoffmann,[1]>
+<Hold,[1, 4, 1]>
+<Holding,[1, 1]>
+<Hollow,[1]>
+<Home,[2, 1]>
+<Hope,[2]>
+<Hopeful,[1]>
+<Hoping,[1]>
+<Hortense,[3]>
+<Hospital,[2]>
+<House,[1, 1]>
+<Housekeeping,[1]>
+<How,[6, 9, 4, 9, 6, 3, 9, 15, 6, 7]>
+<However,[1]>
+<Hum,[1, 2]>
+<Hummel,[4, 2]>
+<Hummels,[1, 3]>
+<Hurrah,[1]>
+<Hush,[1, 1, 2]>
+<I,[158, 246, 154, 170, 225, 157, 238, 256, 195, 269]>
+<IF,[1]>
+<IMPLIED,[1]>
+<IN,[2, 1]>
+<INCIDENTAL,[1]>
+<INCLUDING,[1]>
+<INDEMNITY,[1]>
+<INDIRECT,[1]>
+<IRS,[1]>
+<IS,[1]>
+<If,[15, 8, 18, 9, 2, 7, 12, 3, 7, 14]>
+<Impertinence,[1]>
+<In,[2, 1, 11, 1, 2, 3, 6, 4, 3, 1]>
+<Indeed,[1, 1]>
+<India,[1, 1]>
+<Indian,[1, 1]>
+<Information,[5]>
+<Instant,[1]>
+<Instantly,[1]>
+<Instead,[1]>
+<Internal,[1]>
+<International,[1]>
+<Into,[1]>
+<Irish,[1, 1]>
+<Is,[1, 2, 2, 1, 2, 2, 2, 3, 3]>
+<Isn,[2, 2, 1]>
+<It,[16, 27, 15, 18, 22, 22, 21, 35, 18, 22]>
+<Italian,[1]>
+<Italians,[1]>
+<Italy,[1, 1]>
+<Ivanhoe,[1]>
+<JAMES,[1, 1]>
+<JO,[1, 1, 1]>
+<JUNGFRAU,[1]>
+<James,[1]>
+<Jenny,[5]>
+<Jimmy,[2]>
+<Jo,[73, 96, 49, 91, 62, 76, 68, 88, 60, 96]>
+<Joanna,[1, 2, 2, 1]>
+<John,[1, 3, 1, 1, 4, 17]>
+<Johnson,[1]>
+<Johnsonian,[1]>
+<Joian,[1]>
+<Josephine,[1, 1]>
+<Josy,[3]>
+<Josyphine,[1]>
+<Jove,[2]>
+<July,[1]>
+<June,[3]>
+<Jungfrau,[1]>
+<Junglings,[1]>
+<Jupiter,[1]>
+<Just,[1, 5, 2, 2, 2, 2]>
+<KIND,[1]>
+<Kate,[8, 19]>
+<Katy,[1, 1]>
+<Keep,[1, 3]>
+<Keeping,[1]>
+<King,[2, 1, 2]>
+<Kings,[2, 1, 2, 1]>
+<Kingsley,[1]>
+<Kiss,[1, 1]>
+<Kitchen,[1]>
+<Kittens,[1]>
+<Kitty,[2]>
+<Knights,[1]>
+<Know,[1]>
+<LADY,[1]>
+<LAMENT,[1]>
+<LAND,[1]>
+<LAST,[1]>
+<LAURENCE,[1, 1, 1]>
+<LAURIE,[1]>
+<LEAL,[1]>
+<LETTERS,[1]>
+<LIABILITY,[1]>
+<LIABLE,[1]>
+<LICENSE,[2]>
+<LIMITED,[3]>
+<LITTLE,[1, 2]>
+<LORD,[1]>
+<La,[1]>
+<Lady,[1, 1]>
+<Laertes,[1]>
+<Lake,[1, 1]>
+<Language,[1]>
+<Last,[1]>
+<Lastly,[1]>
+<Later,[1]>
+<Latin,[1, 2, 1]>
+<Laugh,[1]>
+<Laurence,[5, 10, 5, 17, 2, 5, 1, 9, 7, 13]>
+<Laurences,[1, 2, 1, 1]>
+<Laurie,[18, 29, 13, 44, 35, 30, 48, 34, 53, 38]>
+<Lawrence,[1]>
+<Laying,[1]>
+<Leaning,[1]>
+<Learn,[1]>
+<Leave,[1, 1]>
+<Leaving,[1]>
+<Legend,[1]>
+<Let,[1, 1, 1, 3, 1, 5, 1, 5]>
+<Letters,[1]>
+<License,[9]>
+<Lie,[1]>
+<Liebe,[1]>
+<Like,[2, 2, 2]>
+<Lincoln,[2]>
+<Lion,[1, 1]>
+<Literary,[13]>
+<Little,[1, 1, 2, 1, 1, 1]>
+<Lives,[1]>
+<Long,[1, 2, 1]>
+<Longmeadow,[2]>
+<Look,[2]>
+<Lord,[1, 1, 1]>
+<Lottchen,[2]>
+<Lotty,[2]>
+<Lounging,[1]>
+<Loved,[1]>
+<Lovely,[1]>
+<Lucky,[1]>
+<Lullabies,[1]>
+<Lying,[2]>
+<M,[2, 1]>
+<MAKES,[2]>
+<MARCH,[1, 1]>
+<MARRIAGE,[1]>
+<MASKED,[1]>
+<MAY,[1]>
+<MEADOWS,[1]>
+<MEETING,[1]>
+<MEETS,[1]>
+<MEG,[1, 1]>
+<MERCHANTABILITY,[1]>
+<MISCHIEF,[1]>
+<MISS,[1]>
+<MRS,[1]>
+<MY,[1, 1]>
+<Ma,[1]>
+<Madam,[1, 1, 2, 1, 1]>
+<Madame,[1, 8]>
+<Made,[1]>
+<Mademoiselle,[1, 3]>
+<Madonna,[1]>
+<Major,[2, 1]>
+<Make,[1, 1, 1, 1]>
+<Making,[1]>
+<Malaprop,[1]>
+<Mamma,[3, 1]>
+<Man,[1]>
+<Mansion,[1]>
+<Many,[1, 1]>
+<March,[14, 16, 14, 24, 16, 17, 3, 32, 39, 33]>
+<Marches,[1, 3, 1, 3, 1, 1]>
+<Margaret,[2, 3, 1, 4, 3, 2, 4]>
+<Maria,[1]>
+<Marmar,[2]>
+<Marmee,[1, 6, 2, 3, 4, 6, 3]>
+<Marsch,[2]>
+<Martin,[1]>
+<Mary,[2, 1, 2]>
+<May,[3, 1, 1, 1, 2, 1, 1]>
+<Maybe,[1]>
+<Mayn,[1]>
+<McFlimsey,[1]>
+<Me,[3, 1]>
+<Mean,[1]>
+<Meanwhile,[1]>
+<Meg,[5, 50, 8, 29, 76, 41, 47, 64, 40, 73]>
+<Meggy,[1]>
+<Memories,[1]>
+<Men,[1, 1]>
+<Merci,[1]>
+<Mercy,[1, 1, 1, 1]>
+<Michael,[1]>
+<Middling,[1]>
+<Mignon,[1]>
+<Millinery,[1]>
+<Milton,[1]>
+<Mind,[1]>
+<Mine,[1]>
+<Minna,[2, 1, 1]>
+<Mis,[1]>
+<Miss,[2, 4, 9, 9, 11, 21, 6, 2]>
+<Mission,[1]>
+<Mississippi,[1]>
+<Moffat,[1, 1, 17, 2, 2, 1, 1, 1]>
+<Moffats,[5]>
+<Monday,[1]>
+<Money,[1, 1, 1]>
+<Monsieur,[1]>
+<Mont,[1]>
+<Mop,[1]>
+<Most,[1]>
+<Mother,[4, 6, 4, 6, 21, 13, 4, 16, 18, 12]>
+<Mountain,[1]>
+<Mr,[47, 16, 10, 28, 6, 19, 22, 19, 10, 42]>
+<Mrs,[11, 8, 12, 12, 23, 13, 23, 12, 22]>
+<Much,[1, 1, 2, 1]>
+<Mullet,[2]>
+<Mum,[1]>
+<My,[6, 4, 3, 2, 11, 5, 4, 12, 1, 3]>
+<N,[2]>
+<NEGLIGENCE,[1]>
+<NEIGHBORLY,[1]>
+<NEW,[1]>
+<NINE,[1]>
+<NINETEEN,[1]>
+<NO,[2]>
+<NOT,[2]>
+<NOTICE,[1]>
+<Nan,[2]>
+<Napoleon,[1]>
+<Nathaniel,[1]>
+<Nearer,[1]>
+<Nearest,[1]>
+<Nearly,[1, 1]>
+<Ned,[4, 5, 10]>
+<Neither,[1, 1]>
+<Never,[1, 4, 3, 1, 3, 2, 1, 2, 1]>
+<New,[1, 1]>
+<News,[1]>
+<Next,[1, 3, 2]>
+<Nicely,[1]>
+<No,[4, 9, 2, 9, 9, 7, 5, 14, 10, 4]>
+<Nobody,[1, 1, 2]>
+<None,[1, 1]>
+<Nonsense,[1]>
+<Nor,[1, 4]>
+<North,[1]>
+<Not,[3, 7, 2, 6, 2, 2, 5, 1, 1, 3]>
+<Noter,[1]>
+<Nothing,[2, 1, 1, 1, 1]>
+<Nov,[1]>
+<November,[2]>
+<Now,[9, 8, 6, 5, 3, 10, 3, 3, 6, 4]>
+<Nurse,[1]>
+<O,[1, 1, 1]>
+<ODE,[1]>
+<OF,[9, 1, 1, 1]>
+<ONE,[1]>
+<OR,[6]>
+<ORANTHY,[1]>
+<OTHER,[1]>
+<OWNER,[1]>
+<October,[1, 1, 1]>
+<Of,[4, 6, 1, 2, 3, 4, 4, 1, 2]>
+<Oh,[6, 7, 3, 7, 6, 8, 8, 12, 11, 8]>
+<Old,[1, 1, 1]>
+<On,[1, 2, 2, 2, 4, 2, 2, 3, 1]>
+<Once,[2, 1, 1, 2]>
+<One,[1, 3, 2, 4, 2]>
+<Only,[1, 2, 1, 1, 2, 2]>
+<Open,[1]>
+<Or,[1, 2]>
+<Other,[1]>
+<Ought,[1]>
+<Oui,[1]>
+<Our,[3, 1]>
+<Ourselves,[1]>
+<Out,[1, 1, 2]>
+<P,[4, 5]>
+<PALACE,[1]>
+<PARAGRAPH,[1]>
+<PAT,[1]>
+<PAW,[1]>
+<PEACE,[1]>
+<PG,[1]>
+<PGLAF,[1]>
+<PICKWICK,[1, 1]>
+<PLAY,[1]>
+<PLEASANT,[1]>
+<PLEASE,[1]>
+<POET,[1]>
+<PORTFOLIO,[1]>
+<POSITION,[1]>
+<POSSIBILITY,[1]>
+<PROJECT,[3]>
+<PROVIDED,[1]>
+<PUBLIC,[1]>
+<PUNITIVE,[1]>
+<PURPOSE,[1]>
+<Painters,[2]>
+<Palace,[2]>
+<Papa,[2, 2, 1, 1]>
+<Paris,[1, 1, 1, 1]>
+<Parks,[1]>
+<Passers,[1]>
+<Pat,[1]>
+<Paw,[1]>
+<Peeping,[2]>
+<Peg,[1]>
+<Peggy,[1]>
+<People,[1, 1, 1, 1]>
+<Percy,[1]>
+<Perhaps,[2, 2, 1, 1]>
+<Perkins,[1]>
+<Petrea,[1]>
+<Pewmonia,[1]>
+<Pickwick,[7, 6]>
+<Pile,[1]>
+<Pilgrim,[1, 1, 1]>
+<Pilgrims,[1]>
+<Pin,[1]>
+<Pip,[8]>
+<Place,[1]>
+<Plain,[2]>
+<Plato,[1]>
+<Play,[1, 1]>
+<Please,[2, 2, 1, 5, 2, 3, 7]>
+<Plumfield,[7, 1]>
+<Pocket,[1]>
+<Poetic,[1]>
+<Poll,[1, 1]>
+<Polly,[12]>
+<Pomonas,[1]>
+<Pooh,[1]>
+<Poor,[1, 3, 1, 2, 5, 3, 1, 1, 1]>
+<Portfolio,[1]>
+<Portuguese,[2]>
+<Praise,[1]>
+<Pray,[1, 1]>
+<Presently,[1, 2]>
+<President,[6]>
+<Pride,[1]>
+<Prim,[1]>
+<Primroses,[1]>
+<Procrastination,[1]>
+<Professor,[20, 17]>
+<Professorin,[2]>
+<Progress,[1, 1, 1]>
+<Project,[82]>
+<Prone,[1]>
+<Protestant,[1]>
+<Prunes,[1]>
+<Prut,[1, 1]>
+<Puck,[1]>
+<Purrer,[1]>
+<Put,[1, 1]>
+<Putting,[1]>
+<QUESTION,[1]>
+<Quartermaster,[1]>
+<Queen,[1, 1]>
+<Quel,[1]>
+<Quick,[1]>
+<Quite,[1, 2, 1, 1]>
+<READ,[1]>
+<REFUND,[1]>
+<REMEDIES,[1]>
+<REPLACEMENT,[1]>
+<REPORT,[1]>
+<RIGHT,[1]>
+<Race,[1]>
+<Rambler,[2]>
+<Raphael,[1, 1]>
+<Rappahannock,[1]>
+<Rasselas,[1]>
+<Rather,[1, 2]>
+<Read,[1, 1]>
+<Recamier,[1]>
+<Recess,[1]>
+<Redistributing,[1]>
+<Redistribution,[1]>
+<Refund,[1]>
+<Relics,[1]>
+<Relieved,[1]>
+<Remember,[2, 1]>
+<Remembering,[1]>
+<Replacement,[1]>
+<Revenue,[1]>
+<Rich,[1, 1, 1]>
+<Rig,[1]>
+<Right,[1, 1]>
+<Rival,[2]>
+<Rob,[3]>
+<Rome,[2]>
+<Row,[3]>
+<Royalty,[2]>
+<Russian,[1]>
+<S,[8, 1, 1, 5, 1, 1]>
+<SAD,[1]>
+<SECRETS,[1]>
+<SEND,[1]>
+<SETTLES,[1]>
+<SEVEN,[1, 1]>
+<SEVENTEEN,[1]>
+<SIX,[1, 1]>
+<SIXTEEN,[1]>
+<SLAVE,[1]>
+<SNODGRASS,[1]>
+<SOCIETY,[1]>
+<SONG,[1]>
+<SQUASH,[1]>
+<START,[1]>
+<STRICT,[1]>
+<SUCH,[1]>
+<SUDS,[1]>
+<Sabbath,[1]>
+<Sahara,[1]>
+<Sairy,[1]>
+<Sakes,[1]>
+<Sallie,[4, 10, 5, 11, 1]>
+<Salt,[1, 1]>
+<Sam,[2, 1]>
+<Samuel,[1]>
+<Satan,[1]>
+<Saturday,[1, 2, 3, 1]>
+<Saw,[1]>
+<Say,[1, 1]>
+<Scarlet,[1, 1, 1]>
+<Schiller,[1]>
+<Scold,[1]>
+<Scotchmen,[1]>
+<Scott,[1]>
+<Scrabble,[2]>
+<Sea,[1, 1]>
+<Section,[7]>
+<Sections,[1]>
+<See,[3, 1, 2]>
+<Seeing,[2]>
+<Send,[1]>
+<Sentimental,[1]>
+<September,[1]>
+<Serve,[1]>
+<Serves,[1]>
+<Service,[1]>
+<Settle,[1]>
+<Seven,[2]>
+<Several,[2, 1]>
+<Shadowy,[1]>
+<Shakespeare,[1, 1]>
+<Shall,[1, 1, 1, 1, 1, 1]>
+<Shan,[2]>
+<She,[9, 24, 6, 15, 24, 9, 6, 18, 39, 17]>
+<Shivering,[1]>
+<Should,[1]>
+<Shouldn,[1]>
+<Shut,[1, 1]>
+<Silence,[1]>
+<Silly,[1]>
+<Since,[1, 1]>
+<Sintram,[1]>
+<Sir,[2, 1, 5]>
+<Sit,[1, 1]>
+<Sitting,[1]>
+<Sixteen,[1, 1]>
+<Sleepy,[1]>
+<Slippers,[1]>
+<Slipping,[1]>
+<Slough,[1]>
+<Snodgrass,[3, 7]>
+<Snow,[6]>
+<Snowball,[2]>
+<Snuffbox,[1]>
+<So,[4, 7, 3, 8, 5, 9, 9, 5, 5, 5]>
+<Societies,[1]>
+<Society,[2]>
+<Socrates,[1]>
+<Socratic,[1, 1]>
+<Soldiers,[1]>
+<Some,[1, 3, 1, 1, 1, 1]>
+<Somehow,[1, 1]>
+<Something,[2, 1, 1]>
+<Sometimes,[1, 1]>
+<Somewhat,[1]>
+<Soon,[2]>
+<Souls,[1]>
+<Spanish,[1]>
+<Speak,[1]>
+<Special,[1]>
+<Spiders,[1]>
+<Spirits,[1]>
+<Splendid,[1]>
+<Spoils,[1]>
+<Spread,[2]>
+<Squirrels,[1]>
+<St,[1]>
+<Staring,[1]>
+<States,[13]>
+<Stay,[1]>
+<Stop,[1, 1, 2]>
+<Straws,[1]>
+<Stuart,[1]>
+<Successfully,[1]>
+<Such,[1, 1, 1]>
+<Sunday,[2]>
+<Sunshine,[1]>
+<Suppose,[1, 1, 1]>
+<Susie,[4]>
+<Swartz,[1]>
+<Sweet,[1]>
+<Sweets,[1]>
+<Switzerland,[1]>
+<T,[3]>
+<TEDDY,[1]>
+<TELEGRAM,[1]>
+<TEN,[1]>
+<TESTIMENT,[1]>
+<THAT,[2]>
+<THE,[1, 6, 1, 2, 5, 1, 2, 2]>
+<THIRTEEN,[1]>
+<THIS,[3]>
+<THOSE,[1]>
+<THREE,[1]>
+<TIME,[1]>
+<TO,[2, 1, 1]>
+<TOPSY,[1]>
+<TRADEMARK,[1]>
+<TUPMAN,[1]>
+<TURVY,[1]>
+<TWELVE,[1]>
+<TWENTY,[1, 3]>
+<TWO,[1]>
+<Take,[1, 2, 1]>
+<Taking,[1, 1]>
+<Tale,[1]>
+<Talk,[1]>
+<Tea,[1]>
+<Tearing,[1]>
+<Ted,[2]>
+<Teddy,[3, 8, 2, 2, 5, 7]>
+<Tell,[1, 4, 1, 3, 1, 2, 3, 1, 2]>
+<Tents,[1]>
+<Terms,[2]>
+<Teutonic,[1]>
+<Thank,[1, 2, 2, 2, 1, 2, 4, 1, 2]>
+<Thankee,[1]>
+<That,[6, 8, 4, 15, 3, 9, 4, 8, 7, 7]>
+<The,[17, 13, 28, 20, 15, 25, 14, 23, 21, 13]>
+<Theatre,[1]>
+<Their,[1]>
+<Then,[9, 1, 6, 3, 4, 5, 3, 5, 11, 3]>
+<Theodore,[1, 1, 1, 2]>
+<There,[3, 9, 8, 6, 6, 6, 10, 4, 5, 3]>
+<Therefore,[1]>
+<These,[1, 2, 1]>
+<They,[5, 6, 3, 9, 7, 5, 2, 8, 2, 2]>
+<Think,[1, 1]>
+<This,[1, 2, 5, 2, 2, 6, 2, 1, 1, 3]>
+<Thomas,[1]>
+<Those,[1, 1]>
+<Thou,[2, 1, 1]>
+<Though,[2, 1, 1, 1]>
+<Three,[1, 1, 1, 1, 1]>
+<Thursday,[4]>
+<Thus,[1]>
+<Till,[1]>
+<Time,[1, 1]>
+<Tina,[3]>
+<Tink,[2]>
+<Tis,[1, 1]>
+<Tisn,[1]>
+<To,[3, 7, 1, 4, 2, 1, 1, 13, 4]>
+<Tom,[1]>
+<Tommy,[1]>
+<Tomorrow,[1]>
+<Toms,[1]>
+<Too,[1, 2, 1, 1]>
+<Touched,[1]>
+<Touching,[1]>
+<Tower,[1]>
+<Tracy,[1]>
+<Tragedies,[1]>
+<Tree,[3]>
+<Trifles,[1]>
+<Trop,[1]>
+<Truly,[1, 1]>
+<Truth,[3]>
+<Try,[1, 3, 1]>
+<Tupman,[1, 3]>
+<Turning,[1]>
+<Tusser,[1]>
+<Tut,[1]>
+<Tutors,[1]>
+<Twenty,[1]>
+<Two,[1, 1, 1]>
+<U,[7]>
+<UMBRELLA,[1]>
+<UNDER,[1, 1]>
+<USE,[1]>
+<UT,[1]>
+<Uncle,[2, 1]>
+<Under,[1, 1]>
+<Undine,[1]>
+<Unfortunately,[1, 1]>
+<United,[13]>
+<Unless,[1]>
+<Unmask,[1]>
+<Unquenchables,[1]>
+<Up,[1, 1, 1, 1]>
+<Updated,[1]>
+<Upon,[1, 1]>
+<Use,[2]>
+<VALLEY,[1]>
+<VANITY,[1]>
+<Valnor,[1]>
+<Vanilla,[2]>
+<Vaughn,[2]>
+<Vaughns,[1, 1]>
+<Venice,[1]>
+<Vere,[1]>
+<Very,[1, 2, 2, 1]>
+<Vevay,[2]>
+<Vicar,[2]>
+<Viola,[3, 1]>
+<Volunteers,[1]>
+<W,[1]>
+<WARRANTIES,[2]>
+<WARRANTY,[2]>
+<WEEKLY,[2]>
+<WILL,[1, 2]>
+<WINKLE,[1]>
+<WITH,[1]>
+<WOMAN,[1]>
+<WOMEN,[1]>
+<WORK,[1]>
+<Wait,[1]>
+<Wakefield,[1]>
+<Want,[1]>
+<Ward,[1]>
+<Was,[1, 1, 2]>
+<Washington,[1, 1, 6, 2, 3]>
+<Wasn,[1]>
+<Watch,[1]>
+<Water,[1]>
+<We,[11, 12, 3, 4, 5, 11, 8, 10, 5, 4]>
+<Wear,[1, 1]>
+<Weary,[1]>
+<Weathercock,[1]>
+<Wednesday,[1]>
+<Weeks,[1]>
+<Welcome,[1, 1]>
+<Well,[1, 3, 3, 3, 2, 2, 9, 3, 4, 2]>
+<Weller,[1, 3]>
+<Welleresque,[1]>
+<West,[1, 2]>
+<What,[9, 7, 1, 8, 10, 5, 21, 15, 10, 14]>
+<Whatever,[1]>
+<When,[3, 8, 3, 9, 2, 4, 1, 3, 4, 1]>
+<Where,[1, 1, 1, 2, 4, 2]>
+<Whereat,[1]>
+<Whether,[1]>
+<Which,[2, 2]>
+<While,[1, 2, 1, 1, 1, 1]>
+<Who,[1, 1, 1, 2, 4, 2, 1, 2]>
+<Why,[2, 2, 6, 6, 4, 6, 5, 1, 5]>
+<Wicket,[1]>
+<Wide,[2]>
+<Will,[3, 1, 1, 1, 1, 1, 1]>
+<Winkle,[1, 5]>
+<Wish,[1]>
+<With,[3, 3, 2, 3, 6, 2, 2, 1, 1]>
+<Within,[1, 1]>
+<Witnesses,[1]>
+<Woe,[1]>
+<Women,[1]>
+<Won,[1, 2, 1, 3, 1]>
+<Wonder,[1]>
+<Work,[1]>
+<World,[1]>
+<Would,[1, 1, 1, 1, 2]>
+<Wouldn,[2, 1, 1, 3, 1]>
+<Wouldst,[1]>
+<Writing,[1]>
+<Wrongs,[1]>
+<YOU,[6]>
+<Yankee,[1]>
+<Yankees,[1, 2]>
+<Year,[1]>
+<Years,[1]>
+<Yes,[15, 6, 10, 11, 6, 4, 9, 3, 8, 6]>
+<Yesterday,[1]>
+<Yet,[1, 1, 1]>
+<Yonder,[1]>
+<York,[1]>
+<You,[9, 12, 16, 26, 14, 13, 22, 16, 4, 15]>
+<Young,[1, 2, 1]>
+<Your,[1, 1, 3, 1, 3, 8, 1, 2]>
+<Yours,[1, 2, 1]>
+<a,[242, 230, 198, 189, 203, 237, 233, 197, 187, 209]>
+<aback,[1]>
+<abase,[1]>
+<abashed,[1, 1, 1]>
+<abed,[1]>
+<abide,[1]>
+<able,[2, 1, 2]>
+<abominable,[2, 1]>
+<abominably,[1]>
+<about,[17, 25, 13, 30, 24, 20, 22, 28, 37, 26]>
+<above,[4, 2, 1, 1, 2, 1]>
+<abroad,[1, 1, 1, 2, 1, 1]>
+<abroady,[1]>
+<abruptly,[1, 1, 1, 2]>
+<absence,[1]>
+<absent,[2, 1]>
+<absently,[1, 1]>
+<absorbed,[4, 1, 1, 2, 1, 2]>
+<absorbing,[1]>
+<abstracted,[1]>
+<absurd,[1, 1, 1, 1, 2]>
+<abundant,[1]>
+<accent,[1]>
+<accept,[1, 1, 1, 1, 1, 2]>
+<accepted,[2, 2, 1]>
+<accepting,[1, 1, 1]>
+<access,[10]>
+<accessed,[1]>
+<accessible,[1]>
+<accident,[2]>
+<accidently,[1]>
+<accidents,[1]>
+<accompanied,[1]>
+<accompaniment,[1]>
+<accomplish,[1]>
+<accomplished,[1, 2, 1, 2, 2]>
+<accomplishment,[1, 1]>
+<accomplishments,[2, 1, 1, 1]>
+<accordance,[2]>
+<accordin,[1]>
+<account,[1, 1, 1, 2, 1, 1]>
+<accounted,[2]>
+<accounts,[1, 1]>
+<accumulate,[1]>
+<accused,[1]>
+<accustomed,[1, 1, 1]>
+<ache,[1, 1]>
+<ached,[1, 1]>
+<aches,[1, 1, 1]>
+<aching,[1, 1, 1]>
+<acid,[1]>
+<acknowledge,[1]>
+<acknowledged,[1]>
+<acknowledgement,[1]>
+<acknowledgment,[1]>
+<acorn,[1]>
+<acorns,[2]>
+<acquaintances,[1]>
+<acquainted,[1]>
+<across,[2, 1, 1, 1, 1, 1]>
+<act,[1, 1, 1, 2, 1, 1]>
+<acted,[1, 1, 1]>
+<acting,[1, 1]>
+<active,[1, 1, 2, 1, 1]>
+<acts,[1]>
+<actually,[4, 2, 1, 3, 1, 1]>
+<add,[1, 3, 1, 2]>
+<added,[6, 2, 6, 6, 4, 6, 8, 6, 5, 5]>
+<adding,[2, 1, 1, 1, 1, 1]>
+<addition,[1, 1]>
+<additional,[2]>
+<additions,[1]>
+<address,[1, 1, 1]>
+<addressed,[1]>
+<addresses,[1]>
+<adieux,[1]>
+<adjoining,[1]>
+<adjourn,[1]>
+<adjourned,[1]>
+<administers,[1]>
+<admiration,[2, 1, 3, 1, 1]>
+<admire,[1, 1, 1, 1, 1]>
+<admired,[1, 3, 1, 2, 1, 1]>
+<admirers,[1, 1]>
+<admiring,[1, 1]>
+<admission,[1, 1, 1]>
+<admittance,[1]>
+<adopt,[1]>
+<adopted,[1]>
+<adoration,[1]>
+<adored,[2, 1]>
+<adoring,[1]>
+<adorned,[1, 1, 1]>
+<advancing,[1]>
+<advantage,[1]>
+<adventure,[1, 1]>
+<adventures,[2, 1, 2]>
+<adventurous,[1]>
+<advertise,[1]>
+<advertisements,[1]>
+<advice,[3, 1, 2, 2, 2, 2, 1]>
+<advise,[1, 1, 2, 1, 1]>
+<advised,[1]>
+<advising,[1]>
+<afar,[1]>
+<affability,[1]>
+<affable,[1]>
+<affair,[2, 1, 1, 1]>
+<affairs,[1, 1, 1, 1, 1, 2]>
+<affect,[1, 1]>
+<affectation,[1]>
+<affected,[1, 2, 1, 1, 2]>
+<affection,[1, 1]>
+<affectionate,[1, 1, 1, 1, 3, 1]>
+<affectionately,[1]>
+<affections,[1, 1]>
+<affianced,[1]>
+<afflicted,[1, 1, 1, 1]>
+<affliction,[1, 1]>
+<afflictions,[1]>
+<afghan,[1]>
+<afire,[1, 1]>
+<afore,[1]>
+<afraid,[4, 2, 2, 10, 6, 5, 7, 7, 3, 6]>
+<after,[14, 11, 7, 15, 11, 15, 16, 9, 7, 16]>
+<afternoon,[1, 3, 5, 5, 4, 3, 3]>
+<afternoons,[1, 1]>
+<afterward,[2, 1, 4, 1, 1]>
+<again,[11, 5, 3, 9, 7, 5, 8, 13, 9, 9]>
+<against,[2, 2, 2, 1, 3, 4, 1, 5]>
+<age,[1, 2, 2, 2, 3]>
+<aged,[1]>
+<agent,[1]>
+<aggravated,[1, 1]>
+<aggravating,[1]>
+<aggressor,[1]>
+<agitated,[1, 1]>
+<ago,[3, 1, 1, 1, 2, 2]>
+<agonizing,[1]>
+<agree,[7, 1, 2, 4]>
+<agreeable,[1, 2, 1, 1, 1, 1]>
+<agreed,[1, 2, 2, 1, 2, 1, 1]>
+<agreement,[17]>
+<ah,[1, 1]>
+<ahead,[1]>
+<aid,[1]>
+<aides,[1]>
+<ain,[1, 1, 2, 1, 1]>
+<aint,[1]>
+<air,[7, 3, 2, 6, 5, 4, 7, 10, 4, 10]>
+<airing,[1, 2]>
+<airs,[2, 1, 3, 1, 1, 1]>
+<airy,[1, 1, 1]>
+<aisles,[1]>
+<aisy,[1]>
+<alacrity,[1]>
+<alarm,[1, 1]>
+<alarmed,[1, 1]>
+<alarming,[1]>
+<alarmingly,[1]>
+<alas,[1, 2]>
+<alcove,[1]>
+<alders,[1]>
+<alee,[1]>
+<algebra,[1]>
+<alighting,[1]>
+<alike,[1, 1]>
+<alive,[3, 1, 1, 1]>
+<all,[25, 45, 50, 33, 47, 41, 40, 49, 40, 35]>
+<allow,[1, 2, 2, 1]>
+<allowed,[2, 2, 2, 1, 2, 1, 2, 9, 1]>
+<alluded,[2, 1]>
+<alluding,[1]>
+<allusion,[1]>
+<almonds,[1]>
+<almost,[1, 1, 2, 1, 1, 3, 1]>
+<aloft,[1, 1]>
+<alone,[2, 8, 3, 4, 2, 1, 6, 1, 8, 4]>
+<along,[5, 3, 1, 1, 3, 4]>
+<aloof,[1, 1]>
+<aloud,[2, 1, 1, 1, 2, 1]>
+<alphabet,[1]>
+<already,[2, 3, 3, 1, 2, 2]>
+<also,[4, 5, 1, 3, 2, 1, 2, 6, 3]>
+<alter,[1]>
+<alteration,[1]>
+<alternate,[1]>
+<altogether,[1, 2, 3, 1, 4, 1, 1, 4]>
+<alway,[1]>
+<always,[7, 11, 10, 11, 13, 3, 8, 13, 9, 2]>
+<am,[9, 10, 6, 8, 7, 5, 10, 11, 3, 14]>
+<amazed,[1, 1, 1]>
+<amazement,[1, 1]>
+<amazing,[1, 1]>
+<amazingly,[1, 1, 1]>
+<ambition,[1, 1, 1, 1]>
+<ambitious,[1, 1, 1, 2]>
+<amiable,[1, 2, 1, 1, 1]>
+<amiably,[1]>
+<amicable,[1]>
+<amiss,[1, 1, 1]>
+<among,[3, 2, 5, 1, 3, 4, 1, 2, 1]>
+<amount,[1, 2]>
+<amuse,[5, 3, 2, 3, 2, 1]>
+<amused,[1, 2, 2, 1, 1, 1, 2]>
+<amusement,[1, 1, 1, 2, 1, 1]>
+<amusements,[1, 1]>
+<amusing,[1]>
+<an,[33, 22, 14, 25, 21, 23, 27, 13, 19, 21]>
+<ancestors,[1]>
+<anchor,[1]>
+<ancient,[1, 1]>
+<ancients,[1]>
+<and,[305, 448, 320, 389, 428, 450, 368, 420, 400, 399]>
+<anecdotes,[1]>
+<angel,[2, 1, 1, 1, 1, 1]>
+<angelic,[1, 1]>
+<angels,[1, 2]>
+<anger,[3, 5, 1, 1]>
+<angered,[1]>
+<angrily,[1, 1]>
+<angry,[4, 2, 1]>
+<anguish,[1, 1]>
+<animals,[1, 1]>
+<animated,[1, 1]>
+<ankle,[1, 2]>
+<ankles,[1, 1]>
+<annihilation,[1]>
+<anniversary,[1]>
+<announce,[1]>
+<announced,[1]>
+<annoyed,[1, 1]>
+<anointed,[1]>
+<anon,[1]>
+<another,[6, 10, 4, 4, 8, 8, 2, 3, 2, 7]>
+<answer,[1, 1, 3, 3, 3, 2, 2, 4]>
+<answered,[8, 11, 1, 5, 5, 3, 2, 3, 7]>
+<answers,[2, 1, 1]>
+<anteroom,[1]>
+<antique,[1, 1]>
+<ants,[1]>
+<anxieties,[1]>
+<anxiety,[2, 4, 5, 3, 1]>
+<anxious,[1, 4, 1, 3, 1, 6, 5, 1]>
+<anxiously,[1, 1, 1, 1, 1]>
+<any,[8, 14, 44, 22, 11, 7, 14, 7, 11, 11]>
+<anybody,[1, 2, 1, 1]>
+<anymore,[1, 1]>
+<anyone,[6, 4, 6, 3, 2, 5, 8, 3, 6]>
+<anything,[3, 9, 4, 9, 6, 8, 8, 10, 8, 12]>
+<anyway,[1, 1, 1, 1]>
+<anywhere,[2, 1, 1, 1]>
+<apart,[1, 2, 1]>
+<apiece,[1]>
+<apologetically,[1, 1]>
+<apologize,[1]>
+<apology,[4]>
+<apoplectic,[1]>
+<appalling,[1]>
+<apparently,[1]>
+<apparition,[1]>
+<appeal,[1]>
+<appealing,[1, 1]>
+<appear,[1, 3, 1, 1]>
+<appearance,[1, 2]>
+<appeared,[2, 4, 2, 2, 1, 5, 2, 2]>
+<appearing,[1]>
+<appears,[1]>
+<appeased,[1]>
+<appetite,[1]>
+<appetites,[1]>
+<applause,[1, 2]>
+<apple,[5, 1, 2, 1]>
+<apples,[1]>
+<applicable,[3]>
+<apply,[1]>
+<appointed,[1]>
+<appreciated,[1]>
+<approach,[1]>
+<approached,[1]>
+<approaching,[2, 1, 1, 1]>
+<appropriate,[1, 1, 1, 3, 1]>
+<approval,[3]>
+<approve,[1, 1]>
+<approved,[1]>
+<approves,[1]>
+<approving,[1, 3, 1]>
+<approvingly,[1, 1, 1]>
+<apron,[1, 1, 1, 3, 1]>
+<aprons,[1, 1]>
+<apt,[1, 2]>
+<archangels,[1]>
+<arches,[1]>
+<ardent,[1, 1]>
+<are,[20, 19, 31, 32, 30, 19, 27, 25, 8, 19]>
+<aren,[1, 1]>
+<argument,[1]>
+<arise,[1]>
+<aristocratic,[3]>
+<arm,[8, 2, 3, 2, 1, 1, 2, 3]>
+<armed,[1, 1]>
+<armor,[1]>
+<arms,[4, 2, 3, 1, 4, 1, 2, 3, 4]>
+<army,[1, 1, 3]>
+<arnica,[1]>
+<aromatic,[1]>
+<arose,[1]>
+<around,[1, 1, 1, 1]>
+<arrange,[3]>
+<arranged,[2, 1, 1]>
+<arrangement,[1, 1]>
+<array,[2, 1, 1]>
+<arrayed,[1]>
+<arrested,[2]>
+<arrival,[1, 1]>
+<arrive,[1]>
+<arrived,[1, 2, 3, 1]>
+<arsenicum,[1]>
+<art,[2, 1, 1]>
+<artful,[1]>
+<artfully,[1]>
+<article,[1, 1]>
+<articles,[1]>
+<artificial,[1]>
+<artist,[3, 2]>
+<artistic,[2, 1, 1, 1, 1]>
+<artistically,[1, 1]>
+<artists,[1]>
+<artless,[1]>
+<artlessy,[1]>
+<as,[100, 91, 56, 99, 92, 78, 109, 107, 84, 89]>
+<ascended,[1]>
+<ashamed,[2, 1, 2, 7, 1, 2, 1, 2]>
+<ashore,[1]>
+<aside,[1, 2]>
+<ask,[6, 8, 2, 5, 5, 4, 5, 4, 3, 2]>
+<asked,[18, 19, 6, 14, 16, 8, 29, 16, 20, 17]>
+<asking,[2, 1, 1, 1, 3, 1]>
+<asks,[1]>
+<asleep,[1, 1, 2, 1, 6, 5]>
+<asparagus,[4]>
+<aspect,[2, 1]>
+<aspiring,[1]>
+<assembled,[1, 1, 1]>
+<assent,[1]>
+<assert,[1]>
+<assistance,[1]>
+<assistant,[1]>
+<associate,[1, 1]>
+<associated,[7]>
+<assortment,[1]>
+<assuaged,[1]>
+<assume,[1, 1]>
+<assumed,[1, 1, 4]>
+<assuming,[1, 1]>
+<assurance,[1, 1]>
+<assurances,[1, 1]>
+<assure,[1, 2, 1]>
+<assured,[1]>
+<assuring,[1]>
+<asters,[1]>
+<astonish,[1, 1]>
+<astonished,[1, 1, 1, 1]>
+<astonishing,[1, 1, 1]>
+<astonishment,[1]>
+<astounding,[1]>
+<astride,[1]>
+<at,[54, 62, 33, 40, 51, 38, 56, 56, 67, 52]>
+<ate,[1, 1]>
+<atlas,[1]>
+<atmosphere,[1, 1]>
+<atone,[1, 1, 1]>
+<attached,[1]>
+<attack,[1]>
+<attempt,[1]>
+<attempts,[1]>
+<attend,[3, 1]>
+<attention,[1, 2, 1, 1, 1]>
+<attentions,[1]>
+<attentively,[1]>
+<attire,[1]>
+<attitude,[1, 1, 1, 1]>
+<attracted,[1, 1]>
+<attraction,[1, 2]>
+<attractive,[1, 1]>
+<attracts,[1]>
+<attributed,[1]>
+<auburn,[1]>
+<audacity,[2]>
+<audience,[1, 1]>
+<aunt,[1, 1, 1]>
+<aunts,[1]>
+<authoress,[2]>
+<authority,[1]>
+<autumn,[1]>
+<available,[2]>
+<availed,[1]>
+<aversion,[1]>
+<awake,[1, 4, 1]>
+<awaked,[1]>
+<aware,[1]>
+<away,[17, 22, 8, 14, 16, 6, 23, 30, 15, 21]>
+<awe,[1]>
+<awful,[1, 2, 1, 1]>
+<awkward,[1, 1]>
+<ay,[1]>
+<b,[1, 1]>
+<babies,[4, 2]>
+<baby,[3, 1, 4, 2, 5, 3, 1]>
+<bachelor,[1]>
+<back,[3, 9, 3, 5, 5, 6, 7, 8, 11, 6]>
+<backed,[1]>
+<backs,[1]>
+<backward,[1]>
+<bad,[9, 1, 2, 3, 5, 5, 4, 6, 1]>
+<bade,[1, 1, 1, 1]>
+<badge,[1, 1]>
+<badges,[2]>
+<badly,[2, 1, 1, 1]>
+<badness,[1]>
+<baffled,[1]>
+<bag,[2, 2, 1, 1, 1]>
+<baggage,[1]>
+<bags,[1, 1]>
+<baked,[2]>
+<baker,[1]>
+<bald,[1]>
+<bales,[1]>
+<ball,[3, 1, 3, 5, 1]>
+<balling,[1]>
+<balloon,[1]>
+<balloons,[1]>
+<balls,[1]>
+<balm,[1]>
+<balmy,[1]>
+<band,[1, 1, 1, 1]>
+<bandbox,[1]>
+<bandboxes,[2]>
+<bang,[1]>
+<banishing,[1]>
+<banisters,[1, 1, 1]>
+<bank,[1, 1]>
+<bankrupt,[1]>
+<banks,[1]>
+<banner,[1]>
+<barber,[2]>
+<bare,[1, 2]>
+<bargain,[3]>
+<bargains,[1]>
+<bark,[1]>
+<barked,[1]>
+<barn,[1]>
+<barred,[1]>
+<barrel,[1]>
+<barrels,[1]>
+<barriers,[1]>
+<base,[1]>
+<based,[2]>
+<basely,[1, 2]>
+<basement,[1]>
+<bashful,[2, 1, 1, 2, 1]>
+<bashfully,[1, 1]>
+<bashfulness,[2, 1, 1]>
+<basket,[3, 2, 1, 2, 1, 1, 1]>
+<baskets,[1]>
+<bathed,[1]>
+<battery,[1]>
+<battle,[1]>
+<battles,[1]>
+<be,[38, 35, 50, 48, 57, 51, 53, 55, 55, 60]>
+<bead,[1, 1]>
+<beads,[3]>
+<beaming,[1, 1, 1]>
+<beams,[1, 1]>
+<bear,[3, 4, 2, 4, 1, 2, 2, 2, 7, 4]>
+<beard,[2]>
+<bearded,[1]>
+<bearing,[1, 2]>
+<bears,[3, 1, 1]>
+<beast,[1]>
+<beasts,[1]>
+<beat,[1, 1, 2, 1, 1]>
+<beaten,[1]>
+<beating,[1, 1]>
+<beatitude,[1]>
+<beauties,[1]>
+<beautiful,[2, 1, 4, 1, 3, 1, 5, 1, 2, 2]>
+<beautifully,[1, 1, 1, 1, 1, 2, 1]>
+<beauty,[3, 1, 5, 2, 2, 2, 4]>
+<became,[3, 1, 1, 1, 3, 1, 1]>
+<because,[9, 13, 3, 9, 9, 5, 5, 3, 3, 7]>
+<beckoned,[2, 1, 2]>
+<become,[2, 2, 1, 1]>
+<becomes,[1]>
+<becoming,[1, 1, 3, 2, 1]>
+<bed,[4, 3, 2, 8, 2, 5, 8, 1]>
+<bedewed,[1]>
+<beds,[1]>
+<bee,[1, 1]>
+<beef,[2, 1]>
+<been,[18, 16, 12, 18, 11, 10, 10, 14, 14, 20]>
+<bees,[1, 1, 1]>
+<before,[11, 6, 6, 21, 13, 9, 10, 10, 9, 10]>
+<beforehand,[1]>
+<beg,[2, 1, 1, 2, 3, 1, 4]>
+<began,[5, 13, 5, 9, 7, 8, 8, 7, 8, 14]>
+<beggar,[2]>
+<beggarmaid,[1]>
+<beggars,[1]>
+<begged,[2, 1, 1, 4, 3, 1]>
+<begging,[1, 1, 2]>
+<begin,[4, 1, 3, 1, 4]>
+<beginners,[2]>
+<beginnest,[1]>
+<beginning,[1, 1, 1, 1, 2]>
+<beginnings,[1]>
+<begins,[1, 1, 1]>
+<begone,[1]>
+<begun,[2, 2, 3]>
+<behave,[2, 1, 1]>
+<behaved,[2, 1, 1, 4]>
+<behaving,[1, 1]>
+<behavior,[1, 1, 1, 1]>
+<beheld,[1, 1]>
+<behind,[4, 5, 3, 2, 2, 6, 5, 2, 3]>
+<behold,[1, 1, 1, 1, 2]>
+<beholders,[1]>
+<bein,[1, 1]>
+<being,[9, 14, 1, 7, 7, 8, 9, 2, 7, 6]>
+<beings,[1]>
+<belied,[1]>
+<belief,[1]>
+<believe,[3, 4, 3, 4, 2, 2, 3, 3, 2, 5]>
+<believed,[1, 1, 2, 1]>
+<believers,[1]>
+<believes,[1]>
+<believing,[1]>
+<bell,[1, 3, 1, 1, 1]>
+<belladonna,[2]>
+<belle,[1]>
+<bells,[1, 1, 1]>
+<belly,[1]>
+<belong,[1]>
+<belonged,[1, 1, 1, 1]>
+<beloved,[2, 2, 2, 1, 3, 3, 1]>
+<below,[3, 2, 1, 1, 1]>
+<belt,[1]>
+<bend,[3]>
+<bending,[1]>
+<benefactor,[1]>
+<benefactors,[1]>
+<beneficial,[1]>
+<benefit,[2, 2, 1]>
+<benefits,[1]>
+<benevolently,[1]>
+<benignant,[1, 1]>
+<benignity,[1]>
+<benignly,[1]>
+<bent,[1, 1, 1, 2, 1, 2]>
+<bequeethe,[2]>
+<bereft,[1]>
+<berries,[1, 1]>
+<beseech,[1]>
+<beseeching,[1]>
+<beside,[2, 4, 2, 4, 2, 1, 1]>
+<besides,[1]>
+<best,[6, 7, 9, 4, 7, 7, 6, 9, 13, 5]>
+<beste,[1]>
+<bestowed,[1]>
+<bestows,[1, 1]>
+<betokening,[1]>
+<betray,[1]>
+<betrayed,[1, 1, 1, 1]>
+<betraying,[1, 1]>
+<betrothed,[1]>
+<better,[9, 3, 5, 6, 3, 6, 4, 7, 13, 6]>
+<between,[1, 1, 1, 1, 1]>
+<bewilder,[1]>
+<bewildered,[2, 2, 1, 2]>
+<bewilderment,[1]>
+<beyond,[1, 1]>
+<bid,[1]>
+<bidden,[1, 1]>
+<big,[5, 10, 5, 3, 3, 6, 4, 3, 8, 3]>
+<bigger,[1, 1]>
+<biggest,[1]>
+<bight,[1]>
+<bijou,[1]>
+<bilin,[1]>
+<bill,[1]>
+<billiard,[2]>
+<billiards,[1]>
+<bills,[1]>
+<binary,[1]>
+<bind,[1, 1]>
+<birches,[1]>
+<bird,[2, 2, 6]>
+<birds,[1, 1, 1]>
+<birthday,[1, 1]>
+<biscuits,[1]>
+<bit,[1, 6, 2, 7, 3, 5, 2, 4, 4]>
+<biting,[1]>
+<bits,[2, 1, 1, 1]>
+<bitter,[2, 1, 4, 1, 2]>
+<bitterly,[2, 1, 2, 1]>
+<bitterness,[1, 1, 1, 1]>
+<black,[3, 5, 1, 4, 3, 3, 4, 2, 2, 1]>
+<blackened,[1]>
+<blade,[1]>
+<blame,[1, 2, 1]>
+<blamed,[1]>
+<blanc,[2, 1, 2]>
+<bland,[1]>
+<blandly,[1]>
+<blank,[1, 1]>
+<blanket,[1, 1, 1]>
+<blankets,[2]>
+<blarnerying,[1]>
+<blaze,[1]>
+<blazed,[1]>
+<bleak,[1]>
+<blemishes,[1]>
+<blended,[1]>
+<blent,[1]>
+<bless,[1, 1, 1, 1, 2, 1]>
+<blessed,[1, 1, 2, 2]>
+<blessing,[1, 1]>
+<blessings,[4, 1, 1, 1]>
+<blest,[1]>
+<blew,[1]>
+<blighted,[1]>
+<blind,[2]>
+<blindly,[1]>
+<blinds,[1]>
+<bliss,[1, 1, 1]>
+<blissful,[1, 1, 1]>
+<blissfully,[1]>
+<blisters,[1]>
+<blithe,[1, 1]>
+<blithely,[1]>
+<block,[1]>
+<blood,[1, 2]>
+<bloom,[1]>
+<bloomed,[1]>
+<blooming,[1, 1]>
+<blooms,[1]>
+<blossom,[1]>
+<blossomed,[1]>
+<blot,[1, 1]>
+<blots,[1]>
+<blow,[1, 1, 1, 1]>
+<blowing,[1, 1]>
+<blown,[1, 1, 2]>
+<blows,[1, 1, 1]>
+<blowzy,[1]>
+<blue,[2, 4, 1, 2, 7, 2, 3, 4, 5]>
+<blued,[1]>
+<blunder,[1, 1, 1]>
+<blunderbuss,[1]>
+<blundered,[1]>
+<blundering,[1]>
+<blunt,[1, 2, 1, 1]>
+<blush,[2, 1, 1, 1]>
+<blushed,[1, 2, 1, 2]>
+<blushes,[1]>
+<blushing,[1, 1]>
+<board,[1]>
+<boards,[1]>
+<boast,[1]>
+<boat,[1, 2, 1]>
+<boathouse,[1]>
+<boating,[2, 1]>
+<boats,[1, 1, 1, 1]>
+<bob,[1]>
+<bobbed,[1]>
+<body,[2, 1, 1, 1]>
+<bodyguard,[1]>
+<boiled,[3, 1]>
+<boiling,[1]>
+<bold,[1, 1]>
+<bolder,[1]>
+<boldest,[1]>
+<boldness,[1]>
+<bolt,[1]>
+<bolted,[2]>
+<bona,[2]>
+<bonbons,[2]>
+<bones,[1]>
+<bonfire,[2]>
+<bonfires,[1]>
+<bonnet,[8, 1, 1, 1, 3]>
+<bonnets,[1]>
+<book,[2, 3, 5, 1, 2, 7, 3, 2, 3]>
+<bookcase,[2]>
+<bookcases,[1]>
+<books,[9, 5, 4, 7, 2, 1, 2]>
+<bookworm,[1]>
+<boon,[1]>
+<boot,[1, 1, 1]>
+<bootjack,[2]>
+<boots,[2, 2, 1, 2, 2, 1, 3, 2]>
+<bore,[1, 2, 1, 2, 1, 1]>
+<born,[3, 1, 2]>
+<borne,[2, 1]>
+<borrow,[2, 2]>
+<borrowed,[1, 1, 1]>
+<bosom,[1, 3]>
+<bosoms,[1]>
+<both,[6, 5, 9, 8, 6, 5, 5, 8, 6, 6]>
+<bother,[2, 1, 1, 1]>
+<bothered,[1]>
+<bothering,[1, 1]>
+<bottle,[1, 1]>
+<bottles,[1, 1]>
+<bottom,[3, 2]>
+<bought,[1, 1, 2, 1, 1]>
+<bounce,[1, 1, 1, 1, 1]>
+<bounced,[1, 1, 1]>
+<bouncing,[1]>
+<bound,[1, 4, 1, 1, 2]>
+<bounden,[1]>
+<boundless,[1]>
+<bounds,[1]>
+<bouquet,[1]>
+<bouquets,[3, 1, 1]>
+<bow,[2, 1, 1, 1, 1]>
+<bowed,[1, 1, 2]>
+<bower,[1, 1, 1]>
+<bowl,[1]>
+<bows,[2]>
+<box,[1, 1, 4, 4, 4, 1, 3]>
+<boxes,[1, 2]>
+<boy,[5, 11, 5, 18, 2, 4, 10, 2, 5, 10]>
+<boyish,[1, 1, 3, 1, 2]>
+<boys,[5, 7, 29, 7, 6, 1, 3]>
+<bracelet,[1, 1]>
+<bracelets,[1, 1]>
+<brackets,[1]>
+<braid,[1]>
+<braided,[1]>
+<braids,[1]>
+<brains,[1, 1]>
+<brake,[2]>
+<branch,[1]>
+<brave,[1, 2, 1, 1, 2, 1]>
+<bravely,[1, 1, 1, 1, 2, 2, 1]>
+<braver,[1]>
+<breach,[1]>
+<bread,[2, 7, 1, 1, 1]>
+<breadth,[2]>
+<breadths,[1]>
+<break,[2, 1, 2, 1, 1, 3]>
+<breakfast,[1, 5, 1, 1]>
+<breaking,[1, 1, 1, 1]>
+<breaks,[1]>
+<breast,[1, 3]>
+<breastpin,[1]>
+<breasts,[1]>
+<breath,[2, 2, 1, 1, 1, 2, 4, 2]>
+<breathe,[1, 1]>
+<breathes,[1]>
+<breathing,[1]>
+<breathless,[1]>
+<breathlessly,[1, 1, 1]>
+<bred,[1, 1, 1]>
+<breeding,[1]>
+<breeze,[1]>
+<brewing,[1, 1]>
+<bribed,[1]>
+<bribes,[1]>
+<brick,[1]>
+<bridal,[2, 1]>
+<bride,[2]>
+<bridegroom,[2]>
+<bridges,[1]>
+<bridled,[1]>
+<bridling,[1]>
+<brief,[1]>
+<bright,[1, 1, 1, 1, 3, 1]>
+<brighten,[1, 1, 1]>
+<brightened,[1, 1, 1]>
+<brightening,[1, 1, 1]>
+<brighter,[1]>
+<brightly,[1]>
+<brilliancy,[2]>
+<brilliant,[2, 1, 2, 1, 1, 1]>
+<brim,[1]>
+<brimmed,[1]>
+<brine,[1]>
+<bring,[2, 4, 2, 1, 1, 4, 1, 1, 5]>
+<bringing,[2, 2]>
+<brings,[1, 1]>
+<brisk,[1, 1]>
+<briskly,[2, 1, 1]>
+<broad,[2]>
+<broadcast,[1]>
+<brocade,[1]>
+<brocades,[1]>
+<broke,[2, 2, 4, 2, 3, 2, 2]>
+<broken,[2, 1, 1, 1, 2, 1, 1]>
+<bronze,[1]>
+<bronzes,[1]>
+<brooch,[1, 1]>
+<brood,[1]>
+<brooded,[1]>
+<brooding,[1]>
+<broom,[4, 1, 1]>
+<brooms,[1, 1]>
+<brother,[1, 1, 1]>
+<brotherly,[1, 1, 1]>
+<brothers,[2]>
+<brought,[3, 4, 3, 3, 2, 1, 2, 5]>
+<brow,[1, 1, 1]>
+<brown,[1, 3, 1, 3, 1, 3, 3, 3, 1, 4]>
+<browned,[1]>
+<brows,[1, 1, 1]>
+<browsed,[1]>
+<bruised,[1]>
+<bruises,[1, 1]>
+<brush,[1]>
+<brushed,[1, 2]>
+<brushing,[1]>
+<brute,[1]>
+<bubchen,[1]>
+<buckles,[1]>
+<buckwheats,[1]>
+<budding,[1, 1]>
+<buds,[1, 1]>
+<buffaloes,[1]>
+<bug,[1]>
+<build,[1]>
+<building,[1, 1]>
+<bullet,[1]>
+<bulletin,[1]>
+<bump,[1]>
+<bumped,[2]>
+<bumps,[1]>
+<bun,[1]>
+<bundle,[1, 1, 1, 1]>
+<bundled,[1]>
+<bundles,[3, 1, 2]>
+<burden,[1, 1, 1, 1, 1]>
+<burdens,[1, 1, 1, 1]>
+<bureau,[1, 1]>
+<burial,[1]>
+<buried,[2, 1]>
+<burn,[1, 1, 1, 1, 1, 1]>
+<burned,[2, 2, 2, 1, 1, 1]>
+<burning,[1]>
+<burnt,[1]>
+<burr,[1]>
+<burst,[1, 2, 3, 1, 2, 1, 1]>
+<bus,[1, 1]>
+<bush,[1, 1]>
+<bushel,[1]>
+<bushes,[1, 1]>
+<bushy,[1, 1]>
+<busied,[1, 1]>
+<busily,[1, 2]>
+<business,[8, 2, 2, 1, 1, 2]>
+<businessman,[2, 1]>
+<bust,[1]>
+<bustle,[1, 1, 1]>
+<busts,[1]>
+<busy,[2, 5, 1, 2, 1, 3, 7, 5, 2]>
+<but,[55, 58, 36, 52, 69, 45, 67, 61, 67, 67]>
+<butcher,[1, 1]>
+<butter,[3, 1]>
+<butterflies,[1]>
+<butterfly,[1]>
+<button,[1, 1]>
+<buttonhole,[1]>
+<buttonholes,[1, 1]>
+<buttoning,[1]>
+<buttons,[1, 1, 2]>
+<buy,[2, 1, 1, 1, 1]>
+<buying,[1, 1, 1]>
+<buzz,[1]>
+<by,[35, 27, 46, 30, 28, 41, 34, 19, 26, 43]>
+<byes,[1]>
+<byplay,[1]>
+<c,[2]>
+<cabbage,[1]>
+<cabinet,[1, 1]>
+<cabinets,[1]>
+<cage,[2, 2]>
+<cakes,[1]>
+<cal,[1]>
+<calamities,[1]>
+<calamity,[1]>
+<calculate,[1]>
+<calculated,[1]>
+<calf,[1]>
+<calico,[1, 1]>
+<call,[4, 4, 2, 1, 1, 5, 3, 3]>
+<called,[3, 9, 1, 9, 7, 3, 2, 3, 6, 3]>
+<calling,[1, 2, 1, 1, 1]>
+<calls,[1, 1, 1, 4, 1]>
+<calm,[3, 1, 2, 1]>
+<calmer,[1]>
+<calmly,[1]>
+<came,[14, 15, 8, 14, 8, 12, 12, 20, 22, 8]>
+<camp,[1, 1]>
+<camphor,[1]>
+<camps,[1]>
+<can,[10, 29, 28, 18, 11, 17, 21, 20, 24, 23]>
+<canary,[1]>
+<candles,[1]>
+<candy,[1]>
+<cane,[1, 1]>
+<cannot,[3, 5, 4, 2]>
+<canonized,[1]>
+<cap,[2, 1, 1, 2]>
+<capabilities,[1]>
+<capital,[2, 1, 1, 2, 1, 3, 2]>
+<capitally,[1]>
+<capitals,[1]>
+<capped,[1]>
+<capricious,[1]>
+<caps,[2]>
+<captain,[4]>
+<captivate,[1]>
+<captivating,[1]>
+<captive,[1]>
+<capturing,[1]>
+<card,[1, 1]>
+<cards,[1, 1, 2]>
+<care,[9, 2, 10, 5, 8, 6, 7, 8, 2, 9]>
+<cared,[1, 1, 1, 1]>
+<careful,[1, 1, 1, 1, 1]>
+<carefully,[1, 2, 2, 2, 2, 2, 1]>
+<careless,[1]>
+<cares,[1, 1, 1, 2]>
+<caress,[1, 1]>
+<caressed,[1, 1, 1, 1]>
+<caresses,[1]>
+<caricatures,[1, 1]>
+<carnelian,[3]>
+<carol,[1]>
+<carpeting,[1]>
+<carpets,[1]>
+<carriage,[6, 1, 2, 3]>
+<carriages,[1]>
+<carried,[2, 1, 1, 1, 1, 1, 1]>
+<carry,[1, 2, 1, 2, 1, 2]>
+<cart,[1]>
+<carved,[1]>
+<carving,[1]>
+<case,[1, 1, 1, 1]>
+<cases,[2]>
+<cask,[1]>
+<cast,[1, 1, 1, 2]>
+<castle,[2, 12, 1, 1]>
+<castles,[1, 1]>
+<casts,[1]>
+<cat,[4, 3]>
+<catch,[1, 1, 3, 1]>
+<catching,[1, 1]>
+<caterpillars,[1]>
+<catholic,[1]>
+<catnip,[1]>
+<cats,[3, 1, 3, 3]>
+<caught,[2, 3, 1, 3, 2]>
+<cause,[1, 3]>
+<caused,[3, 1, 1, 1, 1, 1]>
+<cavalier,[1]>
+<cease,[1]>
+<ceased,[2]>
+<ceasing,[1]>
+<cedar,[1]>
+<celebrate,[1]>
+<celebrated,[1, 1]>
+<cellar,[1, 1, 1]>
+<centaur,[1]>
+<cents,[1]>
+<ceremonies,[1, 1, 1]>
+<ceremony,[1, 1]>
+<certain,[1, 1, 2, 1, 2, 4, 1, 1, 2]>
+<certainly,[1, 1, 1, 1]>
+<cette,[1]>
+<chagrin,[1]>
+<chair,[3, 2, 2, 4, 4, 3, 10, 3]>
+<chairs,[1, 1, 1, 1, 1]>
+<chambers,[1]>
+<champagne,[2]>
+<chance,[3, 1, 2, 2, 2, 1]>
+<change,[2, 1, 1, 4, 1, 5, 6, 4]>
+<changed,[2, 1, 1, 1, 1]>
+<changes,[1]>
+<changing,[1, 1, 1]>
+<chaotic,[1]>
+<chap,[1]>
+<chapel,[4]>
+<chaperone,[1]>
+<chapter,[1, 1, 1]>
+<character,[1, 1, 1, 1, 1]>
+<characteristic,[1]>
+<characteristically,[1]>
+<characters,[1, 1]>
+<charge,[6]>
+<charged,[1, 1]>
+<charger,[1]>
+<charges,[1]>
+<charitable,[1]>
+<charities,[1]>
+<charity,[2, 1, 1]>
+<charm,[1, 2, 1]>
+<charmante,[1]>
+<charmed,[1, 1, 1]>
+<charming,[1, 4, 2, 3, 2]>
+<charms,[2, 1]>
+<chased,[1]>
+<chasing,[1]>
+<chaste,[1]>
+<chateau,[1]>
+<chatted,[2, 1]>
+<chattered,[2, 3]>
+<chattering,[1]>
+<cheat,[1, 2]>
+<check,[1, 3, 1]>
+<checked,[1, 1]>
+<checks,[1]>
+<cheek,[1, 1, 1, 2, 1, 2, 1, 1]>
+<cheeks,[2, 2, 3, 3, 1, 1, 1, 2]>
+<cheer,[1, 1, 1]>
+<cheered,[1, 1, 1, 1]>
+<cheerful,[1, 1, 2, 1, 1, 2, 2, 2]>
+<cheerfully,[3, 2, 2, 4, 2]>
+<cheeriness,[1]>
+<cheering,[1, 1, 1, 1]>
+<cheers,[1, 1]>
+<cheery,[2, 1]>
+<cherished,[1, 1, 1, 1]>
+<cherub,[1]>
+<chess,[1]>
+<chest,[1, 2, 1]>
+<chestnut,[1, 1, 1, 1]>
+<chests,[2, 1]>
+<chewing,[1, 1]>
+<chick,[2]>
+<chicken,[1]>
+<chickens,[1]>
+<chicks,[1]>
+<chickweed,[1, 1]>
+<chief,[1, 1, 1, 1, 1, 1]>
+<child,[1, 4, 5, 9, 6, 1, 1, 6, 2]>
+<childish,[1, 1, 1]>
+<childless,[1]>
+<children,[9, 5, 9, 3, 7, 3, 3, 6, 3]>
+<chill,[1]>
+<chilled,[1]>
+<chillen,[1]>
+<chilly,[1, 1, 1, 1]>
+<chin,[2, 1, 1]>
+<china,[1, 1, 1, 1]>
+<chirp,[1, 1]>
+<chirped,[1]>
+<chirping,[1]>
+<chocolate,[3, 1]>
+<choicest,[1]>
+<choir,[1]>
+<choke,[2]>
+<choked,[1]>
+<chokes,[1]>
+<choky,[1]>
+<choose,[1, 1, 1, 3, 2, 2]>
+<chord,[1]>
+<chorus,[1]>
+<chose,[1, 1, 1, 2]>
+<chosen,[1, 1, 2, 1, 1]>
+<christened,[1]>
+<chronic,[1]>
+<chrysanthemum,[1]>
+<chubby,[1, 1]>
+<chuckled,[1]>
+<churchyard,[1]>
+<churning,[1]>
+<cigars,[1]>
+<cinders,[1]>
+<circle,[1, 1]>
+<circulated,[1]>
+<circulating,[1]>
+<circumspection,[1]>
+<circumstances,[1]>
+<circus,[1]>
+<citron,[1]>
+<city,[3, 1, 2, 1, 1]>
+<civil,[1, 1]>
+<civilly,[1]>
+<claim,[1, 1]>
+<clapped,[1, 1, 1]>
+<clapping,[1]>
+<clash,[1]>
+<clashed,[1, 1]>
+<clashing,[1, 1]>
+<clasp,[1]>
+<clasped,[1, 1]>
+<clasping,[1]>
+<class,[2, 1]>
+<classical,[1]>
+<clattered,[1]>
+<claw,[1]>
+<clawing,[1]>
+<claws,[1]>
+<clay,[1, 1, 1]>
+<clean,[2]>
+<cleaned,[1, 1]>
+<clear,[1, 2, 1, 1]>
+<cleared,[1, 1, 1, 1]>
+<clearer,[1]>
+<clearing,[1]>
+<clearly,[1]>
+<clerk,[1]>
+<clever,[1, 3, 1]>
+<climax,[1]>
+<climb,[4]>
+<climbed,[1]>
+<clinging,[1]>
+<clipped,[1]>
+<cloak,[3, 1, 1]>
+<clock,[1, 1, 1, 2, 1, 4, 2]>
+<clocks,[1]>
+<close,[1, 1, 2, 1, 2, 1, 2, 2]>
+<closed,[1, 1]>
+<closely,[1, 1, 1, 1]>
+<closet,[1, 1, 4, 2, 4, 1]>
+<closets,[1]>
+<closing,[1]>
+<cloth,[1]>
+<clothed,[1]>
+<clothes,[1, 2, 1, 2, 2, 1, 4, 1]>
+<clothesbrush,[1]>
+<clothespin,[1]>
+<clothespins,[1]>
+<cloud,[1, 1]>
+<clouds,[2, 2]>
+<club,[10]>
+<clubroom,[1]>
+<clumsy,[1]>
+<clung,[1, 2]>
+<cluster,[1, 1]>
+<clustered,[1]>
+<clutch,[1]>
+<clutched,[1]>
+<coach,[1]>
+<coachman,[1]>
+<coal,[1]>
+<coat,[2, 1, 2, 1]>
+<coax,[1]>
+<coaxingly,[1]>
+<cock,[1]>
+<cockles,[1]>
+<coddling,[1]>
+<codes,[1]>
+<codicils,[1]>
+<coffee,[1, 4, 1, 1, 2, 3]>
+<coffeepot,[1, 1]>
+<coffin,[1]>
+<coherent,[1]>
+<coins,[1]>
+<cold,[2, 3, 3, 1, 4, 2, 1, 5, 2]>
+<colder,[1]>
+<coldly,[1, 1]>
+<colds,[1]>
+<collar,[2, 1]>
+<collared,[1]>
+<collars,[1]>
+<collected,[1, 1, 1]>
+<collecting,[1]>
+<collection,[4]>
+<college,[1, 2, 1, 1, 4]>
+<cologne,[1]>
+<colonel,[1]>
+<color,[1, 1, 2, 1, 1, 2, 1]>
+<colored,[3, 3, 1, 1, 1]>
+<colors,[1]>
+<colt,[1, 3]>
+<comb,[1]>
+<combed,[1]>
+<combs,[1]>
+<come,[13, 16, 4, 14, 9, 9, 13, 20, 9, 8]>
+<comes,[1, 3, 1, 2, 2, 5, 2, 1, 5]>
+<comfort,[3, 5, 3, 1, 3, 2, 1, 9, 4, 2]>
+<comfortable,[1, 3, 1, 1, 3, 3, 3, 2]>
+<comfortably,[1, 1, 1]>
+<comforted,[1, 2, 3, 1, 1]>
+<comforting,[2, 1]>
+<comforts,[1, 2, 1]>
+<comic,[1, 1]>
+<comical,[1, 1, 3, 2, 2, 1, 1]>
+<comically,[1]>
+<coming,[2, 4, 3, 2, 3, 1, 3, 5, 2]>
+<comings,[1]>
+<command,[1]>
+<commanded,[2, 1]>
+<commander,[1, 1]>
+<commanding,[1]>
+<commendation,[1]>
+<comment,[1]>
+<commercial,[1]>
+<commisary,[1]>
+<commissary,[1]>
+<commissions,[1]>
+<committed,[1]>
+<common,[1]>
+<community,[1]>
+<commy,[1, 1]>
+<companion,[1]>
+<companionship,[1]>
+<company,[4, 1, 2, 3, 3, 3]>
+<compare,[1]>
+<compared,[1, 1, 1]>
+<comparing,[1]>
+<compasses,[1]>
+<compensation,[1]>
+<compilation,[1]>
+<complacently,[2, 1]>
+<complain,[1, 2, 3, 1, 1]>
+<complained,[2, 1]>
+<complaining,[2]>
+<complains,[1]>
+<complaints,[1, 1]>
+<complete,[1, 1, 1]>
+<completed,[1]>
+<compliance,[4]>
+<compliment,[2, 1, 2, 1]>
+<compliments,[1, 2, 1, 1]>
+<comply,[6, 1]>
+<complying,[3]>
+<composed,[1, 1, 1]>
+<composing,[1]>
+<composure,[1]>
+<compressed,[1]>
+<computer,[2]>
+<computers,[2]>
+<conceal,[1, 1]>
+<concealed,[2, 1]>
+<conceit,[1]>
+<conceited,[2]>
+<concept,[2]>
+<concern,[1]>
+<concerned,[1]>
+<concerning,[2]>
+<concerts,[1]>
+<conclude,[1]>
+<conclusion,[1]>
+<condemned,[1]>
+<condemning,[1]>
+<condemns,[1]>
+<condescended,[1]>
+<condescension,[1, 1]>
+<condition,[1, 1, 1]>
+<conducted,[1, 1]>
+<cone,[1]>
+<cones,[3]>
+<confectionery,[1]>
+<conferred,[1]>
+<confess,[2, 1, 1, 1, 1, 1]>
+<confessed,[1, 2]>
+<confessing,[1]>
+<confession,[1]>
+<confidant,[1, 1, 1, 1]>
+<confidante,[1]>
+<confide,[1, 1]>
+<confidence,[1, 2, 1, 1, 1]>
+<confidences,[1]>
+<confidential,[1, 1]>
+<confides,[1]>
+<confiding,[1, 1, 1, 1]>
+<confidingly,[1, 1, 1]>
+<confine,[1]>
+<confinement,[2]>
+<confirm,[1]>
+<confirmation,[1]>
+<confirmed,[1, 1]>
+<confiscated,[1, 1]>
+<confounded,[1, 1]>
+<confused,[1, 1]>
+<confusion,[1, 1, 2, 1]>
+<congratulating,[1]>
+<congregate,[1]>
+<conjugal,[1]>
+<conjured,[1]>
+<conquer,[1, 2]>
+<conquered,[2, 1]>
+<conscience,[1, 1]>
+<conscientious,[1]>
+<consciousness,[1, 1, 1]>
+<consent,[1, 1, 1]>
+<consented,[1, 1, 1]>
+<conservatory,[1, 3, 1]>
+<consider,[1]>
+<considerable,[2]>
+<considered,[5, 1, 1, 2, 1, 1]>
+<considering,[1]>
+<consigned,[1]>
+<consist,[1]>
+<consisting,[1]>
+<consolation,[1, 1, 1]>
+<console,[1, 1, 1]>
+<consoled,[1]>
+<consoler,[1]>
+<consolingly,[1]>
+<constant,[1, 1, 1]>
+<constantly,[1, 1]>
+<consult,[2, 1]>
+<consumed,[1]>
+<contact,[3]>
+<contain,[2]>
+<contained,[2]>
+<containing,[1]>
+<contempt,[1]>
+<content,[2, 1, 1, 1, 2]>
+<contented,[1, 1, 4, 1, 1, 1]>
+<contentedly,[1]>
+<contentment,[1]>
+<contents,[1]>
+<contested,[1]>
+<continually,[1, 1]>
+<continued,[3, 1, 2, 2, 1]>
+<continues,[1]>
+<continuing,[1]>
+<contraband,[1]>
+<contradick,[1]>
+<contradictions,[1]>
+<contraries,[1, 1]>
+<contrary,[1, 1, 1, 1]>
+<contrast,[1, 1]>
+<contrasted,[1]>
+<contrasting,[1]>
+<contributed,[1]>
+<contribution,[1]>
+<contributions,[3, 2]>
+<contrite,[1]>
+<control,[1, 1, 1, 1, 1, 1]>
+<controlling,[1]>
+<convenience,[1]>
+<conversation,[1, 1, 2, 2, 1]>
+<conversations,[1, 1, 1]>
+<convert,[1]>
+<convicted,[1]>
+<conviction,[2]>
+<convincing,[2]>
+<convulsed,[1, 1, 1, 1]>
+<convulsive,[1]>
+<cook,[1, 4, 1]>
+<cooked,[1]>
+<cookery,[1]>
+<cookies,[1]>
+<cooking,[1, 2, 1]>
+<cooks,[1]>
+<cool,[3, 2, 1, 1, 1, 1]>
+<cooled,[1, 1]>
+<cooler,[1]>
+<cooling,[1, 1]>
+<coolness,[1]>
+<copied,[2, 2, 1]>
+<copies,[7]>
+<copiously,[1]>
+<copy,[1, 11, 1, 2, 2, 1]>
+<copybooks,[1]>
+<copying,[1, 4]>
+<copyright,[19]>
+<coquetry,[1]>
+<coral,[1]>
+<coralline,[1]>
+<cordial,[2, 1, 1]>
+<cordially,[1]>
+<corned,[1]>
+<corner,[1, 2, 2, 6, 2, 4, 1]>
+<corners,[1, 1, 1]>
+<corporal,[1]>
+<corporation,[1]>
+<correct,[1, 2]>
+<correcting,[1]>
+<correction,[1]>
+<correspondence,[1]>
+<corridor,[1]>
+<corroberate,[1]>
+<corrupt,[1]>
+<cost,[2, 1, 1]>
+<costing,[1]>
+<costly,[1]>
+<costs,[2]>
+<costumes,[1]>
+<cotton,[1, 1, 1]>
+<could,[29, 21, 20, 21, 17, 10, 17, 19, 22, 12]>
+<couldn,[3, 10, 5, 3, 5, 1, 3, 4, 4, 9]>
+<counsels,[1]>
+<count,[2]>
+<countenance,[1, 2, 2, 2, 1]>
+<counter,[1]>
+<counteract,[1]>
+<counterfeit,[1]>
+<counters,[1]>
+<counting,[1, 1]>
+<countries,[1]>
+<country,[3, 3, 1, 5]>
+<couple,[2, 1, 1, 2, 1, 1]>
+<courage,[1, 2, 2]>
+<course,[6, 1, 5, 5, 3, 4, 6, 4, 1, 3]>
+<courtesy,[1]>
+<cousin,[1, 1]>
+<cousins,[1]>
+<cover,[1, 1, 1, 1, 2, 2]>
+<covered,[2, 3, 2, 3]>
+<covering,[1, 1]>
+<coverlet,[1, 1]>
+<covet,[1]>
+<covetousness,[1]>
+<cow,[1]>
+<cowardly,[1]>
+<cozily,[1]>
+<cozy,[2, 1]>
+<cracked,[1]>
+<crackers,[1]>
+<crash,[1]>
+<cravats,[1]>
+<crave,[1]>
+<crazy,[1, 1, 1]>
+<creaked,[1]>
+<cream,[1, 5, 1]>
+<creamy,[1]>
+<created,[2, 1, 1]>
+<creating,[3]>
+<creation,[1, 1]>
+<creature,[2, 1, 1, 2, 1]>
+<creatures,[1, 1, 1, 1, 1]>
+<credit,[1, 2, 1, 1, 1]>
+<creep,[1]>
+<creeters,[1]>
+<crept,[1, 1, 1, 1, 1]>
+<crew,[1]>
+<cricket,[2, 3, 1, 1, 1]>
+<crickets,[1, 1]>
+<cried,[5, 13, 7, 9, 11, 13, 6, 14, 9, 9]>
+<cries,[1, 1]>
+<crimp,[1]>
+<crimped,[1]>
+<crimson,[1, 1, 1]>
+<crisp,[1]>
+<crisscross,[1]>
+<critical,[1]>
+<critically,[1, 1]>
+<criticisms,[1]>
+<criticized,[1, 1, 1, 1]>
+<croak,[2, 1, 2, 1, 1]>
+<croaked,[1, 1]>
+<crochet,[1]>
+<crochety,[1]>
+<crocky,[1]>
+<crooked,[1]>
+<crop,[3, 2, 1]>
+<cropped,[1]>
+<croquet,[3, 3]>
+<croqueting,[1]>
+<cross,[1, 3, 2, 3, 1, 2, 4, 2]>
+<crosser,[1]>
+<crossest,[1]>
+<crossing,[1]>
+<crossly,[1, 1, 1]>
+<crosspatch,[1]>
+<crow,[1]>
+<crowd,[1]>
+<crowned,[1]>
+<crowning,[2]>
+<cruel,[1, 2, 1]>
+<cruelty,[1]>
+<crumpled,[1, 1]>
+<crushed,[1, 1, 1]>
+<crustiness,[1]>
+<crutch,[1, 1, 1, 1]>
+<cry,[1, 1, 2, 5, 1, 1, 4, 7, 1]>
+<cryin,[1]>
+<crying,[1, 1, 2, 1, 3, 2, 3, 1]>
+<cuddled,[1, 1, 1]>
+<cuffs,[1]>
+<culinary,[1]>
+<culprit,[1, 1]>
+<cultivate,[1]>
+<cultivated,[1]>
+<cunning,[1, 1]>
+<cup,[1, 2]>
+<cupboard,[1]>
+<cups,[1, 2, 1]>
+<curb,[1]>
+<cure,[3, 1, 1]>
+<curiosities,[1]>
+<curiosity,[2, 4]>
+<curious,[1, 2]>
+<curiously,[1]>
+<curl,[1, 2, 1, 1]>
+<curled,[1]>
+<curling,[1]>
+<curlpapers,[1]>
+<curls,[1, 1, 2, 1, 1, 1]>
+<curly,[3, 3, 1]>
+<current,[1]>
+<curtain,[3, 1, 1, 1]>
+<curtained,[1, 1]>
+<curtains,[2, 1, 1, 1]>
+<curtsies,[1]>
+<cushion,[1, 2, 1, 2]>
+<cushions,[2]>
+<customary,[1]>
+<customer,[1]>
+<customs,[1]>
+<cut,[3, 1, 1, 2, 1, 2, 1, 1]>
+<cutting,[1, 1, 1]>
+<cyclops,[1]>
+<cymbal,[1]>
+<d,[6, 16, 4, 8, 11, 7, 18, 19, 9, 13]>
+<daddy,[1]>
+<dahlia,[1]>
+<daily,[1, 1, 3, 4, 1, 2]>
+<daintily,[1, 1]>
+<dainty,[1, 1]>
+<daisies,[2]>
+<daisy,[1]>
+<damage,[1, 1, 1]>
+<damaged,[1, 1]>
+<damages,[2]>
+<damp,[1, 2]>
+<dampness,[1]>
+<damsel,[1]>
+<dance,[1, 6, 1, 1, 1, 2]>
+<danced,[2, 1, 1, 2, 1]>
+<dances,[1, 1]>
+<dancing,[1, 2, 1, 1]>
+<dandelions,[1]>
+<danger,[1, 1, 4]>
+<dangerous,[1]>
+<dangerously,[1]>
+<dare,[2, 1, 2, 2, 2, 3, 4, 3]>
+<dared,[1, 1]>
+<daring,[1, 1]>
+<dark,[1, 1, 1, 1, 1, 3, 2]>
+<darkened,[1, 1]>
+<darkly,[1, 1]>
+<darkness,[1]>
+<darling,[1, 1, 1]>
+<darlings,[2]>
+<dart,[1]>
+<darted,[1]>
+<das,[1]>
+<dash,[1, 1, 1]>
+<dashed,[1]>
+<dashes,[1]>
+<dashing,[1]>
+<dat,[1]>
+<data,[1]>
+<date,[2]>
+<dates,[1]>
+<daughter,[3, 2, 2, 4, 2, 1, 2, 1]>
+<daughters,[1, 2, 4, 1, 1, 1, 1]>
+<daunted,[1, 1]>
+<daunts,[1]>
+<dawdle,[1, 2]>
+<dawdled,[1]>
+<dawdling,[2]>
+<dawn,[1]>
+<day,[13, 10, 11, 12, 11, 15, 13, 23, 22, 12]>
+<days,[3, 2, 5, 2, 3, 4, 2, 1, 3]>
+<dazzling,[1]>
+<de,[1, 1]>
+<deaconed,[1]>
+<dead,[1, 2, 6, 4, 3]>
+<deaf,[1]>
+<deal,[3, 6, 3, 2, 5, 3, 3, 1]>
+<dear,[11, 8, 9, 10, 16, 6, 7, 24, 18, 11]>
+<dearer,[2, 1]>
+<dearest,[2, 2, 1, 3, 1, 1]>
+<dearies,[1]>
+<dearly,[4, 2, 1, 1, 1]>
+<dears,[1, 1]>
+<deary,[1, 1]>
+<death,[2, 1, 5]>
+<debt,[2, 1]>
+<debts,[1, 2]>
+<decayed,[1]>
+<deceive,[1, 1, 1]>
+<deceived,[1]>
+<decent,[1, 1]>
+<deception,[1]>
+<decide,[1, 1]>
+<decided,[2, 4, 1, 1, 2, 1, 1, 1, 2]>
+<decidedly,[1, 2, 1, 2, 1, 1, 2, 4]>
+<deciding,[1]>
+<decision,[1, 1]>
+<decks,[1]>
+<declarations,[1]>
+<declare,[1, 1, 1]>
+<declared,[2, 2, 1, 1, 3, 1, 1]>
+<declaring,[1, 1, 1]>
+<declined,[1, 1]>
+<decorated,[1, 1]>
+<decorous,[1, 1]>
+<decorously,[1]>
+<deductible,[1]>
+<deed,[1]>
+<deeds,[1]>
+<deep,[1, 1, 1, 1, 3, 2]>
+<deepening,[1]>
+<deeper,[1, 1]>
+<deeply,[2, 2, 1, 4, 1]>
+<deer,[2]>
+<defeat,[1, 1]>
+<defeating,[1]>
+<defect,[2]>
+<defective,[3]>
+<defects,[1]>
+<defend,[1]>
+<defended,[1]>
+<defender,[1]>
+<defending,[1]>
+<defiant,[1]>
+<defiantly,[1, 1]>
+<deficiencies,[1]>
+<deggerredation,[1]>
+<degrading,[1]>
+<degree,[1]>
+<delay,[1, 1, 2, 1]>
+<delayed,[1]>
+<delays,[1]>
+<deletions,[1]>
+<deli,[1]>
+<deliberately,[1]>
+<delicate,[1, 1, 1, 1]>
+<delicately,[1]>
+<delicious,[1, 2, 1, 1]>
+<deliciously,[1]>
+<delight,[5, 1, 3, 1, 1, 1, 1]>
+<delighted,[2, 1, 2, 1, 1, 2, 1, 2]>
+<delightful,[1, 3, 2, 1, 3, 1, 2, 1]>
+<delightfully,[2, 1, 1]>
+<delights,[1, 1]>
+<deliver,[1, 1, 1, 1, 1]>
+<delivered,[1]>
+<delivering,[1]>
+<delusion,[1, 1]>
+<delve,[1]>
+<demand,[1, 1]>
+<demanded,[1, 1, 1]>
+<demanding,[1, 2]>
+<demeanor,[1, 1]>
+<demijohn,[1]>
+<demoiselle,[1]>
+<demoiselles,[1]>
+<demon,[1]>
+<demonstrative,[1, 1]>
+<demurely,[1]>
+<denial,[1, 1, 1]>
+<denouncing,[1]>
+<dentist,[1]>
+<depart,[1]>
+<departed,[2, 1, 2, 1, 3, 1]>
+<department,[1]>
+<departs,[1]>
+<departure,[1, 1]>
+<depend,[1, 1]>
+<dependable,[1]>
+<depended,[1]>
+<depends,[1, 1, 1]>
+<deplorable,[1]>
+<deportment,[1]>
+<deposited,[1]>
+<depth,[1]>
+<depths,[1, 1]>
+<derivative,[3]>
+<derive,[1]>
+<derived,[1]>
+<descended,[1]>
+<descending,[1]>
+<describe,[2, 1, 1]>
+<described,[1, 1]>
+<description,[1, 2]>
+<desert,[1]>
+<deserted,[1]>
+<deserve,[2, 1, 1, 1, 1, 2]>
+<deserved,[1, 3, 1, 2]>
+<deserves,[1]>
+<designing,[1]>
+<desirable,[1]>
+<desire,[1, 1, 1, 1, 1]>
+<desired,[1, 1, 1, 1]>
+<desires,[1]>
+<desk,[6, 1, 1, 1, 1]>
+<desks,[1]>
+<desolation,[1]>
+<despair,[3, 2, 1, 2, 1, 2]>
+<despairing,[1, 1]>
+<despairingly,[1]>
+<desperate,[1, 1]>
+<desperately,[1, 1, 1, 1]>
+<despond,[1]>
+<despondency,[1]>
+<despondent,[2]>
+<despondently,[1]>
+<dess,[1]>
+<dessert,[1]>
+<destination,[1]>
+<destitute,[1]>
+<destitution,[1]>
+<destroy,[2]>
+<destroyed,[1, 1]>
+<detach,[1]>
+<detachment,[1]>
+<detained,[1]>
+<detains,[1]>
+<determine,[1]>
+<determined,[1, 1]>
+<detested,[1]>
+<detriment,[1]>
+<deuce,[1, 1]>
+<developed,[1]>
+<develops,[1]>
+<devices,[1]>
+<devise,[1]>
+<devote,[1, 1]>
+<devoted,[1, 2, 2, 1, 2, 3]>
+<devoting,[1, 1]>
+<devotion,[4]>
+<devoured,[1]>
+<devout,[1]>
+<dewy,[1]>
+<dexterity,[1]>
+<diamonds,[3]>
+<dickens,[1, 1]>
+<dictionaries,[1]>
+<did,[15, 23, 6, 17, 25, 21, 17, 19, 31, 16]>
+<didn,[10, 13, 4, 9, 10, 8, 9, 13, 4, 12]>
+<didoes,[1]>
+<die,[1, 1, 2, 1, 1, 2, 4]>
+<died,[1, 1, 2, 2, 2, 1, 5]>
+<dies,[1, 1]>
+<differ,[1]>
+<differed,[1]>
+<difference,[1, 1]>
+<different,[2, 2, 3, 1, 1]>
+<difficult,[1]>
+<difficulties,[1]>
+<difficulty,[1, 1, 1]>
+<dig,[2]>
+<digest,[1]>
+<dignified,[1, 3]>
+<dignity,[1, 1, 4]>
+<dilapidated,[1, 1]>
+<diligently,[1]>
+<dim,[1, 1, 1, 1]>
+<dimple,[1]>
+<dined,[1]>
+<dining,[1, 1]>
+<dinner,[3, 2, 15, 1, 1, 5]>
+<dint,[1]>
+<directed,[1]>
+<directing,[1]>
+<directly,[1, 2]>
+<dirt,[1]>
+<dirty,[1, 1, 1, 1, 1]>
+<disagreeable,[1, 1, 1]>
+<disappearance,[1]>
+<disappeared,[1, 1]>
+<disappearing,[1]>
+<disappoint,[1]>
+<disappointed,[1, 2, 2, 1, 2, 2, 1]>
+<disappointing,[1]>
+<disappointment,[1]>
+<disapprobation,[1]>
+<disapproval,[1]>
+<disapproving,[1]>
+<disastrous,[1]>
+<discarded,[1]>
+<disclaim,[1]>
+<disclaimer,[2]>
+<disclaimers,[1]>
+<disclosing,[1]>
+<disconsolate,[1]>
+<discontented,[2, 1, 1]>
+<discontinue,[1]>
+<discouraging,[1]>
+<discover,[1, 1]>
+<discovered,[2, 1, 1, 1, 1, 6, 1, 1, 1]>
+<discoveries,[1]>
+<discovering,[1]>
+<discovery,[2]>
+<discreetly,[1]>
+<discretion,[1, 1]>
+<discussing,[1]>
+<discussion,[1, 1, 1]>
+<discussions,[1, 1]>
+<disdainful,[1]>
+<disfavor,[1]>
+<disgrace,[1, 1]>
+<disgraced,[1, 1, 1]>
+<disgraceful,[1]>
+<disgust,[1, 1]>
+<disgusted,[1, 1]>
+<disgusting,[1]>
+<dish,[2, 2, 1]>
+<dished,[1]>
+<dishes,[2]>
+<disheveled,[1, 1, 1]>
+<disk,[1]>
+<dislike,[1]>
+<disliked,[1, 1]>
+<dismal,[1, 3, 1, 2, 1]>
+<dismally,[2]>
+<dismay,[1, 2, 2, 1, 1]>
+<dismayed,[1]>
+<dismiss,[1]>
+<dismissed,[1]>
+<disobedience,[1]>
+<dispatch,[1]>
+<dispatches,[2]>
+<disperse,[1]>
+<dispersed,[1]>
+<dispirited,[1]>
+<display,[1, 1, 1, 1]>
+<displayed,[1, 1]>
+<displaying,[4, 2, 1]>
+<displeased,[1, 2, 1]>
+<disposed,[1, 1]>
+<disposing,[1]>
+<disposition,[1]>
+<disrespectful,[2]>
+<dissatisfaction,[1]>
+<dissatisfied,[1]>
+<dissoluble,[1]>
+<distance,[1]>
+<distant,[1]>
+<distasteful,[1]>
+<distilled,[1]>
+<distinctly,[1]>
+<distinguished,[1]>
+<distorting,[1]>
+<distortions,[1]>
+<distract,[1]>
+<distracted,[1, 1, 1]>
+<distracting,[1]>
+<distress,[1]>
+<distressed,[1, 1]>
+<distribute,[5]>
+<distributed,[4, 1]>
+<distributing,[7, 1]>
+<distribution,[6]>
+<disturb,[2, 1, 1]>
+<disturbed,[1, 3, 2, 2]>
+<dive,[1, 1]>
+<dived,[2]>
+<diver,[2]>
+<diversions,[1]>
+<diverted,[1]>
+<divided,[1]>
+<divine,[1]>
+<do,[33, 44, 25, 28, 33, 30, 58, 36, 26, 32]>
+<docile,[1]>
+<doctor,[1, 2, 8, 1]>
+<doctored,[1]>
+<document,[2]>
+<dodge,[1]>
+<does,[5, 10, 4, 1, 7, 4, 1, 8, 4, 6]>
+<doesn,[2, 3, 1, 3, 9, 4, 3, 2, 6, 4]>
+<dog,[1, 3, 2]>
+<dogs,[1, 1]>
+<doin,[1]>
+<doing,[3, 4, 4, 4, 3, 2, 2, 3, 2]>
+<dolefully,[1]>
+<doll,[1, 4, 1, 1]>
+<dollanity,[1]>
+<dollars,[1, 2, 1]>
+<dolls,[4, 1, 1, 2, 1, 1]>
+<dolly,[1]>
+<domain,[2]>
+<domestic,[1, 2, 1]>
+<domino,[2]>
+<don,[16, 23, 9, 19, 18, 19, 27, 21, 23, 28]>
+<donate,[5]>
+<donation,[1]>
+<donations,[12]>
+<done,[6, 5, 5, 3, 6, 7, 4, 10, 10, 13]>
+<donkey,[1]>
+<donors,[1]>
+<doom,[1]>
+<doomed,[1]>
+<door,[5, 4, 3, 10, 7, 8, 1, 3, 14]>
+<doors,[1, 1]>
+<doorway,[2]>
+<doos,[1]>
+<dose,[1]>
+<dote,[1]>
+<dotes,[1]>
+<doth,[1]>
+<dots,[1]>
+<double,[1, 2]>
+<doubly,[2]>
+<doubt,[2, 1, 2, 1]>
+<doubtful,[1, 1]>
+<doubts,[1, 1, 1, 1]>
+<doves,[2]>
+<dowdy,[2]>
+<down,[15, 17, 6, 15, 10, 8, 14, 13, 18, 23]>
+<downcast,[1, 1]>
+<downfall,[1]>
+<downloading,[1]>
+<downs,[1]>
+<downstairs,[2, 1, 2, 1, 1]>
+<downward,[1]>
+<doze,[1]>
+<dozed,[1]>
+<dozen,[3, 3, 3, 1, 1, 4, 3]>
+<dozens,[1]>
+<dozy,[1]>
+<drab,[1]>
+<drag,[1, 1]>
+<dragged,[1, 1]>
+<draggle,[1]>
+<dragon,[1]>
+<drama,[1]>
+<dramatic,[1]>
+<drank,[1, 1, 2, 1]>
+<draw,[1, 1, 2, 6, 1, 1]>
+<drawer,[1, 1]>
+<drawers,[1]>
+<drawing,[1, 2, 4, 2, 2, 1]>
+<drawn,[1, 1, 1]>
+<draws,[1]>
+<dread,[1, 2, 1]>
+<dreaded,[1]>
+<dreadful,[5, 1, 4, 4, 3, 3, 2, 6, 1]>
+<dreadfully,[1, 1, 1, 1, 1, 2]>
+<dream,[1, 1, 1]>
+<dreamed,[1, 1, 1]>
+<dreaming,[1]>
+<dreams,[3, 1, 2, 1]>
+<dreary,[1, 1, 1, 1]>
+<drenching,[1]>
+<dress,[1, 4, 15, 5, 1, 6, 1, 1]>
+<dressed,[1, 1, 3, 1, 1, 1]>
+<dresser,[1]>
+<dresses,[2, 3, 1]>
+<dressing,[3, 1, 1, 1, 1]>
+<drew,[1, 3, 1, 3, 4, 1]>
+<dried,[2]>
+<drifting,[1]>
+<drill,[1]>
+<drink,[1, 1, 1, 1]>
+<drinkables,[1]>
+<drinking,[1, 1]>
+<drinks,[1]>
+<dripping,[1, 1]>
+<drive,[3, 1, 1, 2, 1]>
+<driven,[1]>
+<driving,[1, 1]>
+<droll,[1, 1]>
+<droning,[1]>
+<drop,[3, 2, 2, 2, 3]>
+<dropped,[1, 2, 1, 2, 1, 2, 3, 1]>
+<dropping,[1, 2, 2]>
+<drops,[4, 1, 1]>
+<drove,[2, 1, 1]>
+<drowned,[1]>
+<drowsy,[1]>
+<drum,[1]>
+<drumsticks,[1]>
+<drunk,[1, 2]>
+<dry,[1, 1, 1, 1, 1]>
+<drying,[1]>
+<duck,[1]>
+<ducks,[1]>
+<due,[1]>
+<dug,[1]>
+<dull,[1, 3, 1, 2, 2, 3]>
+<dum,[1]>
+<dumb,[1]>
+<dumbly,[1]>
+<during,[2, 1, 1, 1, 1]>
+<dursn,[1]>
+<dusk,[1, 1]>
+<dust,[1, 3, 1, 1, 1]>
+<dusted,[1, 1]>
+<dusting,[1]>
+<dusty,[1, 1, 1, 1]>
+<duties,[1, 2, 3]>
+<dutiful,[1]>
+<dutifully,[1]>
+<duty,[2, 2, 1, 3, 1, 3, 1, 1]>
+<dwell,[1]>
+<dwindled,[1, 1]>
+<dying,[1, 2, 1, 1]>
+<dyspeptic,[1]>
+<e,[1]>
+<eBook,[6]>
+<eBooks,[7]>
+<each,[1, 4, 3, 3, 9, 5, 4, 4, 4]>
+<eager,[1, 3, 1, 1, 2, 1]>
+<eagerly,[1, 2, 1]>
+<eagerness,[1]>
+<ear,[2, 2, 1, 2, 1]>
+<earl,[1]>
+<early,[5, 4, 1, 2, 2, 4, 3, 1, 2]>
+<earn,[1, 1, 1, 2]>
+<earned,[1, 2]>
+<earnest,[1, 1, 3, 1]>
+<earnestly,[2, 2, 1, 1]>
+<earnestness,[1]>
+<earnings,[1]>
+<earrings,[3]>
+<ears,[1, 2, 2]>
+<earth,[1, 2]>
+<earthly,[1, 1]>
+<earthquake,[1, 1, 1]>
+<earwiggy,[1]>
+<ease,[5, 1, 2, 1, 1]>
+<easier,[2, 1, 1]>
+<easily,[1, 1, 1]>
+<east,[1]>
+<easterly,[1]>
+<easy,[3, 3, 2, 1, 4, 2, 2, 2]>
+<eat,[2, 4, 1, 4, 2, 2, 1, 4]>
+<eatables,[1]>
+<eaten,[1]>
+<eatin,[1]>
+<eating,[1, 1, 1, 1]>
+<eats,[1, 1]>
+<ebony,[1]>
+<echoed,[1, 1, 1]>
+<eclipse,[1]>
+<economical,[1]>
+<ecstasy,[1]>
+<edibles,[1]>
+<edition,[1]>
+<editions,[4]>
+<editor,[1]>
+<education,[1, 1, 1]>
+<educational,[1]>
+<ef,[1]>
+<effect,[1, 1, 3]>
+<effective,[1, 1]>
+<effects,[1]>
+<effectually,[2, 1]>
+<effigies,[1]>
+<effort,[2, 2, 1, 2, 1]>
+<efforts,[1, 3, 3, 3, 1, 1, 1]>
+<eggs,[1]>
+<eight,[1, 1, 1]>
+<either,[1, 1, 2, 1, 1, 2, 1, 2]>
+<elated,[1]>
+<elbows,[1, 1]>
+<elder,[1, 1]>
+<elders,[1, 1]>
+<eldest,[1, 1]>
+<elect,[1]>
+<electrified,[1, 1]>
+<electronic,[27]>
+<electronically,[2]>
+<elegance,[1, 2, 1]>
+<elegant,[1, 3, 3, 1, 1, 1]>
+<element,[1]>
+<elephant,[1]>
+<elephantine,[1]>
+<eleven,[1, 1]>
+<eloquent,[1]>
+<else,[1, 4, 1, 2, 3, 3, 3]>
+<elsewhere,[1]>
+<elves,[1, 1, 1]>
+<ely,[1]>
+<em,[2, 1, 3]>
+<email,[1]>
+<embarked,[1]>
+<embarrassing,[1]>
+<embrace,[2, 1]>
+<embroidery,[1]>
+<emotion,[1, 1]>
+<emotional,[1]>
+<emotions,[1]>
+<employed,[2, 1]>
+<employee,[1]>
+<employees,[1]>
+<employing,[1]>
+<empty,[1, 4, 1, 2]>
+<emptying,[1]>
+<en,[1]>
+<enacted,[1]>
+<enchanted,[1]>
+<enclosing,[1]>
+<encounters,[1]>
+<encourage,[1]>
+<encouragement,[1]>
+<encouraging,[1, 1, 1]>
+<encouragingly,[1]>
+<encyclopedia,[1]>
+<end,[1, 2, 1, 4, 1, 2, 2, 3, 5]>
+<endeared,[1, 1]>
+<ended,[1, 1, 1, 1, 1, 1]>
+<endow,[1]>
+<ends,[3]>
+<endure,[1]>
+<enduring,[1, 1]>
+<enemies,[1, 1]>
+<enemy,[1, 1]>
+<energetic,[1, 1]>
+<energetically,[1]>
+<energy,[2, 3, 2, 1, 1, 1]>
+<engage,[1]>
+<engaged,[1, 2]>
+<engagement,[1]>
+<engaging,[1, 1]>
+<engineering,[1]>
+<engraved,[1]>
+<enjoy,[3, 7, 5, 1, 3, 2, 2, 1, 2, 2]>
+<enjoyed,[2, 1, 2, 3, 2, 1, 1]>
+<enjoying,[2, 2, 1, 1, 1, 1]>
+<enlightened,[1]>
+<enlivened,[1]>
+<ennui,[2]>
+<enough,[4, 8, 6, 6, 5, 7, 2, 7, 1, 9]>
+<enriches,[1]>
+<ensuring,[1]>
+<enter,[2, 1, 1]>
+<entered,[1, 1, 1, 1]>
+<entertain,[1, 1]>
+<entertained,[1]>
+<entertaining,[1]>
+<enthroned,[1]>
+<enthusiasm,[1]>
+<enthusiasms,[1]>
+<enthusiastic,[2]>
+<enthusiastically,[1]>
+<enticements,[1]>
+<entir,[1]>
+<entire,[1, 2]>
+<entirely,[2, 1, 2, 2, 2, 1, 2]>
+<entity,[3]>
+<entrance,[1]>
+<entry,[1, 1]>
+<envelopes,[1]>
+<envied,[1]>
+<envious,[1]>
+<envy,[3, 1, 1, 1]>
+<epitaph,[1]>
+<equal,[1, 1, 1, 1]>
+<equally,[1]>
+<equestrian,[1]>
+<equipment,[3]>
+<er,[2]>
+<erect,[1, 1]>
+<errand,[1, 1, 1]>
+<errands,[2, 1, 2, 1]>
+<errors,[1]>
+<erste,[1]>
+<eruption,[1]>
+<escape,[1, 1, 1, 1]>
+<escaped,[2, 1, 1, 1]>
+<escort,[1, 2, 1]>
+<especial,[1, 1, 1, 1]>
+<especially,[2, 1, 1, 3, 1, 1, 2, 2]>
+<espied,[1]>
+<established,[1]>
+<establishing,[1]>
+<establishment,[1, 1, 1]>
+<estate,[1]>
+<estates,[1]>
+<estimable,[2]>
+<estimate,[1]>
+<evasions,[1]>
+<even,[7, 5, 5, 7, 7, 4, 2, 5, 8, 1]>
+<evening,[8, 2, 1, 4, 6, 1]>
+<evenings,[1, 1]>
+<event,[1]>
+<eventful,[1]>
+<events,[1, 1]>
+<ever,[7, 13, 8, 9, 12, 6, 8, 7, 7, 8]>
+<evergreen,[1]>
+<everlasting,[1]>
+<evermore,[1]>
+<every,[10, 4, 5, 2, 4, 6, 6, 12, 9, 2]>
+<everybody,[2, 1, 1, 2, 3]>
+<everyone,[2, 4, 3, 3, 7, 2, 7, 3, 3]>
+<everything,[2, 1, 1, 4, 5, 2, 6, 3, 5]>
+<everywhere,[1, 1]>
+<evident,[1, 1]>
+<evidently,[2, 2, 2, 1, 1]>
+<evil,[1, 1, 1, 1]>
+<evolutions,[1]>
+<evvybody,[1]>
+<exact,[1]>
+<exactly,[1, 1, 1, 1]>
+<examine,[1, 1, 1, 2]>
+<examined,[1, 1, 1]>
+<examining,[1]>
+<example,[2, 1, 1, 1]>
+<examples,[1]>
+<exasperating,[1]>
+<exceed,[1]>
+<exceeded,[1]>
+<excellent,[1, 1, 1, 1, 3, 4]>
+<excellently,[1]>
+<except,[2, 2, 3, 2, 2, 2, 2, 2]>
+<exchanged,[1, 1]>
+<excite,[1]>
+<excited,[4, 2, 1, 2, 2, 1]>
+<excitedly,[1, 2]>
+<excitement,[1, 2, 2, 1, 2]>
+<exciting,[1, 1, 1]>
+<exclaim,[2, 1]>
+<exclaimed,[2, 4, 2, 2, 4, 2, 1]>
+<exclaiming,[1, 1, 1, 1, 1]>
+<exclamation,[1, 1, 1]>
+<exclamations,[1]>
+<exclusion,[1]>
+<excuse,[2, 1]>
+<excused,[1]>
+<execute,[1]>
+<execution,[1]>
+<exempt,[2]>
+<exercise,[1, 1, 3, 1, 2, 1]>
+<exercised,[1]>
+<exert,[1]>
+<exertion,[1]>
+<exertions,[1, 1, 1]>
+<exhaustion,[1]>
+<exhilarating,[1, 1]>
+<exile,[2]>
+<exiles,[1]>
+<exists,[2]>
+<exit,[1]>
+<expect,[3, 1]>
+<expectant,[1]>
+<expected,[1, 1, 1, 1, 1]>
+<expecting,[1, 1]>
+<expedition,[1]>
+<expend,[1]>
+<expense,[1]>
+<expenses,[2, 1]>
+<experience,[1, 1, 2, 1, 2, 2]>
+<experiences,[1, 1]>
+<experiment,[1, 8]>
+<experiments,[1, 1]>
+<explain,[2]>
+<explained,[1, 3, 1]>
+<explanation,[1, 2, 1]>
+<explode,[1]>
+<exploit,[1]>
+<exploring,[1]>
+<explosion,[1, 1]>
+<explosions,[1, 1]>
+<exporting,[1]>
+<express,[3, 2]>
+<expressed,[1, 1, 1]>
+<expressing,[1, 1]>
+<expression,[4, 1, 1, 2, 4, 1, 6, 3, 2, 5]>
+<expressionless,[1]>
+<expressions,[1, 1]>
+<expressive,[1, 1]>
+<extended,[1]>
+<extending,[1]>
+<extent,[2]>
+<extinguish,[1]>
+<extra,[1, 1]>
+<extravagance,[1]>
+<extreme,[1]>
+<extremely,[2]>
+<exult,[1, 1]>
+<exultation,[1]>
+<exulted,[1, 1]>
+<eye,[2, 3, 1, 2, 2]>
+<eyebrows,[3, 2, 1, 1, 1, 2]>
+<eyed,[1, 2, 1]>
+<eyeing,[1]>
+<eyes,[13, 8, 8, 20, 10, 9, 8, 11, 11, 13]>
+<fable,[1, 1]>
+<face,[20, 11, 4, 12, 8, 10, 18, 21, 23, 20]>
+<faced,[1]>
+<faces,[2, 1, 2, 3, 2, 2, 3, 2, 2]>
+<facility,[1]>
+<facinating,[1]>
+<fact,[4, 1, 2, 1, 1, 1, 2]>
+<factory,[1]>
+<facts,[1, 1]>
+<faded,[2, 1, 1]>
+<fail,[1, 1]>
+<failed,[3, 1, 1, 1]>
+<failing,[1, 1]>
+<failure,[1]>
+<failures,[1, 2]>
+<faint,[1, 1, 1]>
+<fainting,[1, 1]>
+<fair,[1, 1, 4, 1, 4, 1, 1, 1, 3]>
+<fairer,[2]>
+<fairies,[1]>
+<fairly,[2, 1]>
+<fairness,[1]>
+<fairy,[3, 3, 2, 1]>
+<fairylike,[1]>
+<faith,[1, 1, 2, 1, 1]>
+<faithful,[1, 1, 2, 1, 1]>
+<faithfully,[1, 1, 1, 1]>
+<faithfulness,[1]>
+<fall,[1, 1, 1, 1, 1, 1, 2, 2, 3]>
+<fallen,[1, 1, 1, 1]>
+<falling,[5]>
+<false,[1]>
+<faltered,[3]>
+<familiar,[1, 1]>
+<families,[1, 1]>
+<family,[5, 4, 5, 5, 1, 3, 1, 5, 2, 6]>
+<famous,[1, 4, 1]>
+<fan,[1, 4, 2]>
+<fancied,[1, 2, 1, 1, 1]>
+<fancies,[1, 1]>
+<fancy,[5, 1, 2, 2, 2, 1, 4]>
+<fanning,[1]>
+<fantastically,[1]>
+<far,[5, 3, 3, 3, 2, 1, 4, 1]>
+<fare,[1, 1, 1]>
+<fared,[1]>
+<farewell,[2]>
+<farmer,[1]>
+<farming,[1]>
+<farther,[1]>
+<fascinated,[1]>
+<fashion,[1, 4, 5, 1, 1]>
+<fashionable,[1, 1, 2, 2, 1, 2]>
+<fashioned,[1, 3, 2, 1, 2]>
+<fashions,[1, 1]>
+<fast,[3, 2, 1, 2, 3, 4, 4]>
+<fasten,[1]>
+<fastened,[1, 2, 1]>
+<fastening,[1]>
+<fastidious,[1, 2]>
+<fat,[1, 1, 2, 1, 3, 2]>
+<fate,[1, 1, 1, 1, 1, 1, 1]>
+<father,[3, 1, 2, 4, 6, 2, 3, 5, 4, 21]>
+<fatherless,[1]>
+<fatherly,[2, 1]>
+<fatigue,[1]>
+<fault,[2, 4, 1, 1, 1, 1]>
+<faults,[1, 1, 1]>
+<favor,[1, 1, 2, 1]>
+<favorite,[2, 1, 2, 1, 4, 2, 2]>
+<favors,[1, 1]>
+<fear,[2, 1, 7, 2, 1, 1, 2, 5]>
+<feared,[2, 2, 1]>
+<fearing,[1, 1, 2, 1]>
+<fears,[1, 1, 2, 2, 2]>
+<feast,[1, 1, 2, 2]>
+<feasted,[1]>
+<feasting,[1]>
+<feather,[1]>
+<feathered,[1]>
+<featherless,[1]>
+<feathers,[2]>
+<feature,[1, 1]>
+<fed,[1, 1, 2]>
+<federal,[2]>
+<fee,[8]>
+<feeble,[1, 1, 1, 1, 2]>
+<feed,[1, 1, 1]>
+<feel,[3, 3, 3, 2, 11, 3, 2, 12, 7, 4]>
+<feeling,[9, 5, 1, 3, 9, 1, 5, 7, 11, 2]>
+<feelings,[1, 3, 4, 1, 1, 3, 1, 3]>
+<feels,[1, 1, 2, 2]>
+<fees,[4]>
+<feet,[4, 3, 2, 2, 4, 2, 3, 1, 2, 1]>
+<fell,[3, 2, 2, 1, 8, 3, 4, 6, 3]>
+<fellow,[5, 1, 3, 2, 6, 1, 3]>
+<fellows,[2, 2, 1, 1, 2]>
+<felt,[5, 11, 2, 11, 10, 6, 1, 20, 16, 10]>
+<females,[1]>
+<feminine,[2]>
+<fence,[1, 2, 1]>
+<fencing,[2]>
+<fern,[1, 1]>
+<ferns,[3, 1, 2]>
+<ferrule,[1]>
+<fervent,[1]>
+<fervor,[1]>
+<fess,[2, 1]>
+<festival,[1, 1, 1]>
+<festivals,[1]>
+<festive,[1, 1, 1, 1]>
+<fete,[1]>
+<fetlock,[2]>
+<fever,[4, 8]>
+<few,[3, 2, 1, 5, 7, 8, 5, 3, 3]>
+<fewer,[1]>
+<fib,[1, 1, 2]>
+<fibs,[1]>
+<fiction,[1]>
+<fide,[2]>
+<fidgets,[1, 1]>
+<fidgety,[2, 1, 2]>
+<field,[3, 1, 3]>
+<fields,[1]>
+<fierce,[1]>
+<fiercely,[1]>
+<fiery,[1]>
+<fifteen,[2, 2, 1]>
+<fifty,[1, 1]>
+<fight,[1, 1, 1, 3]>
+<figs,[1]>
+<figuratively,[1]>
+<figure,[1, 1, 1, 3, 1]>
+<figures,[1]>
+<filagree,[1]>
+<file,[1]>
+<files,[1]>
+<fill,[1, 1]>
+<filled,[1, 1, 4, 3, 1, 1, 1]>
+<filling,[1, 1]>
+<final,[1, 1]>
+<finally,[1, 1]>
+<financial,[1]>
+<find,[9, 5, 6, 1, 4, 6, 6, 4, 5, 4]>
+<finding,[1, 1, 2, 2, 2, 1, 1, 3]>
+<finds,[1, 1, 1]>
+<fine,[1, 8, 3, 8, 11, 6, 7, 4, 2, 2]>
+<finely,[2]>
+<finery,[1, 1]>
+<finest,[2]>
+<finger,[1, 2, 1, 2, 1]>
+<fingers,[1, 1, 1, 1, 1, 1]>
+<finish,[1, 1, 2, 1, 1, 2, 1]>
+<finished,[1, 2, 2, 2, 1, 3, 2, 1, 2]>
+<finishing,[1, 1, 1, 1]>
+<fire,[2, 5, 5, 3, 5, 2, 2, 1, 4]>
+<fired,[2, 1]>
+<firelight,[1]>
+<fireplace,[1]>
+<fires,[1]>
+<firm,[1, 1, 1]>
+<firmly,[1]>
+<first,[4, 2, 10, 6, 8, 6, 2, 12, 8, 8]>
+<fish,[6]>
+<fishing,[1]>
+<fist,[1, 1, 1, 1, 1, 2]>
+<fit,[3, 1, 4, 2, 1, 2, 1, 2]>
+<fitly,[1]>
+<fitness,[1]>
+<fits,[1, 1, 1, 1]>
+<fitted,[1, 1]>
+<fittest,[1]>
+<fitting,[1, 1, 1]>
+<five,[1, 3, 1]>
+<fix,[1]>
+<fixed,[1, 1, 2, 1, 2]>
+<flag,[1]>
+<flame,[1]>
+<flames,[1]>
+<flaming,[1]>
+<flannel,[1]>
+<flap,[1, 1]>
+<flapping,[1, 1, 1]>
+<flash,[1]>
+<flashed,[1, 1]>
+<flat,[1, 2, 1, 1, 1]>
+<flatirons,[2]>
+<flattered,[1, 2, 1]>
+<flattering,[1]>
+<flatteringly,[1]>
+<flecked,[1]>
+<fled,[1, 1, 1]>
+<fleet,[1, 1]>
+<fleetly,[1]>
+<flew,[1, 1, 2, 1, 2, 1, 1, 1, 2]>
+<flickering,[1]>
+<flight,[1]>
+<flinching,[1]>
+<flinging,[1]>
+<flirt,[1, 2]>
+<flirted,[1]>
+<flirting,[1, 1]>
+<floated,[1, 1]>
+<floating,[1]>
+<flock,[3]>
+<flocks,[1]>
+<floor,[1, 3, 2, 1, 1]>
+<flourish,[1, 1, 1, 1]>
+<flourished,[1, 2, 1, 1]>
+<flourishes,[1]>
+<flourishing,[1]>
+<floury,[1]>
+<flowed,[1]>
+<flower,[1, 1, 1, 1]>
+<flowerpot,[1]>
+<flowers,[3, 5, 1, 1, 9, 1, 1, 1, 2]>
+<flowery,[1, 1]>
+<flown,[1, 1]>
+<fluently,[1]>
+<flung,[1]>
+<flurry,[1, 1, 1, 1]>
+<flush,[1]>
+<flushed,[1, 1, 1, 2, 1, 1]>
+<flustered,[1]>
+<flutelike,[1]>
+<flutter,[1, 1, 1, 1, 1]>
+<fluttered,[1]>
+<fluttering,[1, 1]>
+<fly,[1, 1, 2, 2, 2, 2, 2, 3]>
+<flying,[1, 1, 1, 2, 1, 1]>
+<fo,[1, 1]>
+<foam,[1]>
+<foe,[1]>
+<foes,[1]>
+<fog,[1]>
+<fold,[2]>
+<folded,[1, 1, 2, 1, 2, 1]>
+<folding,[1, 1]>
+<folds,[1, 1]>
+<folks,[1, 2, 1, 1, 1]>
+<follies,[1]>
+<follow,[1, 1, 1, 1]>
+<followed,[2, 1, 1, 1, 1, 6, 1, 2, 1, 4]>
+<following,[4, 1, 1, 1, 1, 1]>
+<follows,[1]>
+<fond,[3, 2, 3, 1, 2, 3, 3, 1]>
+<food,[2, 1]>
+<fool,[2, 1, 2]>
+<foolish,[4, 1, 3]>
+<fools,[1, 1]>
+<foot,[6, 1, 1, 1, 1]>
+<footstool,[1, 1]>
+<for,[114, 96, 106, 96, 106, 101, 85, 115, 98, 100]>
+<forbade,[1, 1]>
+<forbear,[1]>
+<forbid,[1]>
+<forbidden,[1, 1]>
+<force,[1]>
+<forced,[1, 1]>
+<forebearing,[1]>
+<forefinger,[1, 1]>
+<forehanded,[1]>
+<forehead,[1, 1, 1, 4, 1, 1, 2]>
+<foreign,[1]>
+<foremast,[1]>
+<foretaste,[1]>
+<forever,[2, 1, 1, 1, 2]>
+<forgave,[2]>
+<forged,[1]>
+<forget,[4, 1, 2, 5, 1, 4, 4, 2]>
+<forgetful,[1]>
+<forgets,[1, 1]>
+<forgetting,[1, 1, 1, 2, 1, 2]>
+<forgif,[1]>
+<forgive,[3, 5, 1, 1, 3, 3]>
+<forgiven,[1, 2, 1]>
+<forgiving,[1, 1]>
+<forgot,[6, 5, 3, 5, 3, 1, 4, 2, 5, 2]>
+<forgotten,[1, 2, 4, 2, 2, 1, 1, 2]>
+<forlorn,[1, 1, 3, 1]>
+<forlornly,[1, 1, 1]>
+<form,[4, 1]>
+<formal,[1, 1]>
+<format,[4]>
+<formats,[1]>
+<formed,[1]>
+<former,[1, 1, 1]>
+<forming,[1]>
+<forth,[9, 1]>
+<fortnight,[1, 4, 1]>
+<fortunate,[1, 1]>
+<fortune,[2, 1, 4, 1, 1, 1, 1, 4]>
+<fortunes,[1, 2]>
+<forty,[2, 3, 1, 1]>
+<forward,[1, 1, 1, 2, 1]>
+<found,[7, 8, 9, 14, 3, 6, 4, 3, 4, 3]>
+<fountains,[1]>
+<four,[2, 4, 1, 3, 3, 3, 3, 3, 2]>
+<fourth,[1, 1]>
+<fox,[1]>
+<fragment,[1]>
+<fragments,[1]>
+<fragrant,[2, 1]>
+<frail,[1, 1]>
+<frame,[1, 1, 1, 1]>
+<frames,[1]>
+<frank,[1, 1]>
+<frankly,[1, 1, 1, 1]>
+<frankness,[2]>
+<freak,[1]>
+<freakish,[1]>
+<free,[1, 5, 1, 3, 2, 1, 2]>
+<freed,[1]>
+<freedom,[1, 1, 1]>
+<freely,[2, 6, 1]>
+<frequent,[1, 1, 1, 1, 1, 1]>
+<frequently,[1]>
+<fresh,[1, 3, 1, 1, 2, 2, 2, 2, 1]>
+<freshen,[1]>
+<freshly,[1]>
+<freshmen,[1]>
+<freshness,[1]>
+<fret,[1, 1, 1, 4, 1]>
+<fretful,[1, 1]>
+<frettin,[1]>
+<fretting,[1, 1]>
+<frie,[1]>
+<friend,[7, 3, 1, 7, 5, 7, 4, 2, 5, 2]>
+<friendless,[1]>
+<friendliest,[1]>
+<friendly,[2, 2, 2, 2, 2, 2, 2, 1, 2]>
+<friends,[3, 6, 4, 10, 5, 5, 4, 2]>
+<friendship,[1, 1, 1, 1, 1, 1]>
+<fright,[1, 3, 2]>
+<frighten,[1, 1]>
+<frightened,[3, 1, 1, 3, 3, 2]>
+<frightening,[1]>
+<frills,[1, 1]>
+<fringed,[1]>
+<frivolous,[1, 1]>
+<frizzled,[2]>
+<fro,[1, 1, 1, 1, 1, 4]>
+<frock,[1, 1, 3]>
+<frocks,[1]>
+<frolic,[1, 1, 1, 1]>
+<frolicked,[1, 1]>
+<frolics,[1]>
+<from,[10, 13, 35, 17, 20, 14, 18, 17, 13, 21]>
+<front,[1, 1, 1]>
+<frostbitten,[2]>
+<frosty,[1]>
+<frown,[1, 2]>
+<frowned,[1]>
+<frowning,[1]>
+<fruit,[1, 2, 1, 1, 3]>
+<fruitful,[1]>
+<fuel,[1]>
+<fulfill,[1]>
+<full,[6, 5, 21, 4, 4, 7, 4, 7, 8, 3]>
+<fuller,[1]>
+<fullest,[1, 1]>
+<fumbling,[1, 1]>
+<fume,[1, 1]>
+<fun,[6, 3, 6, 5, 5, 4, 1, 7]>
+<funds,[1]>
+<funeral,[1, 3]>
+<funnel,[1]>
+<funny,[7, 2, 1, 3, 4, 4, 3, 4]>
+<fur,[1, 1]>
+<furbish,[1]>
+<furnish,[1]>
+<furnished,[1]>
+<furniture,[1, 1, 1]>
+<further,[1, 1, 1, 1, 1]>
+<fury,[1, 1]>
+<fuss,[2, 1]>
+<fussing,[1, 1]>
+<fussy,[1]>
+<fust,[2]>
+<future,[1, 5, 1, 1]>
+<futurity,[1]>
+<fuzzy,[1]>
+<gadding,[1]>
+<gaily,[2]>
+<gainst,[1]>
+<gale,[1, 1]>
+<gallant,[1, 1, 2, 1]>
+<gallantly,[2, 1]>
+<galley,[1]>
+<gallivanting,[1]>
+<galloped,[1]>
+<gambled,[1]>
+<game,[1, 1, 1, 2, 7]>
+<games,[3]>
+<gape,[1]>
+<garden,[1, 4, 3, 1, 2, 5, 5, 4, 1]>
+<gardener,[1]>
+<gardens,[1]>
+<gardings,[1]>
+<garland,[1, 1]>
+<garments,[1]>
+<garnet,[1]>
+<garret,[1, 1, 1, 2]>
+<garten,[2]>
+<gas,[1]>
+<gasped,[1]>
+<gate,[2, 1, 1, 2, 6, 2]>
+<gather,[1]>
+<gathered,[1, 3, 1, 2, 2]>
+<gathering,[1, 1]>
+<gauzy,[1]>
+<gave,[7, 7, 4, 9, 5, 8, 5, 7, 5, 8]>
+<gay,[2, 1, 1, 1, 4, 1, 2, 1]>
+<gayly,[1]>
+<gazing,[1, 1]>
+<geese,[4]>
+<gem,[1]>
+<general,[1, 1, 2, 3, 1, 1]>
+<generations,[2]>
+<generous,[1, 1, 2, 1]>
+<generously,[1]>
+<genial,[1]>
+<genius,[2, 1]>
+<genteel,[1]>
+<gentle,[1, 2, 2, 1, 2, 2, 1]>
+<gentleman,[8, 4, 1, 19, 2, 4, 6, 4, 1, 10]>
+<gentlemanly,[2]>
+<gentlemen,[1, 1, 1, 2, 3]>
+<gentleness,[1]>
+<gentler,[1]>
+<gently,[1, 1, 1, 3, 2]>
+<genuine,[1, 1, 1]>
+<geranium,[1]>
+<gesticulating,[1]>
+<gesture,[1, 1, 1, 2, 2, 3]>
+<get,[12, 17, 4, 10, 10, 11, 21, 14, 9, 12]>
+<gets,[1, 1, 2, 2, 1]>
+<getting,[3, 3, 2, 6, 4, 5, 1, 4, 2, 3]>
+<ghost,[1, 1, 1, 1]>
+<ghostly,[1]>
+<gif,[4, 4]>
+<gifest,[1]>
+<gifs,[1]>
+<gift,[2, 1, 1, 1]>
+<gifts,[1, 2, 1, 1, 1]>
+<giggled,[1, 1]>
+<gilding,[1]>
+<gingerbread,[1, 2]>
+<gingham,[1]>
+<girl,[5, 2, 11, 9, 4, 6, 4, 10, 8]>
+<girlish,[1, 1, 1]>
+<girls,[6, 23, 2, 23, 24, 18, 7, 27, 9, 9]>
+<git,[2]>
+<gits,[1]>
+<give,[4, 8, 3, 3, 5, 7, 6, 7, 12, 8]>
+<given,[3, 4, 4, 3, 2, 2, 1, 5, 2]>
+<giver,[1]>
+<gives,[1, 1, 3]>
+<givest,[1]>
+<giving,[4, 1, 1, 4, 3]>
+<glad,[4, 4, 3, 3, 4, 3, 10, 4, 4, 4]>
+<gladly,[4, 2, 3, 2, 2, 1]>
+<glance,[2, 4, 2, 1, 2]>
+<glanced,[1, 3, 2, 3]>
+<glances,[1]>
+<glancing,[1, 1, 1, 1]>
+<glass,[1, 1, 3, 2, 2, 3, 1]>
+<glasses,[1]>
+<glided,[1]>
+<gliding,[1]>
+<glimpse,[1, 1]>
+<glimpses,[2]>
+<glitter,[1]>
+<globes,[1]>
+<gloom,[1, 1]>
+<glories,[1, 1, 1]>
+<glorified,[1]>
+<glorify,[1]>
+<glorious,[1, 1, 1]>
+<glory,[1]>
+<glossy,[1]>
+<glove,[4, 2, 2, 1]>
+<gloves,[1, 3, 2, 1, 1, 1]>
+<glow,[2, 1]>
+<glowed,[1, 1, 1]>
+<glowered,[1, 1, 1]>
+<glowing,[1]>
+<glycerine,[1]>
+<gnats,[1]>
+<go,[24, 22, 8, 22, 18, 18, 25, 27, 25, 24]>
+<goal,[1]>
+<goals,[1]>
+<goddesses,[1]>
+<godmother,[1]>
+<gods,[2]>
+<goes,[1, 1, 2, 2, 1, 4, 2]>
+<goin,[1]>
+<going,[14, 16, 2, 13, 5, 8, 13, 9, 5, 10]>
+<gold,[1, 1, 1, 1, 1, 2]>
+<golden,[3, 1, 1, 1]>
+<gondola,[1]>
+<gone,[6, 2, 2, 3, 4, 4, 2, 7, 6, 2]>
+<good,[17, 28, 13, 23, 24, 22, 24, 26, 23, 18]>
+<goodbye,[1, 1, 1, 2]>
+<goodly,[1]>
+<goodness,[1, 3, 2, 1]>
+<goods,[1]>
+<goose,[1, 1, 1, 2]>
+<gorgeous,[1, 1, 1]>
+<gossip,[2, 5]>
+<gossiped,[1]>
+<got,[10, 13, 7, 26, 16, 16, 18, 12, 9, 9]>
+<govern,[1, 1]>
+<governed,[1]>
+<governess,[1, 3]>
+<governesses,[1]>
+<gown,[1, 3, 2, 1, 1, 1, 2]>
+<gowns,[3, 1, 1]>
+<grace,[1, 1]>
+<graceful,[1, 1]>
+<gracefully,[2]>
+<graces,[1, 1, 1]>
+<gracious,[1, 1]>
+<graciously,[1, 2, 1, 1]>
+<grain,[1]>
+<grand,[1, 1, 5, 1, 1, 1, 1]>
+<grandchild,[1]>
+<grandchildren,[1]>
+<granddaughter,[1]>
+<grander,[1]>
+<grandfather,[4, 1, 1, 7, 3, 1, 2]>
+<grandly,[1]>
+<grandma,[1]>
+<grandmother,[2, 1]>
+<grandpa,[2, 1, 1, 1, 2, 2]>
+<grandson,[1, 1, 1, 2]>
+<granted,[1, 1]>
+<granting,[1]>
+<grapes,[2, 1]>
+<grasp,[1, 1]>
+<grass,[3, 1, 4]>
+<grasshopper,[1, 1]>
+<grassy,[1]>
+<grateful,[4, 1, 3, 4, 1, 5, 2, 2, 1, 1]>
+<gratefully,[2, 1, 1, 4]>
+<gratified,[1, 1, 1]>
+<gratitude,[1, 1, 2, 1, 1, 1, 1]>
+<grave,[1, 3, 4, 1, 2, 2]>
+<gravel,[1]>
+<gravely,[2, 1, 1, 2, 1, 1, 4, 1]>
+<gravity,[1, 1]>
+<gray,[2, 1, 1, 1, 3, 1, 2, 1, 1]>
+<great,[9, 10, 2, 19, 8, 4, 8, 10, 15, 5]>
+<greater,[1, 2, 2, 1]>
+<greatest,[2, 1, 3, 1, 1]>
+<green,[1, 2, 1, 1, 2, 6, 2, 1]>
+<greet,[1, 1]>
+<greeted,[1, 1]>
+<grew,[5, 1, 1, 3, 1, 1, 2, 1]>
+<grief,[1, 1, 1, 1, 2]>
+<griefs,[1]>
+<grieve,[1, 1]>
+<grieved,[1, 2, 1, 1, 1]>
+<grieves,[1]>
+<grieving,[1]>
+<grim,[3, 2]>
+<grimly,[1]>
+<grimy,[1]>
+<grind,[2]>
+<grinding,[1]>
+<groan,[1]>
+<groaned,[1, 1, 1, 1]>
+<groaning,[1]>
+<grocer,[1]>
+<grocerman,[1]>
+<groom,[1]>
+<groping,[1]>
+<gross,[1]>
+<ground,[2, 1, 1, 1]>
+<grounds,[1, 1]>
+<group,[1, 1, 1, 1]>
+<groups,[1]>
+<grove,[2, 1]>
+<grovelers,[1]>
+<groves,[1, 1]>
+<grow,[2, 1, 4, 3]>
+<growing,[1, 4, 1, 1, 1]>
+<growled,[1]>
+<grown,[1, 1, 1, 3, 2, 1, 1, 3]>
+<grubbing,[1, 1]>
+<grudging,[1]>
+<gruff,[3, 1]>
+<gruffer,[1, 1]>
+<gruffly,[1, 1]>
+<grumble,[1, 1]>
+<grumps,[1]>
+<grumpy,[1, 1]>
+<guard,[1, 1, 3]>
+<guarded,[1]>
+<guards,[1, 1]>
+<guess,[1, 2, 2, 3, 2]>
+<guessed,[1, 1, 1]>
+<guessing,[1]>
+<guest,[2, 1, 2, 1]>
+<guests,[1, 1, 1]>
+<guide,[1, 1]>
+<guidebook,[1]>
+<guilty,[1, 1]>
+<guinea,[1]>
+<guise,[1]>
+<gum,[1]>
+<guns,[1, 1]>
+<gust,[1, 1]>
+<gutenberg,[8]>
+<gutter,[1]>
+<guy,[2, 1]>
+<gymnasium,[1]>
+<gymnast,[1]>
+<gymnastics,[1, 1]>
+<gypsy,[1]>
+<ha,[1, 1]>
+<habits,[1, 1]>
+<had,[60, 67, 33, 80, 64, 55, 43, 37, 58, 59]>
+<hadn,[2, 3, 1, 3, 1, 3, 1]>
+<haf,[11, 7]>
+<hail,[1]>
+<hailed,[1, 1]>
+<hair,[3, 9, 2, 2, 8, 1, 1, 18, 7, 5]>
+<haired,[1]>
+<hairpins,[1, 2]>
+<hairs,[1]>
+<half,[9, 3, 2, 5, 9, 4, 4, 5, 4, 1]>
+<halfway,[1]>
+<hall,[4, 2, 2, 1, 2, 4]>
+<halliards,[1]>
+<halls,[1]>
+<halves,[1]>
+<hammered,[1]>
+<hammering,[1]>
+<hammock,[3]>
+<hamper,[1]>
+<hampers,[1]>
+<hand,[6, 6, 6, 7, 4, 5, 6, 7, 13, 17]>
+<handed,[1, 1]>
+<handful,[1, 1]>
+<handing,[1]>
+<handkerchief,[2, 1, 1, 1, 2, 1]>
+<handkerchiefs,[1, 1, 1]>
+<handle,[2, 1, 1]>
+<handling,[1]>
+<hands,[5, 5, 5, 11, 9, 8, 3, 5, 7, 9]>
+<handsome,[2, 3, 2, 5, 2, 2, 2, 1]>
+<hang,[1, 1, 1]>
+<hanging,[1, 1, 1]>
+<hapless,[1]>
+<happen,[2, 1, 1, 1, 1, 3, 2]>
+<happened,[4, 1, 3, 1, 1, 3, 4]>
+<happening,[1, 1]>
+<happens,[1, 1, 1, 1]>
+<happier,[1, 1, 1]>
+<happiest,[1, 1, 2, 1]>
+<happily,[1, 1, 2]>
+<happiness,[2, 5, 2, 1, 1, 4]>
+<happy,[6, 10, 17, 5, 14, 4, 7, 7, 5]>
+<harbor,[1]>
+<harboring,[1]>
+<hard,[4, 5, 4, 7, 6, 5, 14, 8, 8, 7]>
+<harden,[1]>
+<hardened,[1]>
+<harder,[1, 2, 2, 1]>
+<hardly,[1, 1, 1, 1, 2, 2]>
+<hardness,[1]>
+<hardships,[1]>
+<harm,[2, 1, 1]>
+<harming,[1]>
+<harmless,[1, 1, 1, 1]>
+<harrrow,[1]>
+<harsh,[1]>
+<harum,[1, 1]>
+<harvest,[1]>
+<harvesting,[1, 1]>
+<has,[4, 2, 6, 6, 7, 12, 6, 5, 5, 16]>
+<hasn,[2, 1, 1, 1]>
+<haste,[1, 1, 1]>
+<hastened,[1]>
+<hastily,[1, 1, 1, 2]>
+<hasty,[1, 1, 1, 1, 1, 1]>
+<hat,[2, 2, 1, 2, 1, 7, 6, 5, 1]>
+<hatbrim,[1]>
+<hatbrims,[1]>
+<hatchet,[1]>
+<hate,[3, 1, 2, 1, 3, 3, 3]>
+<hated,[1]>
+<hateful,[1]>
+<hates,[1, 2]>
+<hath,[1]>
+<hatred,[1]>
+<hats,[1, 1, 2, 1]>
+<haunt,[1]>
+<haunted,[1, 2]>
+<haunts,[1]>
+<have,[43, 27, 28, 32, 37, 33, 55, 44, 25, 41]>
+<haven,[4, 3, 2, 6, 1, 1, 6, 4, 1, 1]>
+<having,[1, 4, 9, 8, 5, 6, 4, 3, 3]>
+<hay,[1]>
+<haymaking,[1]>
+<he,[98, 43, 28, 101, 37, 41, 102, 35, 53, 109]>
+<head,[14, 10, 5, 8, 12, 8, 3, 15, 11, 8]>
+<headache,[2, 2, 1, 1]>
+<headed,[3, 1]>
+<headfirst,[1]>
+<headless,[1, 1]>
+<headquarters,[1]>
+<heads,[1, 2, 1, 1, 1, 4, 1, 2]>
+<heal,[1]>
+<healed,[1]>
+<healing,[1]>
+<health,[1, 1, 1, 1, 1, 1, 1, 1]>
+<healthily,[1]>
+<healths,[1]>
+<healthy,[1, 1]>
+<heap,[1, 1]>
+<heaping,[1]>
+<heaps,[1, 1, 1, 1, 2]>
+<hear,[3, 4, 3, 7, 2, 1, 3, 5, 5, 3]>
+<heard,[2, 3, 1, 5, 13, 2, 2, 2, 2, 4]>
+<hearers,[1]>
+<hearing,[1, 1, 1, 1]>
+<heart,[12, 6, 15, 8, 14, 3, 5, 7, 13, 7]>
+<heartache,[1]>
+<hearted,[1, 1, 1]>
+<hearten,[1]>
+<heartens,[1]>
+<hearth,[2, 1]>
+<hearthrug,[1]>
+<hearties,[1]>
+<heartiest,[1]>
+<heartily,[3, 1, 2, 1, 1, 2, 2, 2, 1]>
+<hearts,[3, 1, 4, 1, 2, 3, 3, 2]>
+<hearty,[1, 1, 1, 1, 1, 2, 3]>
+<heated,[1]>
+<heath,[1]>
+<heaven,[1, 1, 3, 1]>
+<heavenly,[1, 1, 1, 1]>
+<heavens,[1]>
+<heavier,[1]>
+<heaviest,[1]>
+<heavily,[1]>
+<heavy,[1, 1, 2, 4, 1, 1, 4, 7]>
+<hedge,[2, 1, 3, 1, 3]>
+<heel,[1, 1]>
+<heeled,[2, 1, 1]>
+<heels,[2, 1]>
+<height,[2]>
+<heiress,[1]>
+<held,[1, 1, 1, 3, 3, 1, 2, 1, 3, 6]>
+<heliotrope,[1, 1]>
+<helm,[1]>
+<help,[12, 9, 13, 3, 12, 6, 6, 15, 11, 3]>
+<helped,[3, 1, 3, 3, 1, 1, 1]>
+<helpful,[1, 1, 1]>
+<helping,[2, 2, 1, 1, 1]>
+<helpless,[1, 1, 1]>
+<helplessness,[1]>
+<helps,[1, 1, 1]>
+<hemlock,[1]>
+<hemmed,[1, 1]>
+<hen,[1]>
+<hence,[1]>
+<henceforth,[1]>
+<hens,[1]>
+<her,[132, 181, 77, 219, 239, 152, 93, 166, 248, 174]>
+<here,[6, 11, 5, 1, 6, 5, 8, 4, 8, 7]>
+<hereafter,[1, 1]>
+<herewith,[1]>
+<hero,[1]>
+<heroes,[1, 1]>
+<heroic,[1, 1]>
+<heroically,[1]>
+<heroine,[2]>
+<heroines,[1]>
+<heros,[1]>
+<hers,[1, 2, 1, 3, 1]>
+<herself,[17, 19, 2, 16, 18, 10, 7, 11, 13, 17]>
+<hes,[1]>
+<hesitating,[1]>
+<hev,[2]>
+<hey,[1, 2, 1]>
+<hid,[1, 1, 2, 1, 1, 2]>
+<hidden,[4, 1, 1, 1]>
+<hide,[4, 1, 2, 1, 3, 1, 1]>
+<hiding,[1, 1]>
+<high,[3, 3, 3, 7, 1, 2, 1]>
+<higher,[2]>
+<highly,[1, 1]>
+<hill,[1, 1, 4, 1]>
+<hills,[1]>
+<hilltops,[1]>
+<him,[55, 28, 14, 54, 16, 19, 52, 16, 31, 61]>
+<himself,[8, 2, 1, 2, 2, 13, 1, 3, 9]>
+<hint,[1]>
+<hinting,[1]>
+<hints,[1, 1]>
+<hire,[1]>
+<hired,[1]>
+<his,[96, 23, 28, 68, 27, 46, 82, 22, 42, 67]>
+<hiss,[2]>
+<historian,[1]>
+<history,[1, 1]>
+<hit,[2]>
+<ho,[1]>
+<hoarded,[1]>
+<hoarse,[1]>
+<hoarsely,[1]>
+<hobbledehoy,[1]>
+<hobbling,[1]>
+<hockey,[1]>
+<hod,[1]>
+<hoist,[1]>
+<hoisted,[1]>
+<hold,[2, 2, 2, 2, 1, 4, 1, 3, 6]>
+<holder,[4, 1]>
+<holders,[1]>
+<holding,[2, 1, 1, 1, 1]>
+<holds,[1]>
+<hole,[2, 1]>
+<holes,[1]>
+<holiday,[1, 1, 1, 3, 1, 1]>
+<holidays,[1, 1]>
+<holly,[1]>
+<holy,[1]>
+<home,[16, 18, 7, 14, 13, 11, 10, 18, 14, 6]>
+<homelike,[1, 2]>
+<homely,[1]>
+<homes,[1, 2, 1]>
+<homeward,[1, 1]>
+<honest,[1, 1, 1, 1, 1]>
+<honestly,[1]>
+<honesty,[1, 1]>
+<honey,[1, 1, 1, 1]>
+<honeypot,[1, 1]>
+<honeysuckle,[1, 1]>
+<honor,[3, 1, 1, 3, 3, 1, 1, 1]>
+<honorable,[1]>
+<honorary,[1]>
+<honored,[1]>
+<hood,[1, 1, 1, 1, 1]>
+<hook,[1]>
+<hooked,[1]>
+<hope,[3, 1, 9, 5, 5, 3, 8, 6, 6, 5]>
+<hoped,[1, 1, 1, 1, 1, 1]>
+<hopeful,[2, 2]>
+<hopefully,[1, 1, 1, 1]>
+<hopes,[2, 5, 2, 2, 1, 1]>
+<hoping,[1, 2, 1, 2, 1, 2, 2, 4, 2]>
+<horn,[1]>
+<hornpipe,[1]>
+<horns,[1]>
+<horrid,[2, 1, 2, 2]>
+<horse,[1, 1, 5, 2, 1]>
+<horseback,[1]>
+<horses,[4, 1, 2]>
+<hose,[1]>
+<hospitable,[2, 1, 1]>
+<hospital,[2, 1]>
+<hospitalities,[1]>
+<hospitality,[1]>
+<hospitals,[1]>
+<host,[1, 1]>
+<hot,[2, 1, 2, 5, 2, 1, 1]>
+<hounds,[1]>
+<hour,[4, 2, 3, 2, 1, 3, 3, 9, 2]>
+<hours,[1, 2, 1, 5, 1]>
+<house,[3, 8, 6, 9, 4, 3, 3, 6, 9, 7]>
+<housedress,[1]>
+<household,[1, 2, 3]>
+<housekeeper,[1]>
+<housekeeping,[1, 1]>
+<housemaid,[1]>
+<houses,[1, 1, 1, 1]>
+<housewifely,[1]>
+<housewives,[1]>
+<housework,[1]>
+<hove,[1]>
+<hovered,[2, 1]>
+<how,[13, 20, 9, 10, 11, 11, 13, 16, 13, 21]>
+<however,[2, 2, 1, 1, 1, 1, 1, 1]>
+<huff,[1]>
+<hug,[2]>
+<hugged,[1, 1, 1, 1]>
+<hugging,[2, 1, 1]>
+<hum,[1]>
+<human,[1, 2, 3, 2, 1, 1]>
+<humble,[1, 3, 1, 3]>
+<humbled,[1]>
+<humbly,[1, 1]>
+<humility,[1, 1]>
+<humor,[1, 1, 1]>
+<humoredly,[1]>
+<hump,[1]>
+<hundred,[1, 2]>
+<hundreds,[1]>
+<hung,[2, 2, 1, 2, 1, 2, 2]>
+<hungry,[2, 1, 1, 1]>
+<hunt,[1, 2]>
+<hunter,[1]>
+<hunting,[2]>
+<hunts,[1]>
+<hurried,[1, 2, 2, 1, 2, 2, 1]>
+<hurry,[1, 1, 1, 2, 2, 1]>
+<hurrying,[2]>
+<hurt,[1, 3, 7, 2, 2, 1, 1, 4]>
+<hurting,[1]>
+<hurts,[1]>
+<husband,[6, 3, 1, 2, 1, 2]>
+<husbands,[1]>
+<hush,[1, 1]>
+<hussy,[1]>
+<hustle,[1]>
+<hustled,[1]>
+<hymn,[1, 2, 1]>
+<hymnbook,[1]>
+<hypertext,[1]>
+<hysterically,[1]>
+<hysterics,[1]>
+<i,[1]>
+<ice,[3, 7, 1, 1]>
+<idea,[4, 5, 3, 3, 1, 2, 2, 3, 1]>
+<ideas,[1, 2]>
+<identical,[1]>
+<identification,[1]>
+<identify,[1]>
+<idiot,[1]>
+<idiotic,[2]>
+<idle,[1, 1, 2, 3, 2]>
+<idleness,[1]>
+<idol,[1]>
+<idols,[1]>
+<if,[46, 34, 22, 46, 42, 26, 37, 39, 40, 37]>
+<ignominious,[1]>
+<ignored,[1]>
+<ignoring,[1, 1]>
+<ill,[2, 4, 3, 5, 1]>
+<illness,[2]>
+<illuminated,[1]>
+<illustrating,[1]>
+<illustrations,[1]>
+<image,[1, 1]>
+<imaginary,[1, 1, 1, 1]>
+<imagination,[1, 1]>
+<imagine,[1, 1, 1]>
+<imagined,[1, 1, 1, 1]>
+<imagining,[1]>
+<imitate,[2, 1, 1]>
+<imitating,[1]>
+<immaculate,[1]>
+<immediate,[2, 1]>
+<immediately,[1, 1, 1, 1]>
+<immense,[2, 1, 1]>
+<immensely,[1, 1, 1, 1]>
+<immortal,[1, 1]>
+<impart,[1]>
+<impatience,[1, 1]>
+<impatient,[1, 1, 2]>
+<impatiently,[1, 1]>
+<imperious,[1]>
+<impertinent,[1, 1, 1]>
+<impetuosity,[1]>
+<impetuous,[1]>
+<impetuously,[1]>
+<implied,[1, 1]>
+<implore,[1]>
+<implored,[1, 1]>
+<imploring,[1, 1, 1]>
+<imploringly,[1, 1, 1]>
+<importance,[1]>
+<important,[1, 1, 3, 1, 1, 2, 1, 2]>
+<imposed,[1]>
+<impossibilities,[1]>
+<impossible,[2, 3, 2, 1, 1, 2, 1, 2]>
+<impracticable,[1]>
+<impress,[1, 1]>
+<impressed,[2, 1, 1]>
+<impression,[1, 1]>
+<impressive,[1]>
+<impressively,[1]>
+<impromptu,[1]>
+<improve,[1]>
+<improved,[2, 1, 1, 1]>
+<improvement,[1]>
+<imps,[1]>
+<impulse,[2]>
+<in,[123, 110, 150, 111, 106, 112, 124, 125, 129, 129]>
+<inaccurate,[1]>
+<inaudibly,[1]>
+<inch,[3]>
+<inclined,[1, 1]>
+<include,[1]>
+<included,[2]>
+<includes,[1]>
+<including,[8, 1]>
+<incoherent,[1]>
+<incoherently,[1]>
+<income,[1]>
+<incomplete,[1]>
+<inconsistency,[1]>
+<incorrigible,[1, 1]>
+<increase,[1]>
+<increased,[1, 1]>
+<increasing,[1, 1]>
+<indeed,[1, 1, 1, 2, 3, 1, 1]>
+<indemnify,[1]>
+<independence,[1, 1, 1, 1]>
+<independent,[1]>
+<indicate,[1]>
+<indicating,[1]>
+<indifference,[1]>
+<indifferent,[1]>
+<indignant,[1, 1, 1]>
+<indignantly,[1, 1, 1]>
+<indignation,[2]>
+<indirectly,[1]>
+<individual,[4]>
+<indolent,[1, 2]>
+<indulge,[1]>
+<indulgence,[1]>
+<indulgent,[1]>
+<industrious,[1]>
+<industry,[1, 1]>
+<inequality,[1]>
+<inexorable,[1]>
+<inexpressibly,[1]>
+<infant,[1]>
+<infantile,[1]>
+<infect,[1]>
+<infectiously,[1]>
+<infinite,[1]>
+<infinitely,[1, 1]>
+<infirm,[1]>
+<infirmity,[1]>
+<influence,[1, 1]>
+<influences,[1]>
+<informal,[1]>
+<information,[3]>
+<informed,[2, 1]>
+<infringed,[1]>
+<infringement,[1]>
+<ingenious,[1]>
+<inger,[1]>
+<inhabitants,[1]>
+<inherited,[1]>
+<initials,[1]>
+<injured,[1, 1, 3, 1, 3]>
+<injury,[1]>
+<injustice,[1]>
+<ink,[1, 2, 1, 1]>
+<inkstand,[1, 1, 1]>
+<inkstands,[1]>
+<inmate,[1]>
+<inmost,[1]>
+<innocence,[1]>
+<innocent,[1, 1, 1, 3, 1, 2, 1]>
+<innocently,[1, 1]>
+<inquire,[1, 1, 1, 1]>
+<inquired,[1, 1, 2, 1]>
+<inquiries,[1, 2]>
+<inquiring,[1, 1, 1]>
+<inquiry,[1]>
+<inquisitive,[2]>
+<insensibly,[1]>
+<inside,[1, 1, 1, 1, 1]>
+<insinuatingly,[1]>
+<insisted,[1, 1, 1, 1, 2, 1]>
+<insists,[1]>
+<inspiration,[1]>
+<inspired,[1, 1]>
+<installed,[1]>
+<installment,[1]>
+<instant,[1, 1, 2]>
+<instantly,[1]>
+<instead,[1, 9, 1, 2, 2, 1]>
+<instinct,[1]>
+<instinctively,[1]>
+<institution,[1, 1, 1, 1]>
+<instructive,[1, 1]>
+<instrument,[1, 1, 3, 1]>
+<instruments,[1]>
+<insult,[1, 1, 1]>
+<insulted,[1, 1]>
+<intellectual,[2]>
+<intelligence,[1]>
+<intelligent,[1, 1]>
+<intelligibly,[1]>
+<intend,[2, 2, 1]>
+<intended,[1]>
+<intending,[1, 1]>
+<intends,[1]>
+<intense,[1]>
+<intensely,[1]>
+<intentions,[1]>
+<interchanged,[1]>
+<interest,[4, 2, 1, 2, 2, 1, 2]>
+<interested,[1, 1, 1, 1, 2]>
+<interesting,[1, 2, 1, 3, 1]>
+<interfere,[1, 1]>
+<interferingest,[1]>
+<interpreted,[1]>
+<interrigation,[1]>
+<interrupted,[1, 1]>
+<interruptions,[1]>
+<intervals,[1]>
+<interview,[1]>
+<intimate,[2]>
+<into,[14, 17, 6, 15, 7, 7, 12, 20, 16, 17]>
+<intonation,[1]>
+<intricate,[1]>
+<introduce,[1, 1]>
+<introduced,[1, 1, 1]>
+<invalid,[2, 1, 2, 1]>
+<invalidity,[1]>
+<invalids,[1, 2]>
+<invent,[1]>
+<invented,[1]>
+<invention,[1]>
+<inventor,[1]>
+<investigating,[1]>
+<inveterate,[1]>
+<invisible,[1, 1]>
+<invitation,[1, 1, 1, 1]>
+<invitations,[1]>
+<invite,[1, 1]>
+<invited,[3, 1, 1, 1]>
+<inviting,[1, 1, 2]>
+<invitingly,[1]>
+<inward,[1]>
+<irascible,[1, 1, 1]>
+<irksome,[1, 1]>
+<ironing,[1]>
+<irrepressible,[2, 1]>
+<irresistible,[1, 1, 1]>
+<irresistibly,[1]>
+<irritable,[1]>
+<irritated,[2]>
+<is,[31, 36, 42, 42, 39, 59, 44, 48, 44, 33]>
+<islands,[1]>
+<isn,[2, 5, 3, 9, 10, 6, 3, 5, 6, 3]>
+<issuing,[1, 1]>
+<ist,[1]>
+<it,[100, 101, 86, 98, 119, 91, 97, 126, 133, 118]>
+<its,[4, 6, 13, 2, 1, 3, 5, 2, 7, 1]>
+<itself,[1, 1, 1]>
+<jabbering,[1]>
+<jackdaw,[1]>
+<jacket,[1]>
+<jackets,[1]>
+<jar,[1]>
+<jaunty,[1]>
+<jaws,[1]>
+<jealous,[1]>
+<jealousy,[1]>
+<jellies,[1]>
+<jelly,[1, 1]>
+<jerk,[1, 1]>
+<jes,[1]>
+<jet,[1]>
+<jeune,[1]>
+<jewel,[3]>
+<jewels,[1]>
+<jib,[2]>
+<jiffy,[1, 1]>
+<jig,[1, 1]>
+<jingling,[1]>
+<job,[1, 1]>
+<jobs,[1]>
+<join,[1, 1, 1, 1, 1, 1]>
+<joined,[1, 1, 1]>
+<joke,[1, 1, 2, 6, 1, 4]>
+<jokes,[1, 1]>
+<jolie,[1]>
+<jolis,[1]>
+<jolly,[4, 3, 3, 2, 1, 1]>
+<jour,[1]>
+<journey,[4, 1, 2]>
+<jovial,[1, 1, 1]>
+<joy,[3, 1, 2, 1, 1, 2, 2, 1]>
+<joyful,[1, 1, 1, 2, 1]>
+<joyfully,[1]>
+<joys,[1, 1, 1]>
+<jubilant,[1]>
+<jubilee,[1]>
+<judge,[1]>
+<judged,[1]>
+<juice,[1]>
+<juicy,[1]>
+<jumble,[1]>
+<jumbled,[1, 1]>
+<jumped,[1]>
+<jumping,[1]>
+<just,[8, 13, 12, 8, 14, 5, 14, 6, 7, 15]>
+<justice,[1, 1, 1]>
+<justly,[1]>
+<juvenile,[1]>
+<k,[1]>
+<keen,[2]>
+<keep,[7, 12, 10, 5, 5, 5, 6, 13, 9, 10]>
+<keeping,[1, 2, 2, 3, 2]>
+<keeps,[1, 1, 1, 1, 1, 3, 2]>
+<keg,[1]>
+<kept,[4, 5, 2, 2, 7, 5, 5, 4, 8, 2]>
+<key,[1, 3, 4]>
+<keyhole,[1, 1]>
+<keys,[1, 1, 1, 1]>
+<kicked,[1]>
+<kill,[1]>
+<killed,[1, 1]>
+<kind,[4, 8, 1, 5, 11, 5, 4, 9, 3, 8]>
+<kinder,[1, 1]>
+<kindled,[1, 2]>
+<kindly,[2, 2, 4, 3, 2, 1]>
+<kindness,[2, 1, 1, 1, 3]>
+<kindnesses,[1]>
+<kindred,[2]>
+<kinds,[1]>
+<king,[1, 2, 2]>
+<kingdom,[1]>
+<kiss,[2, 1, 1, 4, 1, 3, 2, 2]>
+<kissed,[4, 1, 2, 4, 3, 1]>
+<kisses,[2]>
+<kissing,[2, 1]>
+<kitchen,[1, 4, 1, 3, 1, 1]>
+<kits,[1]>
+<kitten,[1, 1]>
+<kittens,[2, 1, 1]>
+<knee,[2, 1, 1, 1, 1, 1, 2]>
+<kneel,[1]>
+<kneeling,[1, 1, 1]>
+<knees,[1, 1, 1, 2]>
+<knew,[7, 7, 6, 5, 4, 3, 1, 7, 4, 10]>
+<knight,[3, 9]>
+<knights,[3]>
+<knit,[1, 1, 1, 1, 1]>
+<knitting,[2, 1, 1, 1]>
+<knobby,[1]>
+<knock,[1, 1]>
+<knocked,[2, 2, 1, 2]>
+<knocks,[1]>
+<know,[12, 23, 8, 22, 23, 9, 21, 15, 9, 21]>
+<knowing,[1, 1, 1, 2]>
+<knowledge,[1, 1]>
+<known,[1, 3, 2, 3, 2, 1, 1]>
+<knows,[2, 2, 1, 2, 1, 1]>
+<l,[2, 1]>
+<la,[1, 2, 2]>
+<label,[1]>
+<labor,[1, 1, 1]>
+<labored,[1, 1]>
+<labors,[1]>
+<laboured,[1]>
+<lace,[1, 3, 1]>
+<laced,[1]>
+<laces,[1, 1]>
+<lacings,[1, 1]>
+<lackadaisical,[1]>
+<lacked,[1]>
+<lad,[1, 2, 1, 1, 1, 2]>
+<ladder,[1, 2]>
+<ladies,[1, 3, 3, 4, 6, 5, 1, 1]>
+<lads,[1, 1, 8, 1]>
+<lady,[5, 13, 2, 11, 5, 7, 4, 4, 12, 4]>
+<ladylike,[1, 2]>
+<laid,[1, 3, 2, 3, 3, 1, 4, 5, 1]>
+<lake,[1, 1]>
+<lamb,[1]>
+<lame,[1, 1, 2, 1]>
+<lament,[1, 2, 1]>
+<lamentation,[1]>
+<lamented,[1, 1]>
+<lamp,[1, 2, 1]>
+<lamps,[1, 1]>
+<lance,[1]>
+<land,[3, 1]>
+<landed,[1]>
+<landscape,[1]>
+<lane,[1, 1]>
+<language,[1, 1]>
+<languages,[1]>
+<languid,[1]>
+<lap,[1, 1, 1, 1, 1, 2, 2, 1]>
+<lapse,[1, 1]>
+<larder,[1]>
+<large,[1, 2, 1, 1, 2, 1, 1]>
+<largest,[1]>
+<lark,[1, 1, 1]>
+<larking,[1]>
+<larks,[1, 2, 1]>
+<larkspur,[1]>
+<last,[8, 6, 4, 10, 4, 7, 6, 8, 7, 3]>
+<lasted,[1, 1]>
+<late,[2, 1, 1, 3, 1, 4, 2, 6, 2, 1]>
+<lately,[1, 1, 1, 1, 1]>
+<later,[1, 1, 2, 1, 1]>
+<latest,[1]>
+<latter,[2, 1]>
+<laugh,[4, 8, 1, 7, 1, 6, 6, 2, 1, 5]>
+<laughed,[3, 11, 3, 2, 3, 4, 5, 3, 3, 3]>
+<laughin,[1]>
+<laughing,[1, 3, 1, 1, 3, 3, 3, 5, 3, 2]>
+<laughter,[2, 3, 1, 1, 1, 1]>
+<laurels,[1]>
+<lavender,[2]>
+<lavished,[2]>
+<law,[1, 7, 1, 1]>
+<lawn,[1, 1, 1]>
+<lawns,[1]>
+<laws,[9]>
+<lay,[1, 1, 4, 3, 1, 5, 7, 7, 10, 1]>
+<laying,[1, 1]>
+<lazy,[1, 2]>
+<lead,[2, 1, 2, 1]>
+<leading,[1, 1]>
+<leads,[1]>
+<leaf,[1]>
+<league,[1]>
+<lean,[1]>
+<leaned,[1, 1, 3, 1, 1, 1, 2]>
+<leaning,[1, 1, 1, 1, 1, 1]>
+<leap,[1]>
+<leaped,[1]>
+<leapfrog,[1]>
+<leaping,[1]>
+<learn,[2, 2, 1, 3, 5, 2, 2, 5]>
+<learned,[2, 3, 1, 3, 3, 1, 2, 2]>
+<learning,[3, 3, 1, 1, 1]>
+<least,[2, 2, 2, 3, 1, 1, 2]>
+<leather,[1]>
+<leave,[4, 2, 2, 1, 2, 1, 2, 10, 3]>
+<leaves,[1, 1, 2, 4, 1, 1]>
+<leaving,[1, 2, 1, 2, 2, 2, 1, 2]>
+<lecture,[1, 1, 2, 1, 1, 1]>
+<lectured,[2]>
+<lecturer,[1]>
+<lectures,[1]>
+<led,[1, 3, 1, 3, 2, 1, 1, 1]>
+<lee,[1]>
+<left,[4, 4, 2, 3, 3, 10, 7, 3, 9, 4]>
+<leg,[1, 1]>
+<legacies,[1]>
+<legal,[2, 2]>
+<legally,[1]>
+<leghorn,[1]>
+<legs,[7, 1, 2, 2]>
+<leisure,[1]>
+<leisurely,[1, 1]>
+<lellywaiter,[1]>
+<lemonade,[2]>
+<lend,[1, 1, 3]>
+<lending,[1, 1]>
+<lengthening,[1]>
+<lent,[1, 1]>
+<les,[1]>
+<less,[2, 1, 2, 1, 1, 1]>
+<lessened,[1]>
+<lesser,[1]>
+<lesson,[1, 2, 1, 2, 2, 1, 1]>
+<lessons,[2, 4, 1, 3, 3, 1, 3, 1]>
+<lest,[1, 1, 1, 3, 2]>
+<let,[3, 12, 2, 5, 11, 12, 5, 18, 4, 9]>
+<lets,[2, 1, 1]>
+<letter,[1, 2, 4, 4, 6, 3, 6]>
+<letters,[2, 3, 5, 2, 2, 1]>
+<letting,[1, 1, 1, 1, 1]>
+<lettuce,[2]>
+<lexicon,[1]>
+<liability,[2]>
+<liberties,[1, 1, 1]>
+<liberty,[1, 1]>
+<library,[2, 1, 3, 1]>
+<license,[6]>
+<licensed,[1]>
+<lid,[5, 1, 1]>
+<lie,[1, 1, 1, 1, 1, 1]>
+<lies,[1, 1, 2]>
+<lieth,[1]>
+<lieu,[2]>
+<life,[3, 11, 12, 7, 7, 1, 3, 3, 8, 4]>
+<lifeless,[1]>
+<lifelong,[1]>
+<lift,[1, 1, 1, 2]>
+<lifted,[1, 1, 1, 2, 1, 1, 1, 3]>
+<lifting,[1]>
+<lifts,[1]>
+<light,[5, 4, 3, 3, 1, 1, 1, 3, 1, 2]>
+<lighted,[1, 1, 1]>
+<lighten,[1]>
+<lightly,[2]>
+<lights,[1]>
+<like,[37, 37, 19, 31, 26, 19, 37, 28, 30, 23]>
+<liked,[5, 10, 1, 10, 1, 4, 2, 4, 5, 4]>
+<likely,[1]>
+<likeness,[1]>
+<likes,[1, 2, 2, 2, 1, 4, 4]>
+<likewise,[3, 1, 1, 1]>
+<liking,[1, 1, 1, 1]>
+<lilies,[1, 1]>
+<limb,[1]>
+<limbs,[1, 2]>
+<lime,[3]>
+<limeless,[1]>
+<limes,[12]>
+<limitation,[3]>
+<limited,[2]>
+<limp,[1]>
+<limped,[1]>
+<limper,[1]>
+<line,[2, 1, 1]>
+<lined,[1, 1]>
+<linen,[1, 1, 1]>
+<lines,[1, 1, 2]>
+<lingered,[1]>
+<lingering,[1, 1]>
+<lingy,[1]>
+<linked,[1]>
+<links,[3]>
+<lion,[1, 1]>
+<lions,[2]>
+<lips,[1, 1, 8, 2, 3, 4, 9, 1]>
+<lisped,[1]>
+<listen,[1, 2, 1, 1, 1, 2]>
+<listened,[2, 2, 1, 2, 3]>
+<listener,[2, 1]>
+<listeners,[1, 1]>
+<listening,[1, 2, 1]>
+<listless,[1]>
+<lit,[1]>
+<literal,[1]>
+<literally,[1]>
+<literary,[1, 1, 1, 1, 1]>
+<literature,[1, 1]>
+<litter,[1]>
+<little,[39, 28, 37, 37, 39, 34, 29, 32, 44, 27]>
+<live,[1, 2, 4, 2, 1, 7, 2, 1]>
+<lived,[1, 1, 1, 1, 1]>
+<lively,[4, 3, 4, 3, 1, 2]>
+<lives,[1, 1, 1, 3, 1, 1, 1]>
+<living,[3, 1, 1, 1, 2, 1]>
+<lized,[1]>
+<ll,[9, 20, 6, 17, 15, 26, 25, 20, 18, 35]>
+<load,[1, 1, 1]>
+<loaded,[1, 1]>
+<loan,[1]>
+<lobster,[4]>
+<local,[1]>
+<located,[5]>
+<locations,[1]>
+<lock,[2, 1]>
+<locked,[1, 1, 2]>
+<lockets,[1]>
+<locks,[1, 1]>
+<lofty,[1]>
+<loitering,[1]>
+<loneliness,[1, 1, 1]>
+<lonely,[4, 4, 3, 1, 2, 1, 2]>
+<long,[10, 11, 16, 10, 7, 6, 7, 11, 11, 8]>
+<longed,[3, 1, 1, 1, 3, 4]>
+<longer,[1, 1, 2, 1]>
+<longing,[1, 1, 2, 1, 2]>
+<longings,[1]>
+<longlegs,[1]>
+<look,[13, 11, 3, 7, 16, 1, 7, 13, 12, 19]>
+<looked,[17, 14, 3, 14, 14, 6, 17, 8, 10, 16]>
+<looking,[7, 15, 10, 17, 10, 13, 14, 10, 13]>
+<looks,[1, 5, 1, 3, 1, 1, 2, 6]>
+<looms,[1]>
+<loose,[1, 1]>
+<lor,[1]>
+<lord,[1, 1]>
+<lorded,[1]>
+<lords,[1]>
+<lose,[1, 2, 1, 1, 1]>
+<loses,[1]>
+<losing,[1, 1, 1, 1, 1]>
+<loss,[1, 1, 1, 1, 2, 2]>
+<lost,[4, 4, 1, 3, 2, 2, 1, 2, 1, 1]>
+<lot,[2, 2, 2]>
+<lots,[1, 1]>
+<loud,[3, 1, 1, 2]>
+<lounging,[1, 1]>
+<lovable,[1]>
+<love,[9, 2, 16, 6, 8, 4, 7, 6, 13, 15]>
+<loved,[1, 5, 5, 2, 4, 2, 1, 2]>
+<lovelier,[1]>
+<lovely,[1, 2, 1, 3, 4, 5, 5, 1, 3, 2]>
+<lover,[2, 1, 1, 3, 1, 1, 1]>
+<lovering,[2, 1]>
+<lovers,[1, 1, 1, 1, 3]>
+<loves,[1, 1, 1, 1, 1]>
+<loving,[1, 1, 4, 2, 1, 2, 2, 3, 2]>
+<lovingest,[1]>
+<lovingly,[1]>
+<low,[1, 1, 2, 4, 3, 2]>
+<lower,[1, 1, 1]>
+<lowering,[1]>
+<loyal,[1]>
+<lucky,[1]>
+<ludicrous,[1, 1]>
+<luggage,[1]>
+<lugged,[1]>
+<lull,[1, 1]>
+<lullabies,[1]>
+<lumbering,[1, 1]>
+<lump,[1]>
+<lumpy,[1]>
+<lunatics,[1]>
+<lunch,[1, 4, 3]>
+<luxuries,[1]>
+<luxurious,[1, 1]>
+<luxuriously,[1, 1]>
+<luxury,[4, 1, 1, 1, 1]>
+<lying,[1, 1, 1, 2]>
+<m,[13, 20, 10, 19, 22, 21, 31, 25, 15, 22]>
+<ma,[1, 3, 1, 2, 1, 2, 3]>
+<machine,[1, 1]>
+<machinery,[1]>
+<mad,[1, 2, 1]>
+<madam,[1]>
+<madame,[1]>
+<maddening,[1]>
+<made,[19, 13, 8, 13, 12, 12, 17, 16, 13, 16]>
+<mademoiselle,[1]>
+<magic,[1, 1, 1]>
+<magical,[1]>
+<magnificently,[1]>
+<magpie,[1]>
+<magpies,[1]>
+<maid,[1, 2, 3, 1, 1, 1]>
+<maiden,[1, 1, 1]>
+<maidenly,[1]>
+<maids,[1, 3]>
+<maidservants,[1]>
+<mail,[1, 1, 2, 1]>
+<mails,[1]>
+<main,[1, 1]>
+<maintaining,[1]>
+<majesty,[1]>
+<make,[10, 12, 4, 9, 5, 17, 8, 11, 10, 21]>
+<makers,[1]>
+<makes,[2, 2, 2, 1, 1, 1, 1, 2]>
+<making,[3, 3, 1, 5, 1, 5, 6, 1, 2]>
+<male,[1]>
+<malicious,[1, 1]>
+<mallet,[1]>
+<mama,[1]>
+<mamma,[1, 1]>
+<man,[13, 4, 2, 9, 6, 4, 8, 7, 3, 12]>
+<manage,[1, 1, 1, 4]>
+<managed,[2, 1, 1]>
+<management,[1]>
+<manager,[1, 1]>
+<managing,[1]>
+<mandarin,[1]>
+<mane,[1]>
+<maneuver,[1, 1]>
+<manful,[1]>
+<manfully,[1]>
+<mange,[2, 1, 2]>
+<manger,[1]>
+<manifest,[1]>
+<mankind,[1]>
+<manly,[1, 2]>
+<manner,[4, 1, 1, 6, 2, 3, 1, 3, 2]>
+<mannered,[1]>
+<manners,[1, 2, 4, 2, 1, 1, 1, 1]>
+<mannling,[1]>
+<manor,[1]>
+<mansion,[1, 1]>
+<mantelpiece,[1]>
+<manuscript,[1, 2]>
+<manuscripts,[1]>
+<many,[6, 12, 3, 8, 8, 7, 9, 4, 7, 6]>
+<map,[1]>
+<maple,[1]>
+<maps,[1, 1, 1]>
+<marble,[1, 1, 1]>
+<march,[1]>
+<marched,[2, 2, 1, 1, 2, 2]>
+<marcies,[2]>
+<marked,[2, 1]>
+<market,[2, 1]>
+<marketing,[1]>
+<marks,[1]>
+<marole,[1]>
+<maroon,[1]>
+<marriage,[2]>
+<married,[3, 1, 2, 2, 1, 2]>
+<marry,[3, 2, 3, 3, 2]>
+<marrying,[1]>
+<martial,[1]>
+<martin,[1]>
+<martyr,[1]>
+<mashay,[1]>
+<mashed,[1]>
+<mask,[2]>
+<masked,[1]>
+<masks,[1]>
+<masquerade,[1, 1]>
+<master,[1, 2, 1, 2]>
+<mastered,[1]>
+<mat,[1]>
+<match,[1, 1]>
+<matched,[1]>
+<matches,[1]>
+<mate,[1, 1]>
+<material,[1]>
+<materials,[1]>
+<maternal,[3, 1, 1, 1, 1]>
+<mates,[1, 1]>
+<mathematics,[1]>
+<matronly,[1, 1]>
+<mats,[1]>
+<matter,[5, 1, 1, 2, 1, 1, 1, 1, 1, 5]>
+<matters,[1, 1, 1, 1]>
+<mauve,[2]>
+<maximum,[1]>
+<may,[2, 1, 23, 7, 12, 12, 4, 6, 4, 3]>
+<maybe,[1, 1, 1, 1]>
+<mayn,[1]>
+<me,[28, 47, 23, 29, 49, 25, 36, 50, 45, 47]>
+<meadow,[1]>
+<meadows,[1]>
+<meager,[1]>
+<meal,[1]>
+<mean,[3, 3, 4, 6, 3, 3, 5, 1, 4, 8]>
+<meaning,[1, 1, 1]>
+<means,[5, 1, 3, 1, 1]>
+<meant,[2, 3, 1, 4, 2, 1, 2, 2, 3]>
+<meantime,[1]>
+<meanwhile,[1, 1, 2]>
+<measles,[1]>
+<measures,[1]>
+<mechanical,[1, 1]>
+<medal,[1]>
+<meddle,[1]>
+<medicine,[2, 1]>
+<meditate,[1]>
+<meditated,[1]>
+<meditative,[2, 1]>
+<medium,[5]>
+<meek,[1]>
+<meekly,[1, 1, 1, 1, 1]>
+<meekness,[1]>
+<meet,[5, 2, 1, 1, 3, 2, 1]>
+<meeting,[1, 1, 1]>
+<meetings,[1]>
+<mein,[1]>
+<mell,[1]>
+<mellow,[1, 1]>
+<melodramatic,[1, 2]>
+<melody,[1, 1]>
+<melt,[1]>
+<melted,[1]>
+<member,[1, 7]>
+<members,[1, 1, 2]>
+<memorial,[1]>
+<memory,[3, 1]>
+<men,[4, 2, 2, 1, 1, 2]>
+<menagerie,[1]>
+<mend,[3, 1]>
+<mended,[1, 1, 1, 1]>
+<mending,[1, 2, 1, 1]>
+<mental,[1]>
+<mention,[2, 1]>
+<mentioned,[2]>
+<mentor,[1]>
+<mercenary,[1]>
+<merchant,[1]>
+<mercy,[1, 1]>
+<mere,[1]>
+<merely,[1, 1, 2, 1, 1, 2, 1]>
+<merino,[1]>
+<merit,[1]>
+<mermaid,[2]>
+<merrily,[1, 1, 1]>
+<merriment,[1, 2, 1, 1]>
+<merry,[2, 1, 1, 1, 2, 2, 1, 2]>
+<merrycle,[1]>
+<merrymaking,[1]>
+<merrymakings,[1]>
+<meshes,[1]>
+<mess,[1]>
+<message,[1]>
+<messages,[1, 1, 1]>
+<messes,[2, 1]>
+<messroom,[1]>
+<met,[3, 1, 2, 2, 1, 3, 2, 1, 1]>
+<metaphorically,[1]>
+<metaphysics,[1]>
+<method,[2, 1]>
+<methods,[1]>
+<mice,[1, 1]>
+<microscopic,[1]>
+<middle,[1, 2, 2, 2, 1]>
+<midgets,[1]>
+<midnight,[1, 1, 1]>
+<midst,[2, 1, 1, 1]>
+<might,[12, 7, 1, 5, 6, 4, 5, 8, 5, 4]>
+<mightily,[1]>
+<mighty,[1]>
+<mignonette,[1]>
+<mild,[1, 4]>
+<miles,[1, 1, 1]>
+<milk,[3, 2, 1, 1, 1]>
+<milkman,[1]>
+<million,[1, 1]>
+<millions,[1, 1]>
+<mince,[1]>
+<mind,[5, 9, 3, 10, 5, 9, 4, 8, 8, 12]>
+<minded,[3, 1, 1, 3, 1]>
+<minding,[1]>
+<minds,[1, 2, 1]>
+<mine,[4, 3, 1, 4, 1, 4, 7, 2, 3]>
+<mingled,[1, 1, 1, 1]>
+<miniature,[1]>
+<minute,[7, 6, 1, 4, 5, 2, 3, 7, 9, 6]>
+<minutes,[1, 1, 3, 2, 3, 2, 4, 1]>
+<miracle,[1, 1, 1]>
+<mirror,[3, 1]>
+<mirth,[1]>
+<mischief,[1, 1, 1, 2, 1, 1, 1, 5]>
+<mischievous,[1, 1, 1, 2, 1]>
+<mischievously,[1]>
+<misdemeanors,[1]>
+<miser,[1]>
+<miserable,[1, 1]>
+<misery,[1]>
+<misfortune,[1]>
+<misfortunes,[1]>
+<mishap,[1, 1]>
+<mishaps,[1, 1]>
+<mismanagment,[1]>
+<mispronouncing,[1]>
+<miss,[1, 1, 2, 2]>
+<missed,[2, 1, 1, 3]>
+<misses,[1]>
+<mission,[4]>
+<mist,[1]>
+<mistake,[2, 1, 1, 2]>
+<mistaken,[1, 1]>
+<mistakes,[1, 1, 1]>
+<mistress,[1, 2, 1, 1, 2]>
+<mit,[1]>
+<mite,[1]>
+<mixture,[1, 2, 1, 1]>
+<moan,[2]>
+<moat,[1]>
+<mode,[2]>
+<model,[1, 1, 2, 1, 1, 2]>
+<models,[1]>
+<modern,[1]>
+<modest,[1, 2, 1, 1]>
+<modestly,[2, 1]>
+<modesty,[1]>
+<modification,[1]>
+<modified,[1]>
+<moil,[1]>
+<moist,[1, 1]>
+<molasses,[1]>
+<mold,[1]>
+<molds,[1]>
+<mole,[1]>
+<moment,[4, 2, 2, 4, 2, 1, 1, 2]>
+<momentary,[1, 1]>
+<moments,[1, 2, 1]>
+<momma,[1]>
+<money,[4, 4, 5, 6, 2, 6, 6, 1, 2]>
+<monitor,[1]>
+<monks,[1]>
+<monosyllable,[1, 1]>
+<monstrous,[1]>
+<month,[1, 1, 2, 1]>
+<months,[2, 1]>
+<mood,[1, 1, 1]>
+<moods,[1, 1, 1]>
+<moody,[1, 2]>
+<moon,[1]>
+<moonlight,[1]>
+<mop,[1, 2]>
+<mopes,[1]>
+<moping,[1]>
+<moral,[2, 1, 1]>
+<moralize,[1]>
+<morally,[1]>
+<morals,[1]>
+<more,[20, 13, 15, 18, 17, 12, 7, 9, 12, 17]>
+<morning,[1, 5, 3, 3, 9, 3, 3, 1]>
+<mornings,[1]>
+<morsel,[1]>
+<mort,[1]>
+<mortal,[1]>
+<mortally,[2, 1]>
+<mortification,[1, 1]>
+<mortifying,[1, 1]>
+<mortyfied,[1]>
+<moss,[1]>
+<mossy,[1]>
+<most,[12, 6, 11, 7, 3, 6, 8, 5, 9, 5]>
+<mother,[11, 8, 5, 14, 19, 7, 3, 16, 25, 17]>
+<motherish,[1]>
+<motherly,[2, 2, 1, 2, 2, 1, 1]>
+<mothers,[1, 2, 2, 1, 1]>
+<motion,[1]>
+<motioned,[1]>
+<motionless,[1, 1, 1]>
+<motive,[1]>
+<motley,[1]>
+<motto,[2]>
+<mottoes,[1]>
+<mouf,[1]>
+<mount,[1]>
+<mountain,[1]>
+<mountains,[1]>
+<mounted,[1, 1]>
+<mounting,[1]>
+<mourn,[1]>
+<mourned,[1]>
+<mourning,[1]>
+<mouse,[1, 1]>
+<mouth,[1, 3, 2, 1, 3, 1, 2]>
+<mouths,[1]>
+<move,[2, 1]>
+<moved,[1]>
+<movement,[1]>
+<movements,[1]>
+<moves,[1]>
+<moving,[1]>
+<much,[13, 22, 13, 29, 21, 16, 14, 20, 15, 22]>
+<mud,[3, 1, 2]>
+<muddle,[1, 1]>
+<muddy,[3]>
+<muffled,[1]>
+<muffs,[1]>
+<mug,[1]>
+<mum,[2]>
+<murmur,[1, 1]>
+<murmured,[2]>
+<murmuring,[1]>
+<mushrooms,[1]>
+<music,[2, 5, 3, 10, 4, 4, 2, 1, 3]>
+<musical,[1, 1]>
+<musician,[3, 1]>
+<musingly,[1]>
+<muslin,[1, 1]>
+<muslins,[1]>
+<must,[4, 2, 15, 4, 6, 2, 5, 8, 6, 7]>
+<mustn,[1, 1, 1, 2, 1]>
+<mute,[1, 1]>
+<mutely,[2]>
+<mutter,[1]>
+<muttered,[1, 1, 1, 1, 2, 1]>
+<muttering,[1]>
+<my,[35, 35, 36, 22, 54, 34, 27, 58, 62, 44]>
+<myrtle,[1]>
+<myself,[1, 6, 6, 2, 6, 3, 6, 6, 1, 4]>
+<mysteries,[1]>
+<mysterious,[1, 1, 2, 1, 2, 1]>
+<mysteriously,[1, 1]>
+<mystery,[1, 1, 1, 1]>
+<mystified,[1]>
+<nails,[1]>
+<name,[4, 4, 6, 1, 3, 3, 2, 3, 4]>
+<named,[1, 2]>
+<namely,[1]>
+<names,[1, 1, 2, 1, 2, 2]>
+<nap,[2]>
+<napkin,[2]>
+<napkins,[1]>
+<narrow,[1]>
+<narrowly,[1, 1]>
+<nat,[1]>
+<nation,[1, 1, 1]>
+<nations,[1]>
+<natural,[1, 1, 4, 1, 2]>
+<naturally,[1]>
+<nature,[1, 1, 1, 1, 1]>
+<natured,[1, 1, 2, 1, 1]>
+<naturedly,[1]>
+<naughties,[1]>
+<naughtiest,[1]>
+<naughtinesses,[1]>
+<naughty,[1, 1, 1, 1, 1]>
+<nautical,[1]>
+<near,[1, 4, 1, 1, 1, 2, 5, 5, 2]>
+<nearer,[2, 2, 3, 1, 2]>
+<nearly,[3, 2, 3, 3, 4, 3, 2]>
+<neat,[5, 1, 1, 1]>
+<neath,[1]>
+<neatly,[1]>
+<neatness,[1]>
+<necessarily,[1]>
+<necessary,[1, 3, 2]>
+<neck,[1, 1, 1, 4, 4]>
+<necked,[1]>
+<necklace,[1, 2]>
+<necklaces,[1]>
+<nectar,[1]>
+<need,[1, 6, 4, 2, 1, 3, 5, 3, 3]>
+<needed,[1, 5, 3, 2, 1, 1, 3]>
+<needful,[1]>
+<needle,[1]>
+<needler,[1]>
+<needles,[2, 1]>
+<needlewoman,[1]>
+<needlework,[1]>
+<needn,[1, 4, 2, 1, 2]>
+<needs,[2, 2, 1]>
+<neglect,[1, 1, 1, 1]>
+<neglected,[1, 1, 3, 2]>
+<neglecting,[1]>
+<neglects,[1]>
+<neighbor,[1, 1, 2]>
+<neighborhood,[1, 1]>
+<neighborly,[2, 1]>
+<neighbors,[2, 2, 1, 2, 1]>
+<neither,[1, 1, 3, 1, 1, 2]>
+<nephew,[1, 1, 1]>
+<nervous,[3]>
+<nervously,[1, 1]>
+<nest,[1, 1]>
+<nestled,[1, 1, 1]>
+<nests,[1]>
+<nettled,[1, 1]>
+<nettles,[1]>
+<network,[1]>
+<neuralgia,[1]>
+<never,[7, 17, 21, 29, 20, 10, 16, 20, 18, 16]>
+<nevertheless,[1]>
+<new,[8, 1, 7, 5, 13, 10, 8, 4, 1, 4]>
+<newcomer,[1]>
+<newly,[1, 1, 1, 1]>
+<news,[1, 1, 2, 4, 2]>
+<newsletter,[1]>
+<newspaper,[1, 1]>
+<newspaperman,[1]>
+<newspapers,[1, 1]>
+<next,[2, 1, 1, 6, 4, 8, 3, 7, 1, 4]>
+<nibble,[1]>
+<nice,[16, 10, 10, 9, 12, 6, 2, 3]>
+<nicely,[4, 1, 3]>
+<nicknames,[1]>
+<nigh,[1]>
+<night,[2, 3, 3, 6, 6, 2, 2, 6, 8, 2]>
+<nightcap,[1]>
+<nightcaps,[1, 1]>
+<nightgown,[2]>
+<nightingales,[1]>
+<nights,[1]>
+<nimble,[1]>
+<nine,[1, 2, 1, 1, 3]>
+<ninepence,[1]>
+<nineteen,[1]>
+<no,[19, 25, 19, 11, 8, 23, 25, 16, 19, 21]>
+<nobility,[1]>
+<noble,[1, 2]>
+<nobody,[2, 2, 1, 1, 1, 1]>
+<nod,[3, 1, 2, 1, 1, 1]>
+<nodded,[1, 1, 2, 1, 1, 1]>
+<nodding,[1, 1, 1, 1]>
+<nods,[1, 1]>
+<noiselessly,[1, 2, 1]>
+<nom,[1]>
+<non,[1]>
+<none,[1, 1, 1]>
+<nonproprietary,[1]>
+<nonsense,[2, 1, 1, 2, 1, 2]>
+<nonsensical,[1]>
+<nook,[1]>
+<noon,[1]>
+<nor,[1, 3, 1, 1, 2, 5]>
+<north,[1]>
+<nose,[1, 6, 2, 1, 5, 3, 1]>
+<nosegay,[1]>
+<noses,[1, 1, 1]>
+<not,[46, 43, 50, 54, 57, 43, 24, 34, 49, 45]>
+<note,[1, 3, 3, 3, 4, 1, 9]>
+<notes,[1, 1, 1]>
+<nothin,[1]>
+<nothing,[5, 5, 4, 4, 4, 7, 3, 4, 6, 9]>
+<notice,[2, 2, 1, 1]>
+<noticed,[1]>
+<notifies,[1]>
+<notion,[1]>
+<nourish,[1]>
+<novel,[1, 2]>
+<novels,[1, 2, 1]>
+<novelty,[1]>
+<now,[9, 9, 12, 16, 10, 13, 15, 11, 16, 12]>
+<nowadays,[1]>
+<nowhere,[1]>
+<nudge,[1, 1]>
+<number,[1, 3, 3]>
+<numerous,[1]>
+<nun,[1]>
+<nunnery,[1]>
+<nurse,[1, 1, 1, 2, 1]>
+<nursed,[1, 1, 1]>
+<nursery,[1, 1]>
+<nurses,[1, 1]>
+<nursing,[1, 1]>
+<nutmeg,[1]>
+<nuts,[1, 1]>
+<o,[1, 1, 1, 3, 1]>
+<oak,[1]>
+<oaks,[1]>
+<oars,[1]>
+<ob,[2]>
+<obedience,[1]>
+<obedient,[1]>
+<obediently,[1, 2, 1]>
+<obey,[1]>
+<obeyed,[1, 1]>
+<obeying,[1]>
+<object,[1, 1]>
+<objecting,[1]>
+<objection,[1]>
+<objectionable,[1]>
+<objects,[1]>
+<oblige,[1]>
+<obliged,[4, 4, 2, 1]>
+<obliging,[1, 1]>
+<obligingly,[1]>
+<oblivious,[1]>
+<observation,[1, 1, 1]>
+<observe,[1, 1]>
+<observed,[1, 1, 1, 4, 1, 3, 2, 3]>
+<observes,[1]>
+<observing,[3, 1]>
+<obsolete,[1]>
+<obstacles,[1]>
+<obstinacy,[1]>
+<obtain,[3]>
+<obtaining,[2]>
+<occasion,[1, 2, 2, 1]>
+<occasional,[1, 1, 1, 1]>
+<occasionally,[1, 1, 1, 1, 1]>
+<occasioned,[1]>
+<occasions,[2, 1, 1]>
+<occupants,[1]>
+<occur,[1]>
+<occurred,[1, 1, 3, 1, 1]>
+<ocean,[1]>
+<odd,[1, 2, 3, 1, 1, 2, 1]>
+<oddest,[1]>
+<oddly,[1]>
+<odds,[1]>
+<odor,[1]>
+<odors,[1]>
+<of,[162, 153, 233, 166, 166, 180, 176, 148, 153, 152]>
+<off,[4, 9, 3, 9, 9, 17, 4, 13, 16, 9]>
+<offend,[1, 1]>
+<offended,[1, 1, 2, 3, 3, 1]>
+<offending,[1]>
+<offer,[2, 3, 1, 1, 1, 2, 2]>
+<offered,[3, 2, 2, 3, 1, 2, 1]>
+<offering,[1, 2, 3]>
+<offers,[1, 1]>
+<office,[1, 1, 6, 1, 1, 1]>
+<officers,[1]>
+<official,[3]>
+<oft,[1]>
+<often,[7, 2, 3, 2, 2, 3, 4, 3]>
+<oh,[2, 1, 1, 1, 1, 2, 1]>
+<oil,[1]>
+<old,[16, 24, 18, 35, 21, 16, 20, 11, 24, 18]>
+<older,[2, 1, 3, 2]>
+<oldest,[2, 1, 1, 1, 1]>
+<olives,[1]>
+<ologies,[1]>
+<omelet,[1]>
+<omen,[1]>
+<omens,[1, 1, 1]>
+<ominous,[1]>
+<omniboos,[1]>
+<omnibus,[1, 1]>
+<on,[36, 44, 50, 42, 50, 52, 45, 50, 51, 52]>
+<once,[5, 8, 4, 10, 4, 5, 8, 7, 13, 7]>
+<one,[36, 53, 35, 21, 30, 38, 32, 35, 28, 27]>
+<ones,[3, 3, 3, 2, 4, 1, 1]>
+<online,[3]>
+<only,[10, 20, 8, 15, 16, 14, 11, 16, 14, 14]>
+<onto,[2, 1]>
+<open,[2, 3, 4, 7, 2, 1, 3]>
+<opened,[5, 1, 5, 2, 1, 4, 1, 1, 2]>
+<opening,[1, 2, 1, 1, 3]>
+<openly,[1]>
+<opens,[2]>
+<opera,[1, 1]>
+<operas,[1]>
+<opinion,[1, 2]>
+<opportunities,[1, 1]>
+<opportunity,[1, 1]>
+<opposite,[1, 1, 1, 2, 2]>
+<opposites,[1]>
+<oppressed,[1]>
+<or,[16, 26, 86, 17, 27, 19, 17, 22, 20, 16]>
+<orange,[1, 1]>
+<oranges,[1]>
+<oration,[1]>
+<orations,[1]>
+<orchard,[3]>
+<ordeal,[1]>
+<order,[2, 2, 1, 3, 1, 5, 1, 2, 1]>
+<ordered,[1, 1, 1, 2, 2, 1]>
+<orders,[2, 2]>
+<ordinary,[1]>
+<org,[8]>
+<organized,[1]>
+<organs,[1]>
+<original,[1, 2]>
+<originator,[1]>
+<ornament,[1, 1, 1]>
+<ornamented,[1]>
+<ornaments,[1, 3]>
+<orphans,[1]>
+<other,[9, 9, 18, 5, 12, 11, 7, 7, 3, 8]>
+<others,[3, 5, 4, 2, 3, 3, 3, 4, 1, 3]>
+<otherwise,[1, 1, 1]>
+<ought,[1, 4, 2, 2, 2, 3, 5, 5, 5, 4]>
+<our,[9, 9, 5, 5, 8, 15, 11, 6, 2, 6]>
+<ours,[1, 1, 1, 1]>
+<ourselves,[1, 1, 1, 2]>
+<out,[21, 39, 15, 23, 23, 17, 32, 31, 31, 25]>
+<outbreak,[1]>
+<outcasts,[1]>
+<outcry,[1]>
+<outdated,[1]>
+<outfit,[1]>
+<outgrew,[1]>
+<outgrow,[1]>
+<outgrown,[1]>
+<outlive,[1]>
+<outraged,[1]>
+<outright,[1, 1, 1]>
+<outside,[1, 3, 1, 2, 1]>
+<outskirts,[1]>
+<outward,[1, 1]>
+<outwits,[1]>
+<oven,[2]>
+<over,[20, 21, 9, 17, 14, 9, 22, 20, 22, 25]>
+<overcome,[1, 2, 1, 1, 1]>
+<overdo,[1]>
+<overdoing,[1]>
+<overflowed,[1]>
+<overhead,[1, 1]>
+<overheard,[2]>
+<overlooked,[1]>
+<overrun,[1]>
+<overseeing,[1]>
+<overshoes,[1]>
+<overtures,[1]>
+<overwhelming,[2]>
+<overwhelmingly,[1]>
+<owe,[1, 1, 1]>
+<owed,[2]>
+<owes,[1]>
+<owing,[1]>
+<own,[12, 10, 11, 6, 5, 6, 4, 8, 5, 15]>
+<owned,[1]>
+<owner,[4, 1]>
+<owns,[2]>
+<oysters,[1]>
+<pace,[1, 1, 1]>
+<paced,[1]>
+<pacify,[1]>
+<pack,[1]>
+<packed,[2]>
+<packets,[1]>
+<packing,[1]>
+<packs,[1]>
+<paddled,[1]>
+<paddling,[1, 1]>
+<padlocks,[1]>
+<page,[3, 2, 2, 1]>
+<pages,[1, 1, 1, 1]>
+<paid,[1, 7, 1, 2, 1]>
+<pail,[1, 1]>
+<pain,[1, 3, 2, 1, 2]>
+<painful,[1, 1]>
+<pains,[1]>
+<paint,[1]>
+<painted,[1]>
+<pair,[4, 1, 1, 4, 2, 3, 1, 1, 1]>
+<pairs,[2, 2, 1]>
+<palace,[1, 1]>
+<palatable,[1]>
+<pale,[1, 2, 2, 1, 2, 4, 3]>
+<pallor,[1]>
+<palm,[1, 2]>
+<pan,[4]>
+<panacea,[1]>
+<pane,[1]>
+<pang,[1]>
+<pans,[1]>
+<pansies,[1, 1, 1, 1]>
+<panting,[1, 1]>
+<pantoufles,[1]>
+<papa,[1, 2]>
+<paper,[2, 4, 3, 1, 7, 11, 4, 5]>
+<papers,[2]>
+<paperwork,[1]>
+<parade,[1, 1, 1]>
+<parading,[1]>
+<paradise,[1, 1]>
+<paradisiacal,[1]>
+<paragraph,[10]>
+<paragraphs,[3]>
+<parcel,[1, 1]>
+<parcels,[1]>
+<parched,[1]>
+<pardner,[1]>
+<pardon,[3, 1, 1, 3, 1, 3, 1, 5]>
+<pardonable,[1, 1]>
+<pardoned,[1]>
+<parent,[3]>
+<parents,[2, 1]>
+<park,[1]>
+<parliamentary,[1]>
+<parlor,[1, 4, 4, 1, 3, 2]>
+<parrot,[1, 4]>
+<parry,[1]>
+<part,[3, 1, 6, 1, 1, 2, 3, 3, 2, 5]>
+<partake,[1, 1]>
+<parted,[2, 1, 1, 1]>
+<particle,[2, 1, 1, 1, 1]>
+<particular,[1, 2, 1, 1, 1]>
+<particularly,[3, 1, 2, 2, 2]>
+<parties,[3, 1, 1]>
+<parting,[1, 1]>
+<partly,[1]>
+<partner,[1, 3]>
+<partook,[1]>
+<parts,[1, 1, 2, 1]>
+<party,[2, 8, 2, 3, 7, 10, 7, 1]>
+<pass,[1, 1, 1, 2, 1]>
+<passage,[1]>
+<passages,[1]>
+<passed,[2, 2, 1, 3, 3, 3, 2]>
+<passers,[1]>
+<passes,[1]>
+<passing,[1, 2]>
+<passion,[1, 3, 1]>
+<passionate,[1]>
+<passionately,[1, 1, 1]>
+<passport,[1]>
+<past,[1, 1, 2, 1, 1, 1, 1, 3]>
+<pastoral,[1]>
+<pat,[1, 1]>
+<patchwork,[2]>
+<pate,[1]>
+<paternal,[1]>
+<path,[1, 1, 1, 1, 1]>
+<pathetic,[1, 1, 2, 1, 1, 1]>
+<pathetically,[1]>
+<paths,[1, 1]>
+<patience,[1, 3, 1, 2, 1, 1, 2, 4]>
+<patient,[3, 1, 1, 1, 2, 1, 2]>
+<patiently,[1, 1, 2, 1]>
+<patriotic,[1]>
+<patron,[1, 1]>
+<patronize,[1]>
+<patronizing,[2, 1]>
+<patted,[1]>
+<pattern,[1, 1]>
+<patty,[1]>
+<pause,[2, 2, 2, 2, 1]>
+<paused,[3, 1, 3, 1, 1]>
+<pauses,[1]>
+<pausing,[2, 1]>
+<paws,[1]>
+<pay,[2, 7, 1, 1, 3, 1, 1]>
+<paying,[1, 3]>
+<payments,[3]>
+<peace,[1, 1, 1, 4, 2, 1, 2]>
+<peaceful,[1, 1, 1, 1, 1]>
+<peacock,[1, 1]>
+<peaks,[1]>
+<peals,[1]>
+<pearl,[2, 1]>
+<pearls,[2, 2]>
+<peas,[1]>
+<peck,[2]>
+<pecking,[2]>
+<pecks,[1]>
+<peculiar,[2, 1, 1, 2, 1]>
+<pedals,[1]>
+<peddling,[1]>
+<peek,[1]>
+<peep,[1, 1]>
+<peeped,[1, 2, 3, 1, 1]>
+<peeping,[1, 1, 1, 1]>
+<peeps,[1]>
+<pegging,[2]>
+<pell,[1]>
+<pelted,[1]>
+<pen,[1, 1, 1]>
+<penances,[1]>
+<pencil,[1, 2]>
+<pencils,[1]>
+<pendulum,[1]>
+<penetration,[1]>
+<penitent,[1, 2, 1]>
+<penny,[2, 1]>
+<pens,[1, 1, 1]>
+<pensive,[2, 1, 1, 1]>
+<pensively,[2]>
+<people,[6, 10, 6, 7, 12, 6, 7, 5, 4, 2]>
+<peopled,[1]>
+<pepper,[1]>
+<peppery,[1]>
+<perch,[1, 1]>
+<perched,[1, 1]>
+<perfect,[3, 1, 2, 2, 2, 4, 1, 1]>
+<perfectly,[1, 2, 1, 1, 2, 3, 1, 1]>
+<perform,[1]>
+<performance,[1, 2]>
+<performances,[1, 1, 1]>
+<performed,[2]>
+<performing,[3]>
+<perfume,[1]>
+<perhaps,[1, 1, 2, 1, 1, 2, 1, 2]>
+<perilous,[1, 1]>
+<periodic,[1]>
+<perked,[1]>
+<permanent,[1]>
+<permission,[6, 1]>
+<permitted,[2]>
+<perpetual,[1, 1, 1]>
+<perplexed,[1]>
+<perplexity,[1]>
+<perseverance,[1]>
+<person,[1, 3, 4, 2, 3, 5, 2]>
+<personage,[1]>
+<persons,[1, 1]>
+<persuaded,[1]>
+<persuasions,[1]>
+<persuasive,[1, 2, 2]>
+<perturbed,[1]>
+<pestle,[1]>
+<pet,[1, 2, 1, 4, 3, 1]>
+<petition,[1]>
+<pets,[1]>
+<petted,[1, 1, 1, 2]>
+<petticoat,[1]>
+<petting,[1, 1]>
+<pettishly,[1, 1]>
+<petulantly,[1, 1, 1, 2]>
+<phenomenon,[1]>
+<philander,[1]>
+<philandering,[1]>
+<philanthropic,[1]>
+<philoprogenitiveness,[1]>
+<philosopher,[2]>
+<philosophic,[1]>
+<philosophy,[1]>
+<phine,[3]>
+<phrase,[4, 1]>
+<phrases,[1, 1]>
+<physical,[2]>
+<pianee,[1]>
+<pianny,[2]>
+<piano,[1, 11, 1, 2, 3, 1]>
+<pick,[1, 1, 1, 1]>
+<picked,[1, 2, 1]>
+<pickers,[1]>
+<picket,[1]>
+<picking,[1, 1, 1, 1]>
+<pickle,[1, 1]>
+<pickled,[1, 2, 1]>
+<pickles,[1]>
+<picnic,[1, 1]>
+<picnics,[1]>
+<picture,[2, 3, 1, 2, 1, 3, 1]>
+<pictured,[1]>
+<pictures,[2, 3, 1, 2]>
+<picturesque,[1]>
+<pie,[1, 1, 1]>
+<piece,[2, 1, 1, 1, 2]>
+<pies,[1, 2, 1]>
+<pig,[1, 1]>
+<pigeonholes,[1]>
+<pigs,[1]>
+<pile,[1, 1, 1]>
+<piled,[1, 3]>
+<piles,[1]>
+<pilgrim,[1]>
+<pilgrimage,[1]>
+<pilgrims,[1, 1, 1]>
+<pillow,[1, 2, 1]>
+<pillowed,[1]>
+<pillows,[1, 1]>
+<pilot,[1]>
+<pin,[1]>
+<pinafore,[1]>
+<pinafores,[1]>
+<pinch,[1, 1]>
+<pinched,[1]>
+<pinching,[1, 1]>
+<pine,[1]>
+<pines,[2]>
+<pink,[3, 1, 1, 2, 1]>
+<pinks,[1]>
+<pinnacle,[1]>
+<pinned,[1, 1]>
+<pinning,[1]>
+<pins,[1, 1, 1, 1]>
+<pint,[1]>
+<pious,[1]>
+<pipers,[1]>
+<pique,[1, 1]>
+<pirate,[2]>
+<pitch,[1]>
+<pitched,[1, 1]>
+<pitcher,[1, 1]>
+<piteous,[1]>
+<pities,[1]>
+<pitty,[2]>
+<pity,[1, 1, 2, 1, 2]>
+<pitying,[1]>
+<place,[5, 7, 7, 5, 1, 6, 3, 3, 6, 6]>
+<placed,[1, 1]>
+<places,[1, 2, 1, 1]>
+<placid,[1, 1]>
+<placidly,[1]>
+<plague,[1, 1, 1, 2]>
+<plagued,[1, 1]>
+<plaguing,[1]>
+<plaid,[1]>
+<plain,[1, 2, 1, 2, 1, 1]>
+<plainly,[2, 1, 3, 1]>
+<plaint,[1]>
+<plaintive,[1]>
+<plan,[1, 3, 2, 1, 3, 3]>
+<plank,[1]>
+<planned,[1, 1, 1, 1, 3]>
+<plans,[1, 2, 1, 6, 1]>
+<plant,[1]>
+<plantation,[1]>
+<planted,[1]>
+<plants,[1]>
+<plaster,[1]>
+<plate,[1, 1, 1, 1, 1]>
+<plates,[1, 2]>
+<platform,[1, 1]>
+<play,[2, 3, 1, 6, 3, 14, 6, 4, 1]>
+<played,[1, 3, 3, 2, 1, 1, 1]>
+<players,[1]>
+<playfellows,[1]>
+<playing,[1, 2, 3, 1, 2]>
+<playmate,[1, 1]>
+<plays,[2, 1]>
+<pleaded,[1, 2, 1]>
+<pleasant,[6, 2, 2, 3, 4, 5, 3, 5, 3, 4]>
+<pleasanter,[2]>
+<pleasantly,[1, 1, 1]>
+<please,[1, 4, 1, 4, 2, 4, 7, 1, 2, 4]>
+<pleased,[1, 3, 3, 2, 2, 1, 1]>
+<pleases,[1]>
+<pleasing,[2, 1, 1, 1, 1, 1]>
+<pleasure,[4, 5, 3, 3, 2]>
+<pleasures,[1, 1, 1]>
+<plenty,[2, 1, 1, 5, 2]>
+<plodding,[1]>
+<plot,[1, 1, 1]>
+<pluck,[1]>
+<plucked,[1]>
+<plucky,[1]>
+<plum,[1, 1]>
+<plume,[1]>
+<plumes,[1]>
+<plummy,[1]>
+<plump,[1, 1, 1, 1, 1, 1]>
+<plumped,[1]>
+<plums,[1]>
+<plumy,[1]>
+<plunged,[1]>
+<pocket,[2, 2, 2, 2, 1, 2, 1, 2]>
+<pockets,[2, 2]>
+<poems,[1]>
+<poetic,[1]>
+<poetry,[1, 2, 1, 1, 3]>
+<point,[1, 1, 1, 2, 2, 2, 1]>
+<pointed,[1, 1, 1, 1]>
+<pointing,[1, 1]>
+<points,[1]>
+<poke,[1]>
+<poked,[1, 1, 1, 1, 1]>
+<poking,[1, 1, 1]>
+<poky,[1]>
+<pole,[1]>
+<poles,[1]>
+<policy,[1]>
+<polish,[1]>
+<polished,[1, 1]>
+<polite,[3, 1]>
+<politely,[1, 1]>
+<politeness,[1]>
+<polka,[2]>
+<pome,[1]>
+<pony,[1]>
+<poodle,[1, 1, 1]>
+<poor,[9, 10, 11, 3, 7, 4, 7, 8, 6]>
+<poorhouse,[1]>
+<pop,[1]>
+<poplin,[2]>
+<popped,[1, 1, 1]>
+<poppies,[1]>
+<popping,[1, 1, 1]>
+<poppy,[1]>
+<porch,[1, 1, 1]>
+<porcupine,[1]>
+<poring,[1]>
+<port,[1]>
+<portentous,[1]>
+<portfolio,[1, 1]>
+<portion,[1]>
+<portions,[1]>
+<portrait,[1, 1]>
+<portraits,[1]>
+<posed,[1]>
+<posies,[1]>
+<position,[1]>
+<possess,[1, 1]>
+<possessed,[1, 1, 1, 1, 2, 2, 1, 2, 2]>
+<possessing,[1, 2]>
+<possession,[1, 1, 3]>
+<possessions,[1, 1]>
+<possible,[1, 3, 3]>
+<post,[1, 1, 5, 1, 1, 1]>
+<posted,[4, 1]>
+<postman,[2]>
+<postmistress,[1]>
+<postscripts,[1]>
+<posy,[1, 1]>
+<pot,[4, 1, 1]>
+<potatoes,[1, 2]>
+<pots,[1]>
+<pouch,[1]>
+<pounded,[1]>
+<pounding,[1]>
+<pounds,[1]>
+<pour,[1]>
+<pouring,[1]>
+<poverty,[3, 1, 1, 2, 1]>
+<powder,[1, 1]>
+<powdered,[1, 1]>
+<powdering,[1]>
+<power,[2, 2, 1, 1, 1, 2]>
+<powerlessness,[1]>
+<powers,[2]>
+<practically,[1]>
+<practice,[1, 1, 1, 1]>
+<practiced,[1, 1]>
+<practicing,[1, 1]>
+<prairies,[1]>
+<praise,[1, 2, 2, 1, 1, 1, 3, 1]>
+<praised,[1, 2, 1]>
+<praiseworthy,[1, 1, 1]>
+<pranced,[1]>
+<prancing,[1, 1]>
+<prank,[1, 2]>
+<pranks,[1, 1, 2]>
+<prattling,[1]>
+<pray,[1, 2, 1, 3]>
+<prayed,[1, 1, 1]>
+<prayer,[1, 2]>
+<prayers,[1, 2]>
+<praying,[1]>
+<preach,[2, 1, 1]>
+<preachy,[1]>
+<preceded,[1]>
+<preceptor,[1]>
+<precincts,[1]>
+<precious,[2, 1, 2, 2, 3, 2, 1, 6]>
+<precipitated,[1]>
+<precipitately,[1, 1, 1]>
+<precisely,[1]>
+<precocious,[3]>
+<predicament,[1]>
+<predicted,[1, 1]>
+<prefer,[1, 1, 1, 1]>
+<preferred,[1]>
+<prefers,[1]>
+<preparation,[1]>
+<preparations,[1, 1]>
+<preparatory,[1]>
+<prepare,[2, 1, 1]>
+<prepared,[1, 1, 1]>
+<preparing,[1, 1, 1]>
+<presence,[2, 1, 1, 1, 1, 1]>
+<present,[1, 1, 2, 1, 3, 2, 4]>
+<presented,[1, 1, 1]>
+<presently,[1, 1, 1, 3]>
+<presents,[1]>
+<preserve,[1, 2]>
+<preside,[1, 1]>
+<presided,[1]>
+<president,[1]>
+<press,[1]>
+<pressed,[1, 2, 1, 1, 1]>
+<pressure,[1]>
+<pretending,[1]>
+<pretense,[1, 1]>
+<prettier,[1, 1, 1, 1, 1]>
+<prettiest,[1, 1]>
+<prettily,[2, 1, 1]>
+<pretty,[4, 9, 1, 4, 9, 5, 6, 4, 5, 7]>
+<prevail,[1]>
+<prevailed,[1]>
+<prevent,[1]>
+<previous,[1]>
+<price,[1, 1]>
+<prices,[1]>
+<pricked,[1, 1]>
+<pricking,[1]>
+<pride,[3, 2, 4, 4, 1, 2]>
+<prided,[1]>
+<priest,[1]>
+<prim,[1, 1, 2, 1]>
+<prime,[1, 3]>
+<primer,[1]>
+<primmed,[2]>
+<primming,[1]>
+<prince,[1]>
+<princes,[1]>
+<princess,[1, 2]>
+<princesses,[1, 3]>
+<prink,[1]>
+<print,[1, 1, 1, 2]>
+<printed,[2, 1]>
+<prisms,[1]>
+<prison,[1]>
+<prisoner,[1, 1, 1]>
+<private,[2, 1, 1, 2, 1, 1, 2, 1]>
+<privately,[1, 2, 1]>
+<privations,[1]>
+<privilege,[1]>
+<prize,[1]>
+<probably,[1, 2]>
+<problem,[1]>
+<problems,[1]>
+<proceeded,[1, 1]>
+<proceeding,[1]>
+<process,[1, 1]>
+<processing,[1]>
+<procession,[1]>
+<prodigious,[1]>
+<produce,[2, 1]>
+<produced,[2, 1, 2, 1, 2, 1]>
+<producing,[4]>
+<production,[1]>
+<profane,[1]>
+<professor,[1]>
+<professorins,[1]>
+<professors,[1]>
+<profit,[1]>
+<profitable,[2]>
+<profits,[1]>
+<prohibition,[1]>
+<prolonged,[1]>
+<promenade,[1]>
+<promenaded,[1, 1]>
+<promenades,[1]>
+<prominently,[2]>
+<promise,[2, 1, 1, 2, 1, 1]>
+<promised,[3, 2, 1, 3]>
+<promises,[1, 1]>
+<promising,[1]>
+<promoting,[2, 1]>
+<promotion,[1]>
+<promptly,[1, 1]>
+<prone,[1]>
+<pronounce,[1]>
+<pronounced,[2, 2]>
+<pronunciation,[1]>
+<proof,[1, 1]>
+<proofread,[1]>
+<proofs,[2]>
+<proper,[1, 2, 3, 2, 4, 3, 2, 2, 2, 5]>
+<properest,[1]>
+<properly,[1, 1, 1]>
+<properties,[1]>
+<property,[1, 2, 1, 1, 2]>
+<prophesy,[1]>
+<prophetess,[1]>
+<propitiate,[1]>
+<propitious,[1]>
+<proportions,[1]>
+<proposal,[1]>
+<propose,[1, 3]>
+<proposed,[1, 1, 2, 2, 1, 2, 1, 1]>
+<proposing,[1, 1]>
+<proposition,[1]>
+<propped,[2]>
+<proprietary,[1]>
+<propriety,[2, 2, 1]>
+<prospect,[1, 1, 2, 1]>
+<prospects,[1]>
+<prosper,[2, 1]>
+<prospered,[1]>
+<prostrate,[1]>
+<prosy,[1]>
+<protect,[2]>
+<protected,[5]>
+<protection,[1, 2, 1]>
+<protege,[1]>
+<protested,[1, 1]>
+<proud,[1, 1, 2, 6, 4, 2, 6, 2]>
+<prouder,[1, 1]>
+<prove,[1, 1, 1, 1]>
+<proved,[1, 1, 3, 1]>
+<provide,[7]>
+<provided,[3, 1, 1]>
+<provides,[1]>
+<providing,[4]>
+<proving,[1]>
+<provision,[1]>
+<provisions,[1]>
+<provocation,[1]>
+<provoking,[1]>
+<proxy,[1]>
+<prudence,[1]>
+<prudent,[1]>
+<prudently,[1, 1, 1]>
+<public,[2, 3]>
+<publicly,[1]>
+<published,[1]>
+<pucker,[1]>
+<puckered,[1]>
+<pudding,[2, 1, 1, 2]>
+<puddle,[1]>
+<puddles,[1]>
+<puff,[1]>
+<puffs,[1]>
+<pull,[2, 2, 1]>
+<pulled,[1, 2, 4, 1]>
+<pulling,[2, 1]>
+<pummelled,[1]>
+<pumps,[1]>
+<punching,[1]>
+<punchtuation,[1]>
+<punctuation,[1]>
+<punished,[2]>
+<punishment,[2, 1]>
+<puns,[1]>
+<pupil,[3, 1]>
+<pupils,[2, 1, 1]>
+<puppies,[1]>
+<pure,[1]>
+<purple,[2, 1, 1, 1, 1]>
+<purpose,[1, 1, 1, 1, 1]>
+<purposes,[1]>
+<purr,[1]>
+<purse,[1, 1, 1]>
+<pursed,[1]>
+<push,[1, 1]>
+<pushed,[1, 2, 1]>
+<puss,[1]>
+<pussies,[1]>
+<pussycat,[1]>
+<put,[9, 11, 2, 8, 14, 13, 9, 13, 11, 6]>
+<putting,[4, 4, 1, 2, 2, 3, 2, 1]>
+<puzzle,[1]>
+<puzzled,[1, 1, 1]>
+<pyre,[1]>
+<quadroon,[2]>
+<quaint,[1, 1, 1]>
+<quaked,[1, 1]>
+<quantities,[1, 1, 1]>
+<quantity,[1]>
+<quarrel,[1, 2, 1]>
+<quarreled,[1]>
+<quarter,[1, 1]>
+<quarterly,[1]>
+<quarters,[1]>
+<quarts,[1, 1]>
+<quaver,[1]>
+<queen,[1, 1, 1, 1, 2, 1]>
+<queens,[1]>
+<queer,[4, 1, 2, 2, 3, 1, 4, 2, 3]>
+<queerest,[1]>
+<queerly,[1]>
+<quench,[1]>
+<quenched,[1, 1, 1, 1]>
+<question,[3, 4, 2, 1]>
+<questioned,[1]>
+<questions,[1, 2, 1, 1, 1, 3]>
+<quick,[1, 3, 3, 1, 3, 1]>
+<quickly,[3, 2, 1, 2, 2, 4, 2]>
+<quiet,[10, 1, 6, 2, 4, 2, 10, 2]>
+<quieted,[2, 1]>
+<quietly,[1, 1, 2, 1, 3, 6, 1, 4]>
+<quilted,[1]>
+<quite,[12, 7, 3, 16, 14, 6, 8, 7, 6, 17]>
+<quizzical,[1]>
+<quoting,[1, 1]>
+<rabbit,[1]>
+<race,[1, 1, 1]>
+<rack,[2, 1]>
+<racket,[1, 1, 1]>
+<radiance,[1]>
+<radiant,[1]>
+<rag,[1, 1, 2, 1]>
+<ragamuffin,[3]>
+<ragamuffins,[1]>
+<rage,[1]>
+<raged,[1]>
+<ragged,[1]>
+<raging,[1]>
+<rail,[2]>
+<railroad,[1]>
+<railroads,[1]>
+<rails,[1]>
+<rain,[4, 1, 7]>
+<rainbow,[1]>
+<rainbows,[1]>
+<rained,[1]>
+<rains,[1]>
+<rainy,[1, 1, 1]>
+<raise,[1, 1]>
+<raisins,[3, 1]>
+<ral,[1]>
+<rampant,[1]>
+<rampantly,[1]>
+<ran,[3, 2, 1, 3, 5, 5, 3, 5]>
+<rang,[2, 1, 1, 1]>
+<rank,[1]>
+<rankled,[1]>
+<rap,[1]>
+<rapid,[1, 1]>
+<rapidity,[1]>
+<rapidly,[2, 1, 1]>
+<rapped,[1, 1]>
+<rapture,[1, 1, 1, 1, 1, 2]>
+<rapturously,[1]>
+<rare,[1]>
+<rascal,[1]>
+<rascals,[1, 1, 1]>
+<rash,[1, 1, 2]>
+<rat,[1]>
+<rate,[2, 1]>
+<rather,[5, 14, 3, 6, 10, 5, 11, 6, 9, 16]>
+<rations,[1]>
+<rattle,[1, 1]>
+<rattlepated,[2]>
+<raven,[1]>
+<ravished,[1]>
+<ravishing,[1]>
+<ravishingly,[1]>
+<re,[3, 1, 3, 1, 2, 2, 3, 3]>
+<reach,[1]>
+<reached,[1, 1, 3, 1]>
+<reaching,[1]>
+<read,[2, 15, 4, 4, 2, 5, 11, 12, 5, 2]>
+<readable,[2]>
+<reader,[1, 1]>
+<readers,[1, 1]>
+<reading,[1, 1, 1, 5, 2, 1]>
+<reads,[1]>
+<ready,[2, 2, 2, 7, 5, 5, 6, 5, 4]>
+<real,[1, 3, 1, 2, 2, 1, 2, 2, 3, 1]>
+<reality,[1]>
+<realize,[1]>
+<realized,[1, 1, 2]>
+<really,[1, 3, 3, 2, 1, 4, 2, 4, 3]>
+<reaping,[1]>
+<rear,[1]>
+<reason,[1, 2, 1, 1, 2]>
+<reasonable,[1]>
+<reasoned,[1]>
+<reassuring,[1]>
+<rebel,[1]>
+<rebelled,[1, 1]>
+<rebellion,[1]>
+<rebellious,[1, 1]>
+<rebuked,[1]>
+<recalled,[1]>
+<receipt,[2, 1]>
+<receive,[1, 4, 1, 1, 1]>
+<received,[2, 1, 6, 2, 1, 1, 1, 2, 5]>
+<receiving,[1, 2]>
+<receptacle,[1]>
+<reception,[1, 1]>
+<recess,[1, 3]>
+<recesses,[1]>
+<recitation,[1]>
+<recited,[1]>
+<reclaim,[1]>
+<reclined,[1]>
+<recognize,[1]>
+<recollecting,[1]>
+<recollection,[1]>
+<recommend,[1]>
+<recommended,[1]>
+<reconciled,[1, 1]>
+<record,[2, 1]>
+<recover,[2, 2]>
+<recovered,[1, 1]>
+<recovering,[1]>
+<red,[2, 8, 1, 5, 2, 2, 2, 3, 3]>
+<redden,[1]>
+<redder,[1, 1]>
+<redistribute,[1]>
+<redistributing,[1]>
+<redistribution,[1]>
+<redoubtable,[1]>
+<redowa,[1]>
+<redress,[1]>
+<reduced,[1]>
+<reef,[1]>
+<references,[2]>
+<refill,[1]>
+<refractory,[1]>
+<refrain,[4, 1]>
+<refresh,[1, 1, 1]>
+<refreshed,[1, 1]>
+<refreshing,[1, 1]>
+<refreshment,[1, 1, 1, 1]>
+<refreshments,[1]>
+<refrigerator,[1, 1]>
+<refuge,[1, 2, 1]>
+<refund,[8]>
+<refuse,[2, 1, 1, 1, 1]>
+<refused,[1, 2, 1]>
+<regain,[1]>
+<regard,[1, 1, 1, 1, 1]>
+<regarded,[1, 1, 1, 1]>
+<regarding,[1]>
+<regardless,[3, 1]>
+<regards,[1]>
+<region,[1]>
+<registered,[2]>
+<regret,[1, 1, 1, 3, 1, 1]>
+<regretful,[1]>
+<regretfully,[1]>
+<regrets,[1]>
+<regretted,[1, 2, 1]>
+<regretting,[1]>
+<regular,[4, 2, 1, 3, 4]>
+<regularity,[2]>
+<regularly,[1, 1, 1]>
+<regulating,[1]>
+<rehearse,[1]>
+<reigned,[1, 1]>
+<reins,[1]>
+<rejected,[1]>
+<rejoiced,[1]>
+<rejoicing,[1, 1, 1, 1]>
+<rekindled,[1]>
+<relapse,[1]>
+<relapses,[1]>
+<relation,[1, 1]>
+<relations,[1]>
+<relative,[1]>
+<relatives,[1]>
+<relaxed,[1, 1]>
+<relent,[1]>
+<relented,[1, 1]>
+<relenting,[2]>
+<relics,[1]>
+<relief,[1, 2, 1, 3]>
+<relieve,[1]>
+<relieved,[2, 1, 2, 3, 1]>
+<religion,[1]>
+<relinquish,[1, 1]>
+<relish,[1, 1, 1]>
+<relished,[1]>
+<reluctant,[1]>
+<reluctantly,[1, 1, 1, 1]>
+<remain,[2, 1, 1]>
+<remained,[2, 1, 1]>
+<remaining,[1]>
+<remains,[1, 1, 1]>
+<remark,[1, 1, 1]>
+<remarkable,[1, 2]>
+<remarkably,[1, 1, 1, 1]>
+<remarked,[3]>
+<remarks,[1, 1, 2, 1]>
+<remember,[2, 2, 2, 2, 4, 2, 5, 1, 2]>
+<remembered,[1, 3, 1, 2, 4]>
+<remembering,[2, 1, 1, 2, 1]>
+<remind,[1, 1, 1, 1, 5]>
+<reminded,[1, 2, 1]>
+<reminder,[1]>
+<reminding,[1]>
+<reminds,[1, 1]>
+<reminisced,[1]>
+<remodeled,[1]>
+<remonstrated,[1]>
+<remonstrations,[1]>
+<remorse,[2]>
+<remorseful,[1, 1]>
+<remorsefully,[1]>
+<remotest,[1, 1]>
+<remove,[1]>
+<removed,[2, 2]>
+<removing,[1]>
+<renamed,[1]>
+<rendered,[1]>
+<rent,[1]>
+<rents,[1]>
+<repaid,[1]>
+<repast,[1]>
+<repeat,[1, 1, 1]>
+<repeated,[1, 1]>
+<repeating,[1, 1]>
+<repented,[1]>
+<repining,[1]>
+<replace,[1, 1]>
+<replaced,[1]>
+<replacement,[3]>
+<replenished,[1]>
+<replied,[3, 3, 1, 3, 7, 4, 7, 3, 2, 3]>
+<replies,[1]>
+<reply,[4, 2, 3, 1, 3]>
+<report,[1, 1, 1, 1]>
+<reportable,[1]>
+<reported,[1]>
+<reporting,[1]>
+<reports,[1, 1, 1]>
+<repose,[1, 1, 1]>
+<reposed,[1, 1]>
+<reposeful,[1]>
+<reprehensible,[1, 1]>
+<representations,[1]>
+<reprimands,[1]>
+<reproach,[1]>
+<reproachful,[1, 1, 1, 1]>
+<reproachfully,[1, 1, 1]>
+<reproof,[1]>
+<reprovingly,[1]>
+<repulsed,[1]>
+<repulsive,[1]>
+<request,[1, 1]>
+<requested,[1]>
+<requests,[1]>
+<require,[1]>
+<required,[2]>
+<requirements,[4]>
+<rescue,[2, 2, 1]>
+<rescued,[1, 1]>
+<research,[2]>
+<resented,[1]>
+<resentful,[1]>
+<resentment,[2]>
+<reserve,[1]>
+<reserved,[1]>
+<reside,[1]>
+<resided,[1]>
+<resigned,[1]>
+<resist,[1, 1, 1]>
+<resisting,[1]>
+<resolutely,[1, 1]>
+<resolution,[2, 2, 1]>
+<resolutions,[1, 1, 1]>
+<resolve,[1, 1, 1]>
+<resolved,[1, 1, 2, 1, 1, 2, 1]>
+<resolving,[2, 1]>
+<resources,[1]>
+<respeckful,[1]>
+<respect,[1, 1, 1, 4, 1, 3, 1, 1]>
+<respectability,[1]>
+<respectable,[1, 3]>
+<respectably,[1]>
+<respected,[1, 2]>
+<respectful,[1, 1, 2, 2]>
+<respectfully,[1, 1, 1, 1]>
+<respects,[1, 1]>
+<response,[1]>
+<responsibility,[1, 1]>
+<rest,[4, 4, 2, 2, 4, 9, 2, 5, 6, 5]>
+<rested,[1, 1, 1]>
+<restful,[1, 1]>
+<resting,[1, 1, 1]>
+<restless,[1, 1, 2, 1]>
+<restore,[1, 1, 1]>
+<restored,[1]>
+<restrain,[1, 1]>
+<restrained,[1, 2]>
+<restraint,[1]>
+<restrictions,[1]>
+<resume,[1]>
+<retaliation,[1]>
+<retired,[1, 2, 1, 1]>
+<retiring,[1]>
+<retorted,[1, 1]>
+<retreating,[1]>
+<retreats,[1]>
+<return,[3, 3, 2, 1, 2, 5]>
+<returned,[2, 3, 6, 4, 3, 4, 7, 2, 1]>
+<returning,[2, 1, 1, 2]>
+<returns,[1]>
+<revel,[1, 1, 1, 2]>
+<revelation,[1]>
+<reveled,[1, 1, 1, 1]>
+<reveling,[1]>
+<revenged,[1]>
+<revengeful,[1]>
+<reverence,[1]>
+<reverie,[1]>
+<reverses,[1]>
+<reviews,[1]>
+<revive,[1]>
+<revived,[1, 1]>
+<reward,[1, 1, 3, 2]>
+<rewrite,[1]>
+<ribbon,[3, 1, 2, 1, 1]>
+<ribbons,[2, 1, 1, 1]>
+<rice,[1]>
+<rich,[3, 9, 8, 1, 5, 2, 3, 2, 1, 3]>
+<richer,[2, 1]>
+<riches,[1]>
+<richness,[1, 1]>
+<rid,[1]>
+<ride,[1, 1, 3, 1]>
+<rides,[1]>
+<ridiculed,[1]>
+<ridiculous,[1, 1, 1, 1, 1]>
+<riding,[1, 1]>
+<rifling,[1]>
+<rig,[1]>
+<right,[6, 9, 3, 4, 6, 5, 1, 13, 10, 9]>
+<righted,[1]>
+<rightly,[2]>
+<rights,[1, 1]>
+<rigid,[1]>
+<rigmarole,[1]>
+<rills,[1]>
+<ring,[1, 2, 1, 1, 10, 4]>
+<rings,[2, 1, 2]>
+<rinse,[1]>
+<riotous,[1, 1]>
+<ripe,[2]>
+<rippling,[1]>
+<rise,[2, 1, 1, 1, 1]>
+<risen,[1]>
+<rises,[1]>
+<rising,[3, 1]>
+<rite,[1, 1]>
+<rival,[1]>
+<river,[1, 4, 1, 9, 1]>
+<riz,[1, 1]>
+<road,[1, 2, 1]>
+<roads,[1]>
+<roam,[1, 1]>
+<roared,[1]>
+<roast,[1]>
+<rob,[1]>
+<robbed,[1]>
+<rock,[1]>
+<rockets,[1]>
+<rocking,[1, 2, 1]>
+<rode,[1, 1, 2, 1]>
+<rogue,[1]>
+<roguish,[1]>
+<roll,[1, 1]>
+<rolled,[1, 1, 1, 1, 1, 1]>
+<roller,[1]>
+<rolls,[1]>
+<romance,[1, 2, 1, 1]>
+<romantic,[1, 1, 2, 2, 2]>
+<romped,[1]>
+<romping,[1, 1, 1]>
+<roof,[1, 1, 1, 1]>
+<room,[3, 10, 4, 9, 5, 7, 1, 8, 8, 8]>
+<rooms,[1, 1, 1, 3, 2]>
+<roosted,[1]>
+<root,[1]>
+<rope,[1]>
+<rosary,[5]>
+<rose,[1, 5, 1, 4, 6, 4, 2]>
+<roses,[1, 4, 1, 1, 1]>
+<rosy,[3, 2, 2, 1, 2, 3, 1, 1, 1]>
+<rosyfaced,[1]>
+<rotten,[1]>
+<rouge,[1]>
+<rough,[1, 1, 1, 1, 1]>
+<roughened,[1]>
+<round,[4, 3, 2, 2, 11, 8, 3, 4, 3, 8]>
+<roundabout,[1]>
+<roundness,[1]>
+<roused,[1, 1, 1, 1]>
+<rousing,[1]>
+<routed,[1]>
+<roved,[1]>
+<row,[1, 2, 1, 4]>
+<rowed,[2]>
+<rowers,[1]>
+<rowing,[1]>
+<rows,[1, 1]>
+<royalties,[3]>
+<royalty,[1]>
+<rubbed,[1]>
+<rubber,[1, 1, 1, 1]>
+<rubbers,[3, 1, 2]>
+<rubbing,[1, 1]>
+<rubbish,[1, 1, 1, 2, 1]>
+<rubbishy,[1]>
+<ruche,[1]>
+<ruddy,[1, 1, 1]>
+<rude,[2, 3, 1, 1, 1, 1, 2]>
+<rudely,[1]>
+<rudeness,[1]>
+<rudest,[1]>
+<ruffled,[1, 1]>
+<rug,[1, 1]>
+<ruin,[2, 2, 1]>
+<ruined,[1, 1]>
+<ruinous,[1]>
+<rule,[1]>
+<rules,[1, 1, 2, 1, 1]>
+<rummage,[1, 1]>
+<rummaging,[1, 1, 1]>
+<rumor,[1]>
+<rumpled,[1, 1]>
+<rumpling,[1, 1, 1]>
+<run,[2, 2, 4, 1, 1, 2, 3, 7]>
+<rung,[1]>
+<running,[2, 2, 1, 2, 1, 2, 3, 2]>
+<runs,[1]>
+<ruse,[1]>
+<rush,[2, 1]>
+<rushed,[1, 1, 1, 2, 1, 2, 2, 1, 1]>
+<rushes,[1]>
+<rushing,[1]>
+<russets,[1]>
+<rustle,[1, 1]>
+<rustled,[1]>
+<rustling,[1]>
+<s,[71, 78, 56, 70, 55, 66, 73, 85, 91, 117]>
+<sack,[1]>
+<sacque,[1]>
+<sacred,[1, 1]>
+<sacrifice,[1, 1, 1]>
+<sacrificed,[1]>
+<sacrifices,[1, 1]>
+<sacrificing,[1]>
+<sad,[1, 2, 1, 1, 1, 1, 3, 2]>
+<sadden,[1]>
+<saddened,[1]>
+<saddle,[1]>
+<sadly,[2, 1, 1]>
+<safe,[2, 1, 5, 1, 1, 2, 4, 2]>
+<safely,[2, 1, 1, 1, 1]>
+<sage,[1]>
+<said,[36, 44, 20, 48, 64, 38, 87, 62, 36, 45]>
+<sail,[1, 1, 3]>
+<sailed,[1, 1]>
+<sailor,[1]>
+<saint,[1, 2, 1]>
+<saintly,[1]>
+<saints,[1, 1]>
+<sake,[1, 1, 1]>
+<sakes,[1]>
+<salad,[2]>
+<salary,[1, 1, 1]>
+<saleratus,[1]>
+<sallied,[1]>
+<salon,[1, 2]>
+<saloon,[3]>
+<salt,[1, 1]>
+<salubrious,[1]>
+<salutation,[1]>
+<salute,[1]>
+<salvation,[1]>
+<salve,[1]>
+<same,[2, 1, 1, 1, 7, 1, 1]>
+<samphire,[2]>
+<samples,[1]>
+<sane,[1]>
+<sang,[3, 2, 3, 2, 1, 1, 1, 2]>
+<sank,[1]>
+<sardines,[1]>
+<sash,[1, 3]>
+<sat,[3, 8, 2, 1, 6, 9, 8, 10, 8, 9]>
+<satirical,[1]>
+<satisfaction,[8, 2, 2, 2, 1, 2, 2, 2, 3]>
+<satisfactory,[1, 1]>
+<satisfied,[2, 1, 1, 2, 3, 3, 3, 4, 5]>
+<satisfy,[1, 1, 1]>
+<satisfying,[1]>
+<sauce,[1]>
+<saucer,[1]>
+<sauciest,[1]>
+<saucy,[1, 1]>
+<savage,[1]>
+<save,[2, 2, 1]>
+<saved,[1, 1]>
+<saves,[1]>
+<savest,[1]>
+<saw,[8, 8, 10, 15, 5, 9, 11, 4, 6]>
+<say,[13, 11, 10, 12, 24, 11, 7, 14, 13, 26]>
+<saying,[1, 4, 6, 6, 4, 7, 7, 6, 6]>
+<says,[2, 1, 1, 4, 2, 5, 3, 4, 2, 2]>
+<scandalized,[1, 1, 1]>
+<scandalizing,[1]>
+<scandalous,[1]>
+<scarcely,[1]>
+<scared,[1]>
+<scarlet,[1, 1, 2, 2, 1, 1]>
+<scarum,[1, 1]>
+<scattered,[1, 1, 1, 1, 1]>
+<scattering,[1]>
+<scene,[1, 3, 2, 1]>
+<scented,[1]>
+<school,[1, 6, 6, 9, 1, 1]>
+<schoolbooks,[1]>
+<schoolgirl,[1]>
+<schools,[1]>
+<schooltime,[1]>
+<schooner,[1]>
+<scold,[1, 1, 1]>
+<scolded,[2, 1, 1, 1]>
+<scolding,[1, 2]>
+<scoldings,[1]>
+<scolds,[1]>
+<scorched,[1, 1]>
+<scorn,[1]>
+<scorned,[1]>
+<scornfully,[1, 2]>
+<scowled,[1]>
+<scramble,[1]>
+<scrambled,[1, 1, 1]>
+<scrape,[2, 1, 1, 3]>
+<scrapes,[1]>
+<scraping,[1]>
+<scratch,[1]>
+<scratched,[1]>
+<screamed,[1, 1, 1]>
+<scribbled,[1, 1, 1]>
+<scrubbing,[2]>
+<scuppers,[1]>
+<scuttled,[1]>
+<sea,[1, 1, 3, 1]>
+<seal,[3]>
+<sealed,[1, 1]>
+<sealing,[3]>
+<seals,[1]>
+<seam,[1]>
+<search,[1, 2]>
+<searching,[1]>
+<seashore,[1]>
+<seasons,[1]>
+<seat,[4, 4, 1]>
+<seated,[1, 2]>
+<seats,[1, 1, 1]>
+<seaweed,[1]>
+<sech,[1]>
+<second,[1, 1, 3, 4, 3, 1, 1, 1, 2]>
+<secrecy,[1]>
+<secret,[2, 1, 1, 2, 4, 2, 4]>
+<secrets,[1, 2, 2]>
+<sect,[1]>
+<secure,[1]>
+<secured,[1]>
+<secures,[1]>
+<see,[20, 17, 11, 22, 18, 20, 14, 16, 11, 15]>
+<seeable,[1]>
+<seed,[2]>
+<seeds,[1, 1]>
+<seeing,[2, 2, 1, 1, 1]>
+<seek,[1]>
+<seem,[2, 6, 1, 1, 7, 2, 2, 1, 6, 1]>
+<seemed,[11, 7, 3, 7, 7, 5, 5, 11, 13, 10]>
+<seeming,[1, 1]>
+<seems,[1, 1, 1, 1, 1, 1, 1]>
+<seen,[2, 3, 2, 4, 1, 5, 4, 1, 4]>
+<sees,[2, 1, 1, 1, 1]>
+<seized,[1, 1, 1]>
+<seizing,[1, 1]>
+<seldom,[4, 3, 2, 2, 1, 1, 1, 1]>
+<self,[1, 1, 1, 5, 1, 2, 1, 1]>
+<selfish,[2, 1, 1, 3]>
+<selfishnesses,[1]>
+<sell,[1]>
+<selling,[2]>
+<semioccasional,[1]>
+<send,[2, 1, 2, 4, 1, 5, 3, 4]>
+<sending,[2, 1, 1, 1]>
+<sends,[1, 1, 2]>
+<sense,[2, 1, 1, 2, 2, 2]>
+<sensible,[1, 1, 1, 3, 1, 1, 2, 2]>
+<sensitive,[1, 1]>
+<sent,[4, 1, 4, 1, 4, 4, 6, 4]>
+<sentence,[1, 2, 1]>
+<sentiment,[1]>
+<sentimental,[1, 1, 3, 2, 3, 2]>
+<sentimentlly,[1]>
+<sentinel,[1]>
+<separated,[1, 1]>
+<separation,[1, 1]>
+<sepulchral,[1]>
+<sequel,[1]>
+<sere,[1]>
+<serenade,[1]>
+<serene,[2, 1, 1]>
+<series,[1, 1]>
+<serious,[1, 1, 2, 1, 1]>
+<seriously,[1, 1]>
+<sermon,[3]>
+<servant,[2, 2, 2, 2]>
+<servants,[2, 1, 2, 1, 1]>
+<serve,[2, 1, 1, 1]>
+<served,[1, 1, 1]>
+<serves,[2]>
+<service,[1, 1]>
+<services,[1, 1]>
+<set,[7, 5, 12, 6, 6, 5, 6, 2, 4, 3]>
+<sets,[1]>
+<setting,[1, 1, 1, 1]>
+<settle,[1, 1, 1, 3]>
+<settled,[1, 1, 1, 1, 1, 3, 1]>
+<settling,[1, 1]>
+<seven,[2, 1, 2]>
+<seventeen,[2, 2, 1, 1]>
+<seventy,[2, 1]>
+<several,[3, 1, 1, 4, 3, 6, 4, 1, 3]>
+<severe,[1, 1]>
+<sew,[1, 1, 1]>
+<sewed,[1, 1, 2, 1]>
+<sewing,[1, 5, 1, 2, 3]>
+<sewinsheen,[1]>
+<shabbier,[1]>
+<shabby,[3, 2]>
+<shadow,[1, 1, 2, 3, 1, 2]>
+<shady,[1, 1]>
+<shaggy,[1]>
+<shake,[1, 1, 1, 1, 2, 2, 1, 2, 5]>
+<shaken,[1, 1, 1]>
+<shaking,[2, 1, 1, 1, 1, 1, 2, 3]>
+<shall,[15, 5, 11, 7, 16, 17, 16, 14, 8, 13]>
+<shame,[3, 3, 2]>
+<shames,[1]>
+<shan,[1, 2, 1, 1, 2, 1]>
+<shape,[1, 2]>
+<share,[1, 1, 2, 2, 1]>
+<shared,[1]>
+<sharing,[1]>
+<sharp,[3, 1, 1, 2, 1, 1, 2]>
+<sharpest,[1]>
+<sharply,[2, 1, 1, 1, 2, 2, 1]>
+<shawl,[3, 1]>
+<shawls,[1]>
+<she,[115, 132, 36, 123, 137, 98, 76, 90, 159, 94]>
+<sheaf,[1]>
+<shearing,[1]>
+<shed,[1, 1, 1]>
+<sheep,[1, 1, 1]>
+<sheet,[1, 1, 1, 2, 1]>
+<sheets,[1]>
+<shelf,[1, 1]>
+<shelter,[1, 1]>
+<shepherd,[1]>
+<shield,[1, 1, 1, 2]>
+<shine,[1]>
+<shining,[1, 1, 1, 1, 1, 1, 1]>
+<shion,[1]>
+<ship,[2]>
+<ships,[2, 1]>
+<shirked,[1]>
+<shirts,[1]>
+<shiver,[1, 1, 1]>
+<shock,[1, 1]>
+<shocked,[1, 1]>
+<shoe,[1, 1]>
+<shoes,[1, 1, 1]>
+<shone,[1, 1, 1, 1, 1]>
+<shook,[2, 2, 8, 2, 2, 1, 1, 1, 2]>
+<shop,[1, 1, 1, 1]>
+<shopped,[1]>
+<shopping,[4, 2]>
+<shore,[2, 1]>
+<shorn,[1, 2]>
+<short,[6, 2, 2, 1, 4, 5, 1, 1]>
+<shortcomings,[1]>
+<shortening,[1]>
+<shorter,[1]>
+<shortest,[1]>
+<shortsighted,[1]>
+<shot,[1, 1]>
+<should,[9, 7, 5, 8, 11, 3, 16, 9, 9, 14]>
+<shoulder,[1, 3, 3, 1, 1]>
+<shouldered,[1]>
+<shoulders,[2, 1, 2, 1, 1, 1, 1]>
+<shouldn,[1, 2, 2, 1, 1, 1]>
+<shouldst,[1]>
+<shout,[1, 1, 1]>
+<shouted,[1, 1]>
+<shovel,[1]>
+<show,[6, 5, 3, 3, 5, 2, 1, 3, 3]>
+<showed,[6, 1, 2, 1, 1, 2, 1]>
+<shower,[1, 2, 1]>
+<showing,[1, 1, 3, 1, 1]>
+<shown,[1, 1]>
+<shows,[1, 1]>
+<shrewd,[1]>
+<shrieks,[1]>
+<shrill,[1, 1]>
+<shrilly,[1]>
+<shrine,[1]>
+<shroud,[2, 1]>
+<shrouded,[1]>
+<shrug,[1, 1, 2]>
+<shunned,[1]>
+<shut,[1, 2, 2, 3, 1, 4, 1, 3]>
+<shutting,[1, 1, 1]>
+<shy,[2, 2, 1, 1, 1, 3]>
+<shyness,[1]>
+<sick,[3, 5, 1, 1, 2, 3, 5]>
+<sicker,[3, 1]>
+<sickness,[1]>
+<sickroom,[1]>
+<side,[1, 3, 3, 4, 3, 4, 3, 1, 5, 2]>
+<sideboard,[1]>
+<sidelong,[1]>
+<sidesaddle,[1]>
+<sidle,[1]>
+<sidling,[1]>
+<sift,[1]>
+<sigh,[2, 1, 1, 1, 1, 3, 1]>
+<sighed,[1, 1, 3, 5, 2, 2, 2, 2]>
+<sighing,[1]>
+<sight,[1, 2, 2, 1, 2, 1, 4, 5, 4, 1]>
+<sighted,[1]>
+<sign,[1, 1, 1, 2, 1]>
+<signed,[1, 1]>
+<signing,[1]>
+<signs,[3]>
+<silence,[1, 3, 1, 1, 2, 1, 1, 4]>
+<silenced,[1]>
+<silent,[1, 1, 1, 1, 1]>
+<silently,[1, 1]>
+<silesia,[2]>
+<silk,[1, 12, 1, 1, 1]>
+<silliness,[1]>
+<silly,[2, 3, 7, 3, 4, 2]>
+<silver,[2, 2, 2]>
+<silvery,[1, 1, 1]>
+<simile,[1]>
+<simmering,[1]>
+<simple,[1, 2, 2, 2, 3, 2, 1]>
+<simplest,[1]>
+<simplicity,[1]>
+<simply,[1, 1, 1, 1]>
+<simultaneous,[1]>
+<sin,[1]>
+<since,[5, 2, 1, 1, 4, 1, 2, 2]>
+<sincere,[1, 1, 1, 1, 4]>
+<sincerely,[1, 1]>
+<sincerest,[1]>
+<sincerity,[1]>
+<sing,[5, 1, 2, 1, 1, 3, 1, 1]>
+<singer,[1]>
+<singers,[1]>
+<singing,[1, 1, 1, 2]>
+<single,[1, 1, 1, 1]>
+<sings,[1]>
+<singularly,[1]>
+<sink,[1]>
+<sinking,[1]>
+<sinner,[1, 1]>
+<sins,[1, 1, 1, 2]>
+<sipped,[1]>
+<sips,[1]>
+<sir,[5, 1, 2, 15, 1, 1]>
+<sister,[3, 7, 5, 8, 2, 3, 6, 8, 3]>
+<sisterly,[1]>
+<sisters,[6, 1, 5, 3, 5, 5, 5, 6, 1]>
+<sit,[1, 3, 1, 3, 1, 2, 3, 2]>
+<sits,[1]>
+<sitting,[1, 1, 1, 1, 2, 3, 3, 1, 5, 4]>
+<situated,[1]>
+<situation,[1]>
+<six,[2, 1, 1, 1, 1]>
+<sixteen,[1]>
+<sixtieth,[1]>
+<sixty,[1, 1]>
+<skates,[1, 3]>
+<skating,[1, 1, 2]>
+<sketch,[2, 1]>
+<sketched,[1, 1]>
+<sketches,[1]>
+<sketching,[1]>
+<skilfully,[1]>
+<skill,[3, 1, 2, 1, 1, 1, 1]>
+<skillfully,[1]>
+<skin,[1, 1, 1]>
+<skip,[1, 1]>
+<skipped,[1, 1, 1, 1]>
+<skipping,[1]>
+<skirmishes,[1, 1, 1]>
+<skirt,[1, 4]>
+<skirts,[2, 3]>
+<sky,[1, 1, 1, 1, 1, 1, 1]>
+<skylarking,[1]>
+<skyrockets,[1]>
+<slammed,[1]>
+<slamming,[2, 1]>
+<slang,[1]>
+<slap,[1, 1]>
+<slapped,[1]>
+<slapping,[1]>
+<slate,[4]>
+<slave,[1, 1]>
+<slaves,[1]>
+<sleep,[1, 1, 1, 3, 8]>
+<sleepin,[1]>
+<sleeping,[1, 1]>
+<sleeplessness,[1]>
+<sleeps,[1, 2, 1]>
+<sleepy,[2, 1]>
+<sleeve,[1]>
+<sleeves,[1]>
+<sleigh,[1, 1]>
+<sleighing,[1]>
+<slept,[4]>
+<slice,[1]>
+<slid,[1]>
+<slight,[1, 2, 1, 1]>
+<slighted,[1]>
+<slightest,[1, 1]>
+<slighting,[1]>
+<slightly,[1]>
+<slip,[1, 1, 3]>
+<slipped,[1, 1, 2, 1, 1, 2]>
+<slippers,[6, 3, 1]>
+<slippery,[1]>
+<sloped,[1]>
+<slow,[1]>
+<slowly,[1, 2, 6, 3, 1]>
+<slung,[1]>
+<sly,[1, 1, 1, 1, 2, 1, 2]>
+<slyly,[2, 1]>
+<small,[5, 3, 6, 2, 6, 1, 2, 1, 1]>
+<smart,[1, 1, 1, 1]>
+<smartly,[1, 1]>
+<smashed,[1, 1]>
+<smell,[1]>
+<smelling,[1]>
+<smile,[3, 2, 1, 2, 3, 2, 6, 1, 4, 3]>
+<smiled,[2, 3, 1, 3, 3, 2, 2, 2, 2]>
+<smiles,[1, 2]>
+<smiling,[2, 1, 2, 1, 2, 3, 5, 4]>
+<smilingly,[1]>
+<smitten,[1]>
+<smoke,[1]>
+<smooth,[1, 1, 1, 1, 1, 1]>
+<smoothed,[1, 2, 1, 1]>
+<smoother,[1]>
+<smoothing,[2, 2]>
+<smoothly,[1, 1]>
+<smother,[1]>
+<smothered,[1, 1]>
+<smuggled,[1]>
+<snap,[1]>
+<snarled,[1, 1]>
+<snatched,[1, 1, 1]>
+<sneezed,[1]>
+<sniff,[1, 2]>
+<sniffed,[1]>
+<sniffing,[1]>
+<sniffs,[1]>
+<snip,[1]>
+<snipping,[1]>
+<snivel,[1]>
+<snood,[1]>
+<snoods,[1]>
+<snow,[3, 4, 3]>
+<snowball,[1]>
+<snowy,[3, 1]>
+<snub,[2, 1]>
+<snubbings,[1]>
+<snuff,[1]>
+<so,[48, 69, 35, 58, 58, 34, 46, 51, 63, 58]>
+<soap,[2]>
+<soar,[1]>
+<sob,[1, 2]>
+<sobbing,[1, 1, 1, 1, 1]>
+<sober,[1, 1, 1, 1, 2, 2, 3, 3, 1]>
+<sobered,[1]>
+<soberly,[1, 1, 1, 1]>
+<sobriety,[1]>
+<sobs,[1]>
+<sociable,[1]>
+<social,[1]>
+<societies,[1]>
+<society,[3, 1, 2, 1]>
+<sock,[1]>
+<socks,[1]>
+<sodden,[1]>
+<sofa,[4, 4, 2, 2, 4, 3, 2]>
+<sofas,[1]>
+<soft,[2, 1, 1, 1, 1, 2, 3, 1]>
+<softened,[1]>
+<softer,[1]>
+<softhearted,[1]>
+<softly,[1, 1, 1, 1, 2, 1, 1, 2, 2]>
+<soiled,[1]>
+<solace,[1, 1]>
+<solacement,[1]>
+<sold,[2]>
+<soldier,[1]>
+<soldierly,[1]>
+<solemn,[2]>
+<solemnity,[1, 1]>
+<solemnly,[1]>
+<solicit,[2]>
+<solicitation,[1]>
+<solicited,[1]>
+<solitary,[1, 1, 1, 1]>
+<some,[12, 16, 10, 13, 14, 14, 15, 15, 9, 11]>
+<somebody,[2, 1]>
+<somehow,[1, 2]>
+<someone,[1, 4, 1, 1, 1, 2, 2]>
+<somersault,[1]>
+<something,[13, 14, 4, 11, 6, 6, 12, 10, 11, 11]>
+<sometime,[1]>
+<sometimes,[4, 5, 2, 2, 4, 3, 1, 2]>
+<somewhat,[3, 1, 1, 1, 1]>
+<somewhere,[1, 1, 1]>
+<son,[1, 1, 2, 2, 1, 3]>
+<song,[2, 1, 1, 1, 2, 3]>
+<songs,[1, 1, 1, 2, 1]>
+<sonorous,[1]>
+<sons,[1]>
+<soon,[4, 11, 4, 4, 5, 6, 4, 6, 7, 8]>
+<sooner,[1, 1, 1, 1, 1, 1]>
+<soothe,[1]>
+<soothed,[1, 1]>
+<soothing,[1, 1, 1]>
+<soothingly,[1, 1, 1]>
+<sore,[1, 1, 1, 2, 1]>
+<sorely,[1]>
+<sorrow,[1, 1, 5, 2, 1, 3, 1]>
+<sorrowful,[1, 1]>
+<sorrowfully,[1, 1]>
+<sorrows,[1, 1]>
+<sorry,[5, 5, 2, 5, 3, 3, 7]>
+<sort,[4, 3, 2, 1, 6, 1, 2, 4, 1]>
+<sorting,[1, 1, 1, 1]>
+<sorts,[1, 1, 1, 2, 2, 5, 4, 2, 2, 1]>
+<soul,[2, 1, 3, 3, 1, 2, 1]>
+<souls,[3, 1, 1, 1]>
+<sound,[1, 1, 1, 1, 3, 2, 4, 2]>
+<sounded,[2, 1, 3]>
+<sounding,[1, 1]>
+<sounds,[1, 1, 1, 1]>
+<soupcon,[1]>
+<sour,[1, 1, 1, 3]>
+<source,[1]>
+<south,[1]>
+<southernwood,[1]>
+<sowing,[1]>
+<sown,[1]>
+<spacious,[1]>
+<spandy,[1]>
+<spared,[1, 1]>
+<spares,[2]>
+<sparkled,[1, 1]>
+<sparkling,[1]>
+<sparrows,[1]>
+<spatted,[1]>
+<speak,[3, 2, 2, 7, 1, 1, 3, 2]>
+<speaker,[1]>
+<speaking,[1, 2, 2, 2, 1]>
+<speaks,[2, 1]>
+<special,[3]>
+<specified,[2]>
+<specimens,[1]>
+<speck,[1]>
+<speckled,[1]>
+<specs,[1]>
+<spectacle,[1, 2, 1]>
+<spectacles,[2, 1, 2]>
+<spectators,[1, 1]>
+<specter,[1]>
+<speech,[1, 3, 1, 2, 2, 3, 5]>
+<speeches,[1, 1, 2]>
+<speechless,[1]>
+<speedily,[1]>
+<spell,[1, 1, 1, 1, 2]>
+<spelling,[1, 1]>
+<spells,[1]>
+<spend,[1, 3, 1, 1]>
+<spends,[1]>
+<spent,[1, 2, 1, 1, 1]>
+<sphere,[2]>
+<spices,[1]>
+<spider,[4]>
+<spiders,[1, 2]>
+<spied,[1]>
+<spilled,[1]>
+<spinning,[1]>
+<spinster,[1]>
+<spire,[1]>
+<spires,[1]>
+<spirit,[3, 1, 2, 3, 3, 3, 2, 1, 1]>
+<spirited,[1]>
+<spirits,[1, 2, 1, 1, 3]>
+<spite,[5, 7, 5, 2, 6, 2, 4, 3, 4, 5]>
+<spits,[1]>
+<splash,[1]>
+<splashed,[2]>
+<splendid,[1, 4, 4, 6, 4, 4, 5, 2]>
+<splendidly,[1]>
+<splendor,[2, 1, 1, 1]>
+<splendors,[1]>
+<splitting,[2]>
+<spoil,[1, 4, 2, 1, 2]>
+<spoiled,[2, 3, 2, 2, 3, 2]>
+<spoiling,[1, 1]>
+<spoils,[1]>
+<spoke,[3, 2, 3, 4, 3, 4, 3, 6, 4, 5]>
+<spoken,[1, 1, 2]>
+<spools,[1]>
+<spoon,[1]>
+<spoonful,[1]>
+<spoons,[1, 1]>
+<spot,[1, 1, 1, 1, 1, 1]>
+<spots,[1]>
+<sprain,[1]>
+<sprained,[1]>
+<sprang,[1]>
+<spread,[1, 1, 3]>
+<spreading,[1, 1]>
+<spring,[1, 2, 1, 1, 3, 1]>
+<sprout,[1]>
+<sprouted,[1]>
+<sprung,[1]>
+<spun,[2]>
+<spurned,[1]>
+<squall,[1]>
+<squalled,[1]>
+<squashes,[1]>
+<squeak,[1]>
+<squeeze,[1, 1]>
+<squeezed,[1, 1, 1, 1]>
+<squirrel,[1, 2]>
+<st,[1]>
+<stable,[1, 1]>
+<stableman,[1]>
+<staff,[1, 1, 1, 1]>
+<stage,[1, 1]>
+<staggered,[1]>
+<stained,[1]>
+<stains,[1]>
+<stair,[1]>
+<stairs,[1, 1, 2, 2]>
+<stake,[2, 1]>
+<stale,[1]>
+<stalked,[2, 1, 1]>
+<stalks,[1]>
+<stamina,[1]>
+<stammered,[1, 1]>
+<stampede,[1]>
+<stamping,[1]>
+<stamps,[1]>
+<stand,[2, 2, 2, 1, 3, 1, 1]>
+<standing,[1, 1, 1, 2, 1, 2, 1, 1, 1]>
+<standish,[1]>
+<standoff,[1]>
+<star,[1]>
+<starch,[1, 1]>
+<starched,[1, 1]>
+<stare,[1]>
+<stared,[1, 1, 2, 3, 2]>
+<stares,[1]>
+<staring,[1, 1, 1, 3, 2, 1, 2, 1]>
+<stars,[1]>
+<start,[2, 1, 2, 3]>
+<started,[1, 1, 1, 1, 3]>
+<starting,[2]>
+<startled,[1, 1, 2, 1, 1]>
+<startling,[1]>
+<starved,[1]>
+<state,[1, 2, 6, 3, 2, 4, 1, 1, 3]>
+<stately,[1, 2, 1, 1, 1, 1]>
+<statements,[1]>
+<states,[4]>
+<station,[1]>
+<stationary,[1]>
+<statue,[1]>
+<statues,[2]>
+<status,[4]>
+<stay,[1, 5, 3, 3, 1, 2, 7, 5, 2, 3]>
+<stayed,[1, 1, 1, 1]>
+<staying,[1]>
+<stays,[1]>
+<steadied,[1]>
+<steadily,[1]>
+<steady,[1, 1, 1, 1]>
+<steal,[1]>
+<stealing,[1]>
+<stealthy,[1, 1]>
+<steeds,[1]>
+<steep,[1]>
+<steered,[1]>
+<step,[2, 3, 1, 3]>
+<stepped,[2]>
+<steps,[1, 1, 2, 2, 2]>
+<stern,[2, 1]>
+<sternly,[2]>
+<stick,[1]>
+<sticking,[1]>
+<sticks,[1]>
+<stiff,[1, 1, 1, 2]>
+<stifled,[1]>
+<still,[4, 6, 2, 3, 6, 3, 4, 5, 5, 1]>
+<stillness,[1]>
+<sting,[1]>
+<stints,[1]>
+<stir,[2, 1, 1, 1, 1]>
+<stirred,[1, 1]>
+<stirring,[1]>
+<stitch,[1]>
+<stitches,[1, 1, 1]>
+<stitching,[1]>
+<stock,[1]>
+<stockinged,[1]>
+<stockings,[3, 1]>
+<stole,[1, 1]>
+<stone,[1, 1, 1, 2, 1]>
+<stones,[1, 1]>
+<stood,[7, 2, 2, 9, 10, 4, 4, 3, 4, 6]>
+<stool,[1, 1, 1, 1]>
+<stoop,[1]>
+<stooped,[1, 1, 1]>
+<stooping,[1, 1, 1]>
+<stop,[7, 1, 3, 3, 4, 3]>
+<stopped,[3, 2, 2, 2, 2, 1, 3, 1]>
+<stopping,[3, 1, 1, 1, 1]>
+<stops,[1, 1, 1]>
+<store,[1, 1]>
+<stored,[1, 1, 1]>
+<stores,[2, 1, 2]>
+<stories,[5, 2, 1, 4, 2, 1]>
+<stork,[1]>
+<storks,[1]>
+<storm,[1, 1, 4, 1]>
+<storms,[1]>
+<stormy,[1, 1]>
+<story,[1, 5, 2, 2, 7, 5, 6, 1]>
+<storybook,[1]>
+<stout,[2, 1]>
+<stoutly,[1, 1]>
+<stove,[1, 1, 2]>
+<straight,[5, 1, 1, 2, 1, 2, 4]>
+<straighten,[1, 1]>
+<straightway,[1]>
+<strain,[1, 1]>
+<strange,[2, 2, 1, 1, 1, 1, 1]>
+<strangely,[1]>
+<stranger,[2, 1]>
+<strangers,[2, 1, 1]>
+<strangest,[1]>
+<straps,[1]>
+<stratagem,[1]>
+<straw,[1]>
+<strawberries,[3]>
+<strayed,[1, 1, 1]>
+<streamed,[1]>
+<streamer,[1]>
+<streaming,[1]>
+<street,[3, 1, 2, 1, 3, 1]>
+<streets,[1]>
+<strength,[3, 1, 2, 1, 1, 1]>
+<strengthened,[1]>
+<stretch,[1, 1]>
+<stretched,[1, 2]>
+<stricken,[1, 1]>
+<strict,[1]>
+<strike,[1]>
+<striking,[1, 1]>
+<string,[1, 2, 1]>
+<strings,[1]>
+<strip,[1]>
+<strive,[1]>
+<stroke,[2, 1]>
+<stroked,[1]>
+<strokes,[1]>
+<stroking,[1, 1, 1, 1]>
+<strolled,[1, 2, 2]>
+<strolls,[1]>
+<strong,[1, 1, 3, 2, 2, 2, 1, 1, 2, 2]>
+<stronger,[1, 1]>
+<strongly,[1, 2]>
+<struck,[1, 2, 3, 1, 1, 2]>
+<structure,[2]>
+<struggle,[1]>
+<struggled,[1]>
+<struggles,[1]>
+<struggling,[1, 1]>
+<stubborn,[1]>
+<stuck,[3, 1, 1]>
+<student,[1]>
+<students,[1]>
+<studied,[1]>
+<studies,[1]>
+<studious,[1]>
+<study,[1, 6, 1, 1, 7]>
+<studying,[1, 1, 1, 1, 1]>
+<stuff,[1, 1, 1, 1, 2]>
+<stuffed,[1]>
+<stunning,[1]>
+<stupid,[1, 1, 3, 1, 1]>
+<stupidity,[1]>
+<stupor,[1]>
+<sturdily,[1]>
+<stuttered,[1]>
+<style,[2, 1, 3, 2, 1]>
+<subdue,[1, 1]>
+<subdued,[1, 1]>
+<subject,[1, 1, 1, 1, 1, 2, 1, 1]>
+<subjection,[1]>
+<submissive,[1, 1, 1]>
+<submit,[1]>
+<subscribe,[1]>
+<subside,[1]>
+<subsided,[1, 1, 1, 1, 1]>
+<suburb,[1]>
+<succeed,[1, 1]>
+<succeeded,[1, 1, 2]>
+<succeeding,[1, 1, 1]>
+<success,[1, 2, 2, 1, 3, 1, 2, 1, 2]>
+<successes,[1]>
+<successful,[1]>
+<succession,[1]>
+<such,[11, 10, 17, 12, 7, 5, 9, 7, 7, 11]>
+<suck,[1]>
+<sucking,[1]>
+<sudden,[5, 1, 1, 2, 2, 1, 4, 1, 5]>
+<suddenly,[8, 2, 3, 3, 2, 2, 6, 3]>
+<suffer,[1, 1]>
+<suffered,[3, 1, 1]>
+<suffering,[1, 1, 1, 1]>
+<suffers,[1, 1]>
+<sugar,[2, 2]>
+<sugared,[1]>
+<sugarplums,[1]>
+<suggested,[1, 1, 2, 1]>
+<suggestion,[1]>
+<suit,[3, 3, 1, 2, 5, 1, 2]>
+<suited,[1, 1, 3, 3, 1]>
+<suits,[1, 1]>
+<sum,[1, 1, 2]>
+<summer,[1, 5, 4, 1, 1, 1]>
+<summerlike,[1]>
+<sumptuously,[1]>
+<sums,[1, 1]>
+<sun,[3, 1, 1, 3, 3, 3, 3, 2]>
+<sunny,[1]>
+<sunset,[2]>
+<sunshine,[1, 3, 1, 1, 1, 1]>
+<sunshiny,[1, 1, 1, 1]>
+<superior,[1, 1]>
+<supper,[1, 3, 1, 1, 1, 1, 1]>
+<suppers,[1]>
+<suppertime,[1]>
+<supplied,[1, 1, 1]>
+<support,[1, 2, 6, 2]>
+<supported,[1]>
+<supporting,[1]>
+<suppose,[3, 3, 3, 1, 3, 1, 1]>
+<supposed,[1, 1, 1]>
+<suppressed,[1, 1, 1, 1]>
+<sure,[3, 5, 4, 7, 4, 4, 2, 2, 2, 3]>
+<surely,[1, 1, 1, 1]>
+<surmount,[1]>
+<surpass,[1]>
+<surpassing,[1]>
+<surprise,[2, 1, 1, 3, 4, 1, 2, 1, 8]>
+<surprised,[2, 3, 1, 1, 2, 1, 2, 1, 2]>
+<surprisin,[1]>
+<surprising,[1]>
+<surprisingly,[1]>
+<surrendering,[1]>
+<surrounded,[2, 1]>
+<surrounds,[1]>
+<survey,[1, 1]>
+<surveyed,[1]>
+<surveying,[1, 1, 1]>
+<survive,[1]>
+<suspect,[1, 1, 1, 1, 1]>
+<suspected,[1, 1, 1]>
+<suspecting,[1]>
+<suspense,[1]>
+<suspicion,[2]>
+<suspicions,[1]>
+<sustain,[1]>
+<swallow,[1]>
+<swallows,[1]>
+<swamp,[1]>
+<swarming,[1]>
+<swear,[1]>
+<sweep,[1]>
+<sweeping,[1]>
+<sweet,[3, 2, 7, 3, 3, 5, 4, 4, 3, 3]>
+<sweeter,[1, 1, 1]>
+<sweetest,[1, 1, 3, 1, 1]>
+<sweetly,[1]>
+<sweetness,[1, 1, 2]>
+<swell,[1]>
+<swept,[1, 1, 1, 1, 2]>
+<swiftly,[1]>
+<swim,[1]>
+<swing,[1, 2]>
+<swinging,[1, 1]>
+<swollen,[1, 1]>
+<sword,[1]>
+<swore,[1]>
+<sworn,[1]>
+<swung,[2, 1]>
+<sympathetic,[1]>
+<sympathize,[1, 1]>
+<sympathizes,[1]>
+<sympathizing,[1]>
+<sympathy,[1, 1, 2, 1, 1]>
+<symptoms,[1, 1]>
+<synonymous,[1]>
+<system,[1]>
+<t,[60, 113, 35, 95, 92, 62, 103, 107, 72, 121]>
+<table,[2, 4, 2, 2, 2, 6, 2, 7, 3, 3]>
+<tableau,[1]>
+<tableaux,[1]>
+<tablecloth,[1]>
+<tables,[2]>
+<tact,[1, 1, 1]>
+<tail,[1, 1, 1]>
+<tailed,[1, 1]>
+<tails,[1]>
+<take,[9, 13, 10, 6, 10, 9, 11, 18, 10, 5]>
+<taken,[2, 3, 1, 4, 2, 3, 2, 3, 2, 4]>
+<takes,[1, 1, 1, 2, 1, 1]>
+<taking,[1, 2, 1, 5, 2, 2, 3, 1, 4, 4]>
+<tale,[1]>
+<talent,[1, 4, 2, 1, 1]>
+<talented,[1]>
+<tales,[1, 1, 1, 1, 2, 1]>
+<talisman,[1, 1]>
+<talk,[3, 5, 1, 1, 1, 4, 3, 3, 4]>
+<talked,[2, 3, 5, 3, 2, 2]>
+<talking,[2, 2, 1, 4, 2, 4, 2, 3]>
+<talks,[1, 2, 2]>
+<tall,[1, 2, 2, 1, 1, 1, 1, 4]>
+<taller,[1]>
+<tame,[1]>
+<tangled,[1]>
+<tantalizing,[1]>
+<tantrums,[1]>
+<tap,[1, 1, 1]>
+<tape,[1]>
+<taper,[1]>
+<tapped,[1, 1]>
+<tapping,[1]>
+<tares,[1]>
+<tarlatan,[1]>
+<tarlaton,[5]>
+<tars,[1]>
+<tartly,[1]>
+<task,[1, 2, 2, 1, 1]>
+<tasks,[2, 1]>
+<taste,[3, 1, 2, 1, 2]>
+<tasted,[1, 2]>
+<tastes,[2, 1]>
+<tasting,[1]>
+<tattling,[1]>
+<taught,[3, 3, 2, 1, 1, 3]>
+<tax,[6]>
+<taxes,[1]>
+<tea,[2, 1, 2, 5, 1, 3, 3, 5, 1]>
+<teach,[1, 2, 1, 5, 2]>
+<teacher,[1, 2]>
+<teachers,[2, 1, 1]>
+<teaching,[2, 1, 2, 1, 1]>
+<teapot,[1, 1]>
+<tear,[1, 1, 3]>
+<tearing,[1, 1]>
+<tears,[1, 3, 2, 3, 5, 3, 5, 5, 1]>
+<tease,[1, 2, 1, 1]>
+<teased,[2]>
+<teasing,[1]>
+<teatime,[1, 1]>
+<teens,[1, 1]>
+<teeth,[1, 2, 2]>
+<telegram,[1, 1, 3]>
+<telegrams,[2]>
+<telegraph,[1, 3, 1]>
+<telegraphed,[1, 1, 1]>
+<tell,[5, 16, 5, 12, 14, 4, 15, 18, 14, 19]>
+<telling,[1, 1, 1, 2, 1, 2]>
+<tells,[1, 2]>
+<telltale,[1]>
+<temper,[2, 1, 1, 3, 2, 2, 3]>
+<tempered,[1, 1, 1]>
+<tempers,[2, 1]>
+<tempest,[1, 1]>
+<tempestuous,[1]>
+<tempt,[1]>
+<temptation,[1, 2, 1, 1]>
+<temptations,[2]>
+<tempted,[1, 1, 1]>
+<temptingly,[1]>
+<ten,[2, 2, 4]>
+<tendencies,[1]>
+<tender,[4, 5, 1, 1, 2, 1, 5, 3]>
+<tenderer,[1]>
+<tenderest,[1, 2]>
+<tenderhearted,[1, 1]>
+<tenderly,[1, 2, 2, 1, 1, 3, 3]>
+<tenderness,[1]>
+<tent,[4, 1]>
+<terms,[19, 1, 1]>
+<terror,[1, 1, 1]>
+<test,[1, 1]>
+<testament,[1]>
+<testify,[1]>
+<testiment,[1]>
+<testiness,[1]>
+<testing,[1]>
+<texts,[1]>
+<th,[1, 1]>
+<than,[23, 13, 14, 17, 24, 13, 7, 7, 18, 12]>
+<thank,[2, 3, 5, 6, 2, 2, 3, 2, 3]>
+<thanked,[2, 3, 1, 1]>
+<thankfully,[1]>
+<thanking,[1]>
+<thanks,[2, 1, 1, 1, 3, 1]>
+<that,[117, 66, 79, 87, 78, 70, 71, 66, 85, 89]>
+<the,[366, 309, 399, 366, 289, 438, 381, 332, 357, 320]>
+<theater,[1, 1]>
+<theaters,[1, 1, 1]>
+<thee,[1, 2, 1]>
+<their,[22, 21, 27, 17, 19, 11, 16, 32, 10, 13]>
+<theirs,[1, 1]>
+<them,[26, 31, 26, 31, 30, 19, 30, 24, 18, 13]>
+<themselves,[4, 1, 3, 4, 1, 4, 1, 1]>
+<then,[14, 13, 11, 7, 14, 8, 12, 11, 10, 12]>
+<thence,[1]>
+<there,[20, 14, 14, 18, 7, 19, 20, 15, 12, 11]>
+<thereby,[1]>
+<therefore,[1, 1, 1]>
+<thermometer,[1]>
+<these,[3, 5, 10, 6, 6, 1, 5, 4, 7, 2]>
+<they,[36, 42, 23, 30, 35, 29, 22, 39, 18, 20]>
+<thick,[2, 3, 1]>
+<thicker,[2]>
+<thin,[1, 1, 1, 2, 1, 1, 3, 2]>
+<thing,[3, 6, 3, 3, 13, 6, 2, 6, 7, 2]>
+<things,[6, 13, 8, 9, 18, 7, 4, 19, 12, 8]>
+<think,[11, 16, 7, 17, 17, 10, 12, 16, 21, 23]>
+<thinking,[2, 2, 2, 2, 1, 1, 1, 3, 2, 1]>
+<thinks,[1, 1]>
+<third,[1, 2, 1, 1, 1]>
+<thirds,[1]>
+<thirty,[1]>
+<this,[13, 22, 47, 17, 11, 16, 15, 18, 18, 22]>
+<thither,[1]>
+<thoroughly,[1, 1, 1]>
+<those,[7, 3, 1, 1, 5, 4, 1, 6]>
+<thou,[1, 8]>
+<though,[15, 9, 9, 6, 9, 10, 6, 8, 8, 8]>
+<thought,[13, 9, 6, 11, 12, 7, 14, 9, 12, 9]>
+<thoughtful,[1, 1]>
+<thoughtfully,[1, 1, 1]>
+<thoughtless,[1]>
+<thoughtlessness,[1]>
+<thoughts,[2, 1, 1, 3, 1, 1, 3, 5, 1]>
+<thousand,[1]>
+<thrash,[1, 1]>
+<thrashed,[1]>
+<threat,[1, 1]>
+<threatened,[2]>
+<threatening,[1, 1, 1]>
+<threateningly,[1]>
+<threatens,[1]>
+<three,[5, 3, 7, 2, 3, 7, 2, 3, 2]>
+<threshold,[1, 1]>
+<threw,[1, 1, 3, 2]>
+<thrice,[1]>
+<thrilled,[1]>
+<thrilling,[2, 1, 1]>
+<throat,[1, 1, 2, 3]>
+<throats,[1]>
+<throne,[1]>
+<thrones,[1]>
+<throng,[3]>
+<through,[6, 4, 6, 5, 1, 6, 16, 4, 5, 2]>
+<throw,[1, 1]>
+<throwing,[1, 1, 2, 3]>
+<thrown,[1, 1]>
+<thunder,[1]>
+<thundercloud,[1]>
+<thus,[1, 1, 1, 1]>
+<tickled,[1]>
+<tidily,[1]>
+<tidy,[2, 1, 1, 1]>
+<tie,[1, 1, 1, 1]>
+<tied,[1, 1, 2, 1, 2, 1]>
+<tiff,[1]>
+<tight,[3, 5]>
+<tightly,[1, 1, 1]>
+<tiles,[1]>
+<till,[7, 14, 2, 12, 17, 8, 13, 16, 11, 10]>
+<tilting,[1]>
+<time,[11, 19, 7, 12, 21, 20, 15, 16, 13, 11]>
+<times,[2, 3, 6, 4, 1, 5, 4, 5, 1]>
+<timid,[1, 2, 2, 1, 1]>
+<timidly,[1]>
+<tin,[3]>
+<tingling,[1]>
+<tinkling,[1]>
+<tiny,[1, 1]>
+<tip,[1]>
+<tipped,[1]>
+<tipsy,[1, 1]>
+<tire,[1, 1]>
+<tired,[5, 4, 3, 3, 8, 1, 2, 1, 2]>
+<tires,[1]>
+<tiresome,[1]>
+<to,[270, 261, 226, 230, 249, 236, 258, 254, 276, 262]>
+<toads,[1]>
+<toast,[1, 2, 2]>
+<today,[1, 5, 2, 3, 2, 1, 3]>
+<toe,[1]>
+<toes,[1, 1, 1]>
+<together,[6, 3, 1, 3, 3, 1, 6, 1, 3, 8]>
+<toil,[1]>
+<toiled,[1]>
+<toilet,[1]>
+<toilets,[1]>
+<toils,[1]>
+<token,[1]>
+<told,[2, 9, 2, 11, 8, 2, 5, 12, 13, 10]>
+<tomb,[1, 1]>
+<tombs,[1]>
+<tomorrow,[3, 4, 1, 3, 1]>
+<tone,[5, 1, 3, 3, 6, 6, 5, 2, 4]>
+<tongue,[1, 2, 1, 1, 1, 3, 3, 4]>
+<tongues,[1, 1]>
+<tonight,[3, 5, 3, 2, 1]>
+<too,[7, 10, 6, 13, 9, 12, 5, 8, 8, 11]>
+<took,[6, 12, 6, 11, 6, 11, 7, 6, 8, 4]>
+<top,[2, 1, 2, 1, 2]>
+<topic,[1]>
+<tops,[2]>
+<topsy,[1, 1, 1, 1, 1]>
+<torch,[1]>
+<tore,[1, 1, 1]>
+<torment,[1]>
+<torments,[1]>
+<torn,[1, 2, 1]>
+<toss,[1, 1]>
+<tossed,[1]>
+<tossing,[1, 1, 2, 1]>
+<touch,[1, 1, 1, 1, 1]>
+<touched,[2, 1, 5, 3, 1, 1]>
+<touching,[1, 3, 1, 1, 1]>
+<toward,[1, 3, 1, 3, 3, 1, 3, 1, 3]>
+<towels,[1]>
+<town,[1, 1]>
+<toys,[1]>
+<trace,[1]>
+<trademark,[13]>
+<trading,[1]>
+<tragedy,[1, 1]>
+<tragic,[1, 1]>
+<tragical,[1, 1]>
+<tragically,[1]>
+<trailing,[1]>
+<train,[1, 1, 1, 1, 2]>
+<trained,[1]>
+<training,[1, 1]>
+<traitor,[1]>
+<tramp,[1]>
+<tramped,[1, 2]>
+<tramping,[1, 1]>
+<tranquil,[1]>
+<tranquility,[1]>
+<transcribe,[1]>
+<transcription,[1]>
+<translated,[1]>
+<translation,[1]>
+<transported,[1]>
+<travel,[1]>
+<traveled,[1, 1]>
+<traveler,[1, 1, 2]>
+<traveling,[1, 1, 1]>
+<travelling,[1]>
+<travels,[2]>
+<tray,[1, 1]>
+<trays,[1]>
+<treacherous,[1]>
+<treacherously,[1]>
+<tread,[1, 2]>
+<treadmill,[1]>
+<treasure,[2, 1]>
+<treasured,[1]>
+<treasures,[1, 1, 1]>
+<treat,[4, 1, 1]>
+<treated,[1, 1, 1, 2]>
+<treating,[1, 1]>
+<treatment,[1, 1]>
+<treats,[1]>
+<tree,[5, 1, 3, 2, 1]>
+<trees,[1, 1, 1]>
+<trembled,[1, 1, 1, 1, 1]>
+<trembling,[2, 1, 1, 1]>
+<tremendous,[2, 1, 1]>
+<tres,[1]>
+<trial,[1, 1, 2]>
+<trials,[1, 2]>
+<trick,[1, 1]>
+<trickling,[1]>
+<tricky,[1]>
+<tried,[7, 7, 4, 4, 9, 1, 6, 7, 3, 5]>
+<tries,[2, 1, 2]>
+<trifle,[1, 1, 1, 1, 1, 1, 3]>
+<trifles,[1, 2, 1]>
+<trifling,[1, 1]>
+<trimmed,[3]>
+<trimming,[1, 1]>
+<trio,[1]>
+<trip,[1, 3]>
+<tripped,[1, 1]>
+<trips,[1, 1]>
+<triumph,[1, 1, 1]>
+<triumphal,[1, 1]>
+<triumphant,[1]>
+<triumphantly,[1, 1, 1]>
+<trivial,[1]>
+<trod,[1]>
+<troops,[1]>
+<trot,[1]>
+<trotting,[1]>
+<troubadour,[2]>
+<trouble,[2, 2, 1, 3, 1, 3, 1, 5, 5, 5]>
+<troubled,[1, 1, 1, 1, 2, 2]>
+<troubles,[1, 2, 1, 4, 1, 2, 2]>
+<truant,[1]>
+<truck,[1]>
+<trudge,[1, 1]>
+<trudged,[1, 1]>
+<true,[6, 2, 4, 1, 4]>
+<truer,[1]>
+<truly,[2, 1, 1, 1, 1, 3]>
+<trump,[1, 1, 1, 1]>
+<trumpet,[1]>
+<trunk,[2, 1, 2]>
+<trust,[2, 1, 1, 1, 1]>
+<trusted,[1, 1]>
+<trusting,[1]>
+<truth,[1, 1, 2, 6]>
+<try,[5, 3, 9, 7, 11, 6, 10, 7]>
+<trying,[4, 12, 1, 6, 8, 3, 2, 8, 4, 8]>
+<tub,[1, 3]>
+<tucked,[1]>
+<tucks,[1, 1]>
+<tugging,[1, 1]>
+<tumble,[1, 1, 1]>
+<tumbled,[2, 1, 1, 2]>
+<tumbles,[1]>
+<tumbling,[1, 2, 1, 1]>
+<tune,[1, 1, 1, 1, 1]>
+<tuned,[1]>
+<tuneful,[1]>
+<tunes,[1]>
+<turban,[1]>
+<turf,[1, 1]>
+<turkey,[3]>
+<turkquoise,[1]>
+<turn,[4, 1, 5, 2, 3, 4, 7, 1, 3]>
+<turned,[4, 6, 2, 6, 8, 4, 4, 3, 3, 5]>
+<turning,[1, 1, 1, 5, 2, 2, 1, 1, 2, 1]>
+<turnover,[1, 1]>
+<turnovers,[2, 1, 1]>
+<turns,[1, 1, 1, 1]>
+<turquoise,[4]>
+<turtledoves,[1]>
+<turtles,[1]>
+<turvy,[1, 1, 1, 1, 1]>
+<tut,[2]>
+<tutor,[1, 1, 5, 1]>
+<tweak,[1]>
+<tweaked,[1, 1]>
+<twelve,[1, 2, 1, 1, 1]>
+<twenty,[1, 1, 5, 1, 2]>
+<twice,[1, 1]>
+<twig,[2]>
+<twilight,[1, 1, 2, 2]>
+<twilled,[2]>
+<twin,[1]>
+<twinge,[1]>
+<twinkle,[1, 1]>
+<twinkled,[1]>
+<twinkling,[1]>
+<twins,[2, 1]>
+<twirled,[1, 1]>
+<twirling,[1]>
+<twisting,[1]>
+<twitch,[1]>
+<twitched,[1]>
+<twitching,[1]>
+<twitted,[1]>
+<twittered,[1]>
+<twittery,[1]>
+<two,[6, 17, 6, 4, 4, 7, 6, 9, 6, 7]>
+<tying,[1]>
+<types,[1]>
+<tyrannical,[1]>
+<tyrannized,[1, 1]>
+<tyrant,[2]>
+<ubiquitous,[1]>
+<ugly,[2, 1, 1]>
+<umbrella,[8, 1, 2, 1, 3]>
+<umbrellas,[1]>
+<unanswerable,[1]>
+<unapproachable,[1]>
+<unavailing,[1]>
+<unaware,[1]>
+<unawares,[1, 1]>
+<unbecoming,[1]>
+<unbent,[1]>
+<unbroken,[1, 1, 1]>
+<unceremoniously,[1]>
+<uncertain,[1]>
+<unclasp,[1]>
+<uncomfortable,[2, 3, 2, 1]>
+<uncomfortably,[1, 1]>
+<uncommon,[1, 1]>
+<uncommonly,[2, 1, 1]>
+<uncomplainingly,[1]>
+<unconscious,[1, 1, 1, 4, 1, 1]>
+<unconsciously,[1, 1, 1]>
+<uncovered,[1]>
+<undecided,[1, 1]>
+<under,[6, 1, 9, 6, 3, 5, 6, 2, 5, 2]>
+<underneath,[1]>
+<understand,[1, 2, 1, 3, 1, 3, 1, 1]>
+<understanding,[2]>
+<understands,[1]>
+<understood,[1, 2, 1, 1]>
+<undertaken,[1]>
+<undertaking,[1]>
+<undertook,[1]>
+<underwent,[1]>
+<undignified,[1]>
+<undisguised,[1, 1]>
+<undisturbed,[1]>
+<uneasily,[1]>
+<unenforceability,[1]>
+<uneven,[1]>
+<unexpected,[1, 2, 1, 1]>
+<unexpectedly,[1]>
+<unfailing,[1]>
+<unfeminine,[1]>
+<unfinished,[1]>
+<unfold,[1]>
+<unfolded,[1]>
+<unfolding,[1]>
+<unfortunate,[1, 1, 1, 1]>
+<unfortunately,[1]>
+<ungentlemanly,[1]>
+<ungracious,[1]>
+<ungrateful,[1, 1]>
+<ungratefully,[1]>
+<unhappy,[3, 1]>
+<uniform,[1, 1]>
+<uninvited,[1]>
+<unite,[1]>
+<united,[1]>
+<uniting,[1]>
+<unjust,[1, 1]>
+<unkindly,[1]>
+<unknown,[2]>
+<unless,[1, 1, 3, 1, 2, 1, 2, 1]>
+<unlike,[1, 1, 1]>
+<unlink,[1]>
+<unlock,[1]>
+<unlocking,[1]>
+<unlucky,[1, 1]>
+<unmaidenly,[1, 2]>
+<unmanly,[1, 1]>
+<unnatural,[1, 1]>
+<unnecessary,[1]>
+<unprofitable,[1]>
+<unprotected,[1, 1]>
+<unreproved,[1]>
+<unromantic,[1]>
+<unruly,[1]>
+<unsaddened,[1]>
+<unsatisfactory,[1, 1]>
+<unsatisfied,[1]>
+<unseemly,[1]>
+<unseen,[1, 1]>
+<unselfish,[1]>
+<unsettled,[1]>
+<unshelled,[1]>
+<unsolicited,[1]>
+<unsolved,[1]>
+<unspeakable,[1, 1]>
+<unspoken,[1]>
+<unsuspicious,[1]>
+<untidy,[1]>
+<until,[1, 1, 1, 1]>
+<untiring,[1]>
+<untouched,[1]>
+<untrue,[1]>
+<unusual,[1, 2, 2, 2, 2]>
+<unusually,[1, 2, 1, 1, 3, 1, 4]>
+<unutterably,[1]>
+<unwary,[1]>
+<unwise,[1]>
+<unworldly,[1]>
+<up,[30, 40, 28, 34, 33, 35, 45, 25, 32, 41]>
+<uphill,[1]>
+<uphold,[1]>
+<uplift,[1]>
+<upon,[17, 4, 4, 7, 7, 10, 7, 2, 3, 4]>
+<upper,[2, 1]>
+<upright,[1]>
+<uprightly,[1]>
+<ups,[1]>
+<upset,[1, 2, 1, 2, 1]>
+<upsetting,[1]>
+<upside,[1, 1]>
+<upstairs,[1, 1, 1, 1, 3, 2]>
+<urgency,[1]>
+<us,[4, 14, 3, 6, 7, 13, 13, 13, 12, 8]>
+<use,[1, 4, 9, 2, 4, 2, 3, 1, 4, 3]>
+<used,[6, 4, 5, 5, 6, 1, 5, 1, 4, 3]>
+<useful,[3, 6, 3, 1, 2]>
+<user,[3]>
+<ushered,[1]>
+<using,[6, 1]>
+<ust,[1]>
+<usual,[1, 2, 2, 4, 4, 2, 2]>
+<usually,[1, 1, 1, 1, 2, 1]>
+<utensils,[1]>
+<utility,[1]>
+<utmost,[1]>
+<utter,[2, 1, 2, 1]>
+<utterance,[1]>
+<uttered,[1, 1, 1]>
+<utterly,[3, 1]>
+<vacant,[1]>
+<vacation,[1, 3, 1, 1]>
+<vague,[2]>
+<vain,[1, 1, 3]>
+<vainly,[1, 1]>
+<valentines,[1]>
+<valiantly,[1]>
+<valuable,[1, 1, 1, 2]>
+<valuables,[1]>
+<value,[1, 1, 2, 1]>
+<valued,[1]>
+<vampire,[1]>
+<vanish,[1]>
+<vanished,[2, 1, 1, 1, 1, 2]>
+<vanishes,[1]>
+<vanishing,[1]>
+<vanities,[2]>
+<vanity,[1, 2, 1]>
+<variable,[1]>
+<variety,[1]>
+<various,[1, 2, 1, 1]>
+<varying,[1]>
+<vase,[1, 2]>
+<vases,[1]>
+<vast,[1]>
+<ve,[3, 11, 13, 8, 8, 3, 11, 6, 8, 11]>
+<vehement,[1]>
+<vehicle,[1]>
+<veil,[1, 2]>
+<veins,[1]>
+<velour,[1]>
+<velvet,[1, 1, 1, 1]>
+<venerable,[2, 1]>
+<vent,[1, 1, 1]>
+<ventured,[1]>
+<ver,[1]>
+<verge,[1]>
+<verse,[1, 1]>
+<verses,[1, 1]>
+<version,[1]>
+<very,[15, 30, 10, 26, 32, 17, 23, 36, 23, 23]>
+<vex,[1]>
+<vexed,[1]>
+<vexes,[1]>
+<viands,[1]>
+<victim,[1]>
+<victorious,[2]>
+<view,[1]>
+<viewed,[1]>
+<viewing,[1]>
+<vigil,[1]>
+<vigorously,[1]>
+<villain,[1, 1, 2, 1]>
+<vine,[1, 1]>
+<vines,[1, 1]>
+<violates,[1]>
+<violent,[1, 1, 1]>
+<violently,[1, 1]>
+<violet,[2]>
+<violets,[1]>
+<virtue,[1, 1, 1, 1, 1, 1]>
+<virtues,[1, 1, 1, 1, 1, 1]>
+<virtuous,[1, 1]>
+<virus,[1]>
+<visible,[1, 1]>
+<visions,[1]>
+<visit,[2, 2, 2, 1]>
+<visiting,[1, 1, 1, 1]>
+<visits,[1]>
+<vitals,[1]>
+<vittles,[1]>
+<vivacity,[1]>
+<viz,[1]>
+<voice,[7, 5, 5, 5, 6, 1, 5, 3, 5, 7]>
+<voices,[1, 1, 1, 1, 2, 2, 1, 1]>
+<void,[1]>
+<volcanic,[1]>
+<volume,[1]>
+<voluminous,[1]>
+<volunteer,[1]>
+<volunteers,[4]>
+<voraciously,[1]>
+<vote,[3]>
+<vowed,[1]>
+<voyage,[1]>
+<vulgar,[1]>
+<wagon,[1]>
+<wail,[1]>
+<wailed,[1]>
+<wailing,[1, 1]>
+<waistcoat,[2, 1]>
+<wait,[4, 3, 2, 2, 1, 4, 2, 8]>
+<waited,[1, 2, 1, 1, 1, 2, 2]>
+<waiter,[1]>
+<waiting,[2, 2, 1, 3, 1, 1, 1, 1, 1]>
+<waits,[1, 1]>
+<wake,[1]>
+<waked,[1]>
+<wakes,[1, 2]>
+<waking,[1]>
+<wal,[1]>
+<walk,[7, 4, 2, 1, 2, 1, 4, 1]>
+<walked,[1, 1, 3, 2, 5, 2, 3, 3]>
+<walking,[2, 1, 2, 1, 2, 1, 1]>
+<walks,[1, 1, 1, 1, 2]>
+<wall,[1, 1, 1, 1]>
+<walls,[1, 2, 1]>
+<waltz,[1]>
+<wan,[1]>
+<wander,[1]>
+<wanderings,[1]>
+<wane,[1]>
+<want,[9, 5, 2, 5, 10, 10, 9, 4, 8, 6]>
+<wanted,[7, 2, 3, 5, 3, 3, 2, 6, 3]>
+<wanting,[1, 1, 2]>
+<wants,[1, 1, 1, 3, 1, 1]>
+<war,[1, 2, 1]>
+<warbled,[1, 1]>
+<warbler,[1]>
+<ward,[1]>
+<wardrobe,[1, 2]>
+<wardrobes,[1]>
+<warehouse,[1]>
+<warerooms,[1]>
+<warm,[3, 3, 2, 1, 4, 1, 2, 2]>
+<warmed,[1, 1]>
+<warming,[3]>
+<warmly,[1, 1]>
+<warmth,[1, 1]>
+<warn,[1, 1, 1]>
+<warned,[1]>
+<warning,[1, 2, 2, 1]>
+<warningly,[1, 1]>
+<warnings,[1]>
+<warranties,[1]>
+<was,[91, 125, 62, 110, 98, 94, 81, 109, 101, 97]>
+<wash,[1, 4, 4, 1]>
+<washing,[1, 1, 1, 1]>
+<wasn,[2, 1, 2, 1, 1, 4, 3]>
+<waste,[1, 2, 1]>
+<wasted,[1, 1, 1]>
+<watch,[7, 1, 1, 5, 2, 3, 1, 3, 1]>
+<watched,[4, 2, 3, 1, 5, 1]>
+<watches,[1]>
+<watching,[1, 1, 1, 1, 3, 5, 2]>
+<water,[1, 1, 2, 4, 2, 2]>
+<waters,[1]>
+<wave,[1, 1, 1]>
+<waved,[1, 1, 1, 1, 3, 1]>
+<waving,[1, 1, 1, 1, 1]>
+<wavy,[1]>
+<wax,[2]>
+<way,[10, 15, 9, 15, 6, 4, 13, 12, 13, 19]>
+<ways,[2, 2, 1, 3, 1, 1, 2, 1]>
+<we,[25, 20, 17, 12, 17, 30, 41, 24, 21, 17]>
+<weak,[1, 1, 2, 1]>
+<weakened,[1]>
+<weakness,[2]>
+<weal,[1]>
+<wealth,[1, 1, 1]>
+<wear,[4, 1, 5, 3, 1, 4]>
+<wearer,[1]>
+<wearied,[1]>
+<wearin,[2]>
+<weariness,[1]>
+<wearing,[1, 1, 1, 1]>
+<wears,[1]>
+<weary,[1]>
+<weather,[2, 1, 1, 1, 2, 1, 1, 2]>
+<weathercock,[1, 1]>
+<web,[1, 1]>
+<website,[4]>
+<wedding,[2, 1, 1, 2]>
+<weds,[1]>
+<week,[1, 3, 4, 7, 1, 7]>
+<weekly,[2]>
+<weeks,[1, 1, 1, 1]>
+<weep,[2, 1, 2, 2]>
+<weeping,[1]>
+<weigh,[1, 1]>
+<weighed,[1, 1]>
+<weight,[1]>
+<welcome,[4, 3, 3, 1, 1, 1]>
+<welcomed,[1, 1]>
+<welcomes,[1]>
+<well,[16, 12, 11, 12, 18, 14, 9, 25, 15, 13]>
+<went,[8, 21, 5, 13, 17, 16, 20, 21, 10, 12]>
+<wept,[1, 1]>
+<were,[22, 42, 19, 25, 35, 21, 20, 23, 17, 21]>
+<weren,[1, 1]>
+<west,[1]>
+<wet,[1, 2, 2, 1, 1, 2, 1]>
+<what,[13, 20, 11, 18, 12, 9, 19, 16, 7, 22]>
+<whatever,[1, 1, 1, 1, 1, 1, 1]>
+<whatsoever,[1]>
+<wheat,[1]>
+<wheedle,[1]>
+<wheedled,[1, 1]>
+<wheedler,[1]>
+<wheedlesome,[1]>
+<wheelbarrow,[1]>
+<wheels,[2]>
+<when,[34, 34, 20, 23, 30, 21, 27, 30, 41, 32]>
+<whenever,[2, 2, 1, 1, 1, 1, 1, 1]>
+<where,[8, 10, 8, 9, 4, 7, 9, 5, 6, 4]>
+<whereat,[1]>
+<wherein,[1]>
+<wherry,[1]>
+<whether,[1, 2, 3, 3, 2]>
+<which,[28, 25, 26, 28, 37, 29, 28, 21, 43, 35]>
+<whichever,[1]>
+<whiffle,[1]>
+<while,[10, 5, 8, 7, 5, 16, 12, 6, 19, 6]>
+<whim,[1]>
+<whine,[1]>
+<whip,[1]>
+<whipped,[1]>
+<whirlpool,[1]>
+<whisked,[1, 1, 1, 1, 2]>
+<whiskers,[1]>
+<whisking,[1]>
+<whisper,[1, 1, 1, 2]>
+<whispered,[1, 1, 1, 1, 5, 1, 2, 3, 4, 1]>
+<whispering,[1, 1, 1, 1, 2]>
+<whispers,[1, 1]>
+<whistle,[1, 1]>
+<whistles,[1]>
+<whistling,[1]>
+<white,[1, 1, 2, 8, 3, 5, 2, 2, 3]>
+<whither,[1]>
+<who,[27, 22, 25, 29, 26, 28, 33, 21, 17, 21]>
+<whoever,[1]>
+<whole,[4, 3, 4, 1, 6, 2, 2, 1, 5]>
+<wholesale,[2]>
+<wholesome,[1, 1, 1]>
+<whom,[2, 1, 2, 2, 1, 2, 2, 2, 3]>
+<whoop,[1]>
+<whose,[2, 2, 1, 1, 5, 5, 1, 1]>
+<why,[5, 2, 6, 3, 2, 2, 2, 4]>
+<wicked,[2, 3, 2, 2, 1]>
+<wicket,[3]>
+<wickets,[1, 1]>
+<wide,[1, 1, 2, 2, 1]>
+<wider,[1]>
+<widespread,[1]>
+<widest,[2]>
+<wield,[1]>
+<wife,[5, 1, 1, 1, 1]>
+<wig,[1, 1, 1]>
+<wiggle,[1]>
+<wild,[1, 1, 1, 2, 3, 1, 3]>
+<wilderness,[1, 2]>
+<wildly,[1]>
+<wiles,[1]>
+<wilful,[1]>
+<will,[13, 12, 24, 25, 29, 34, 19, 31, 37, 31]>
+<willful,[1]>
+<willing,[2, 1]>
+<willingly,[1]>
+<willows,[1]>
+<wills,[1, 1]>
+<wilt,[1]>
+<win,[1, 2, 1]>
+<wind,[2, 2, 1, 1, 1, 3, 3, 1]>
+<winding,[1, 1]>
+<windmill,[1]>
+<window,[3, 7, 3, 1, 1, 6, 7, 3, 3]>
+<windows,[2, 1]>
+<winds,[1]>
+<wine,[1, 4, 1]>
+<winey,[1]>
+<wings,[1]>
+<wink,[1]>
+<winked,[1]>
+<winking,[1, 1]>
+<winning,[1]>
+<winter,[2, 1, 1, 1, 2, 1]>
+<wintry,[1, 1, 2]>
+<wipe,[1, 1]>
+<wiped,[2, 1]>
+<wiping,[1]>
+<wisdom,[2, 1]>
+<wise,[2, 1, 1, 2, 1, 1, 1, 1]>
+<wisely,[1, 1, 1, 1]>
+<wiser,[1]>
+<wisest,[1, 1]>
+<wish,[5, 8, 4, 8, 7, 6, 11, 7, 10, 5]>
+<wished,[1, 1, 1, 2, 2, 4]>
+<wishes,[1, 4, 2, 1]>
+<wishing,[1, 1, 3, 1]>
+<wistful,[1, 2]>
+<wistfully,[1, 1, 1, 1, 1, 2]>
+<wit,[1]>
+<witch,[1]>
+<with,[119, 82, 92, 75, 76, 82, 80, 87, 94, 76]>
+<withdraw,[1]>
+<withdrawing,[1, 1]>
+<withdrawn,[1]>
+<withering,[1]>
+<within,[5, 1, 1, 1]>
+<without,[5, 8, 9, 6, 6, 3, 8, 5, 3, 5]>
+<witness,[1, 1]>
+<witnessed,[1]>
+<wits,[1, 1, 1, 2, 2]>
+<witty,[1, 1]>
+<wives,[2]>
+<woe,[1, 1]>
+<woes,[1]>
+<woke,[1, 1, 1, 2, 1]>
+<woman,[4, 3, 6, 2, 2, 1, 4, 2, 3, 1]>
+<womanly,[1, 1]>
+<women,[5, 1, 1, 1, 1, 2, 1]>
+<womenfolk,[1]>
+<won,[7, 4, 3, 7, 10, 7, 10, 16, 7, 20]>
+<wonder,[1, 2, 1, 1, 1, 2]>
+<wondered,[3, 1]>
+<wonderful,[2, 1, 1]>
+<wonderfully,[1]>
+<wondering,[1, 2, 1, 1, 1, 1, 2, 2]>
+<wonders,[1]>
+<woo,[1]>
+<wood,[1, 1, 2]>
+<wooden,[1]>
+<woods,[1]>
+<wooing,[1, 1]>
+<wool,[1]>
+<word,[4, 1, 2, 6, 6, 6, 4, 3, 2, 13]>
+<words,[6, 6, 3, 4, 8, 1, 4, 5, 8, 4]>
+<wore,[1, 3, 2, 1, 2, 2, 3, 2]>
+<work,[3, 7, 51, 3, 6, 15, 10, 12, 3, 5]>
+<workaday,[1]>
+<workbasket,[1]>
+<worked,[1, 3, 1, 1, 1, 1, 1, 1]>
+<workers,[1, 1]>
+<working,[1, 1, 2, 1, 1]>
+<works,[32, 1, 1, 1, 1, 2]>
+<worktable,[1]>
+<world,[8, 5, 6, 4, 5, 9, 3, 6, 1]>
+<worldly,[1, 1, 2]>
+<worm,[1]>
+<worn,[1, 4, 2, 1, 1, 2, 5]>
+<worried,[1, 1, 4, 4]>
+<worries,[2, 1]>
+<worry,[1, 2, 2, 2, 1, 1]>
+<worrying,[1]>
+<worse,[1, 2, 3, 1]>
+<worship,[2]>
+<worshipers,[1]>
+<worst,[1, 2, 2]>
+<worsted,[1, 1]>
+<worth,[1, 1, 2, 1, 1, 1, 1]>
+<worthy,[1, 2, 2, 1, 1, 1]>
+<would,[26, 22, 15, 20, 14, 21, 13, 20, 27, 20]>
+<wouldn,[4, 1, 2, 7, 3, 8, 4, 2, 9]>
+<wound,[4, 1]>
+<wounded,[1]>
+<wrapper,[2]>
+<wrapping,[1, 1]>
+<wrath,[1]>
+<wrathful,[1]>
+<wrathfully,[1]>
+<wreath,[1]>
+<wreaths,[1]>
+<wreck,[1]>
+<wrench,[1]>
+<wrenched,[1]>
+<wretch,[1, 1]>
+<wretches,[1]>
+<wring,[1, 1]>
+<wrinkled,[1]>
+<wrinkles,[1]>
+<wristbands,[1, 1]>
+<writ,[1]>
+<write,[1, 2, 5, 2, 3, 2, 2]>
+<writes,[1]>
+<writing,[3, 1, 1, 2, 1, 3, 1, 1]>
+<written,[4, 1, 1, 1, 4]>
+<wrong,[2, 3, 2, 1, 2, 1, 1, 1, 3]>
+<wrongdoing,[1]>
+<wrongs,[1, 1]>
+<wrote,[2, 1, 1, 1, 3, 3]>
+<wrought,[1]>
+<wrung,[1]>
+<wry,[1]>
+<www,[8]>
+<yards,[1]>
+<yarn,[1]>
+<yawn,[1]>
+<yawning,[1, 1]>
+<year,[1, 5, 2, 1, 1, 3, 1, 5]>
+<yearly,[1]>
+<yearning,[1]>
+<years,[2, 2, 3, 3, 4, 2, 4, 2, 3, 1]>
+<yellow,[1, 3, 1, 2, 1, 1]>
+<yellowish,[1]>
+<yelped,[1]>
+<yer,[2]>
+<yes,[3, 1, 1, 2, 3, 2]>
+<yesterday,[2, 1, 1, 2]>
+<yet,[5, 6, 2, 5, 11, 6, 2, 6, 8]>
+<yielded,[1, 1, 1]>
+<you,[94, 111, 100, 118, 125, 65, 150, 125, 81, 111]>
+<young,[14, 8, 5, 14, 16, 11, 16, 7, 10, 13]>
+<younger,[1, 1, 3, 1]>
+<your,[20, 19, 20, 17, 28, 28, 29, 20, 26, 27]>
+<yours,[1, 1, 3, 4, 1, 2]>
+<yourself,[2, 2, 1, 3, 2, 1, 4, 1, 2]>
+<yourselves,[1, 1]>
+<youth,[2, 3, 3, 1, 1, 2, 1, 1, 2]>
+<youthful,[1]>
+<youths,[1]>
+<zeal,[1]>
+<zigzagging,[1]>
